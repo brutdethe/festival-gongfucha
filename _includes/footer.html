@@ -1,21 +1,10 @@
 <footer class="page-footer">
   <div class="wrapper">
     {% if page.i18n-key == 'home' or page.i18n-key == 'contact' %}
-    {% include thym.html %}
+    {% include team.html %}
     <hr>
     {% endif %}
-    <div class="grid-3">
-      <section>
-        <h2 id="footerTitle1" class="text-lg">{% t Épisodes précédents %}</h2>
-        <nav aria-labelledby="footerTitle1">
-          <ul>
-            {% for edition in site.data.editions %}
-            <li><a href="https://festival.brutdethé.fr/{{edition.year}}">{{edition.year}} {% t à %} {{edition.town}}</a>
-            </li>
-            {% endfor%}
-          </ul>
-        </nav>
-      </section>
+    <div class="grid-2">
       <section>
         <h2 id="footerTitle2" class="text-lg">{% t Pour en savoir plus %}</h2>
         <nav aria-labelledby="footerTitle2">
@@ -57,7 +46,6 @@
       </section>
     </div>
     <hr>
-    <p class="text-center">{% t Contribué sur %} <a href="https://github.com/sudweb">github</a>
-      {% t et gracieusement hébergé par %} <a href="https://alwaysdata.com">alwaysdata</a>.</p>
+    <p class="text-center">{% t Contribué sur %} <a href="https://github.com/sudweb">github</a></a>.</p>
   </div>
 </footer>

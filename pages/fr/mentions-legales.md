@@ -13,34 +13,30 @@ redirect_from:
 
 ## Éditeur
 
-Ce site web est édité par l’association Sud-Web :
+Ce site web est édité par l’association Brut de Thé :
 
 * association à but non lucratif de type loi 1901;
-* déclarée le 30/11/2011, auprès de la préfecture d’Avignon;
-* sous le numéro W842002749;
-* dont le siège social est situé : 32, route de la Grange, 24750 Champcevinel
+* déclarée le 30 mars 2021, auprès de la préfecture de Paris;
+* sous le numéro W751260414;
+* dont le siège social est situé : 6, rue D'Armaillé, 75017 Paris
 
 ## Directeur de la publication
 
-Le directeur de la publication est Boris Schapira, président de l’association Sud-Web.
+Le directeur de la publication est [Violaine Andrieux](violaine@brutdethe.fr).
 
 ## Hébergeur
 
-Ce site web est hébergé par la société alwaysdata sise au 62 rue Tiquetonne, 75002 Paris.
+Ce site web est hébergé par la société [github](https://www.github.com).
 
 ## Liens
 
 La création de liens avec le site est libre.
 
-## Droits de reproduction
-
-Toute copie d’un contenu d’une des pages du site doit avoir obtenu l’autorisation expresse de l'association Sud-Web.
-
 ## Données nominatives
 
 Les informations que vous pouvez donner au travers des différents formulaires nous sont destinées exclusivement.
 
-Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : contact à festival.brutdethé.fr
+Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : coucou à brutdethé.fr
 
 </div>
 </section>

@@ -60,9 +60,9 @@ Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bie
 
 Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
 
-* Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et&#8239;/&#8239;ou à la Thym.
+* Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et&#8239;/&#8239;ou à l'équipe.
 * Vous n’êtes pas à l’aise et&#8239;/&#8239;ou vous n’avez pas l’énergie :
-    * vous pouvez en parler à une personne présente, en qui vous avez confiance, pour que celle-ci contacte la Thym ;
+    * vous pouvez en parler à une personne présente, en qui vous avez confiance, pour que celle-ci contacte l'équipe ;
     * ou appellez un·e ami·e de confiance ;
     * ou encore vous rendre dans un endroit et&#8239;/&#8239;ou auprès de personnes auprès desquelles vous vous sentez bien.
 
@@ -80,7 +80,7 @@ Les options sont multiples et dépendent souvent du contexte et des personnes en
     * l’interpeller ;
     * vérifier qu’elle est disposée à échanger au sujet de la situation ;
         * si oui, lui demander de s’expliquer sur la situation ;
-        * sinon, lui proposer d’en reparler plus tard et&#8239;/&#8239;ou d’en faire part à la Thym.
+        * sinon, lui proposer d’en reparler plus tard et&#8239;/&#8239;ou d’en faire part à l'équipe.
 
 Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode stricte&#8239;<sup><a href="#note2" id="note2-source">2</a></sup>.
 

@@ -13,4 +13,4 @@
 - 
 - 
 
-@sudweb/thym
+@sudweb/team
