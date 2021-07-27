@@ -5,7 +5,7 @@
 
 Site internet du cycle de conférences annuel Festi`Thé, dont la 8e édition a eu lieu à Anduze les 25 et 26 mai 2018.
 
-[https://sudweb.fr/](https://sudweb.fr/)
+[https://festival.brutdethé.fr/](https://festival.brutdethé.fr/)
 
 ## Pré-requis
 

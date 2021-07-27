@@ -4,11 +4,11 @@ title: Festi`Thé
 tagline: les 25 et 26 mai 2018 à Anduze
 description: Deux journées pour faire le plein d'inspiration entre super-héros du web.
 logo: /assets/images/twittercard.png
-url: https://sudweb.fr
+url: https://festival.brutdethé.fr
 repository: sudweb/2018
 destination: _site/2018
 locale: fr_FR
-logo: https://sudweb.fr/2018/assets/images/social/sudweb-logo.jpg
+logo: https://festival.brutdethé.fr/2018/assets/images/social/sudweb-logo.jpg
 lazyload:
   placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
 
