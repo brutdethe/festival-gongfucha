@@ -100,7 +100,7 @@ En ce qui concerne la personne à l’origine de la situation, l’exclusion est
 
 <sup id="note1">1</sup>&#8239;: par <span lang="en">safe</span>, nous désignons un climat de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications. <a href="#note1-source">↵</a>
 
-<sup id="note2">2</sup>&#8239;: comme le fait remarquer [David](https://larlet.fr/david/stream/2018/01/12/), nous rappelons à toutes fins utiles qu’il existe en France un cadre légal de [lutte contre les discriminations](https://www.legifrance.gouv.fr/affichSarde.do?reprise=true&page=1&idSarde=SARDOBJT000007118441). <a href="#note2-source">↵</a>
+<sup id="note2">2</sup>&#8239;: comme le fait remarquer [David](https://larlet.fr/david/stream/01/12/), nous rappelons à toutes fins utiles qu’il existe en France un cadre légal de [lutte contre les discriminations](https://www.legifrance.gouv.fr/affichSarde.do?reprise=true&page=1&idSarde=SARDOBJT000007118441). <a href="#note2-source">↵</a>
 
 </div>
 </section>
