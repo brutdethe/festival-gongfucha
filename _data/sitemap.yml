@@ -18,7 +18,7 @@
   value: billetterie
   in_nav: false
   in_footer: false
-- name: Venir à Anduze
+- name: Venir à Maulévrier
   type: page
   value: venir-anduze
   in_nav: true

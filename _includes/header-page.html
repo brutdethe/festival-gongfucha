@@ -4,21 +4,21 @@
       <a href="{{ page.baseurl | default:site.baseurl }}/{{ include.link.anchor }}" title="{% t Accueil %}">
         <svg width="1em" class="page-main-title-logo" role="img" aria-labelledby="headerLogoTitle"
           viewBox="0 6.75 38.5 10.75">
-          <title id="headerLogoTitle">Sud Web</title>
+          <title id="headerLogoTitle">Festi`thé</title>
           <defs>
             <pattern id="pic" patternUnits="userSpaceOnUse" width="38.5" height="20">
               <image xlink:href="{{ "/assets/images/logo-bg.jpg" | relative_url }}" width="38.5" height="20" />
             </pattern>
           </defs>
-          <text y="1em">Sud Web</text>
+          <text y="1em">Festi ' thé</text>
         </svg>
       </a>
       <p class="page-main-title-baseline">
         {% t Les %} <time datetime="2022-05-25">25</time> {% t et %} <time
-          datetime="2022-05-26">{% t 26 mai 2022 %}</time> {% t à Anduze %}
+          datetime="2022-05-26">{% t 26 mai 2022 %}</time> {% t à Maulévrier %}
       </p>
     </div>
   </div>
 </header>
 
-{% unless page.hide_banner %}{% include banners/bambouseraie.html locale=page.locale page_top=true %}{% endunless %}
+{% unless page.hide_banner %}{% include banners/parc-oriental.html locale=page.locale page_top=true %}{% endunless %}
