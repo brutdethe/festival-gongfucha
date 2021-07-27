@@ -1,5 +1,5 @@
 ---
-title: Sud Web Manifesto
+title: Festi`Thé Manifesto
 description: ""
 permalink: /en/manifesto/
 ---

@@ -1,9 +1,9 @@
-# Sud Web 2018
+# Festi`Thé 2018
 
 [![Build Status](https://travis-ci.org/sudweb/2018.svg?branch=master)](https://travis-ci.org/sudweb/2018)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sud-web/sud-web)
 
-Site internet du cycle de conférences annuel Sud Web, dont la 8e édition a eu lieu à Anduze les 25 et 26 mai 2018.
+Site internet du cycle de conférences annuel Festi`Thé, dont la 8e édition a eu lieu à Anduze les 25 et 26 mai 2018.
 
 [https://sudweb.fr/](https://sudweb.fr/)
 

@@ -12,7 +12,7 @@ permalink: /en/code-of-conduct/
 
 > What's not important to you may be important to others.
 
-At Sud Web, we assume that people are sensible and thoughtful, and we don't try to tell them what to do, especially since in the french conference landscape, Sud Web appears to be among the most welcoming. However, organizing this event in a safe&#8239;<sup><a href="#note1" id="note1-source">1</a></sup> environment seems important to us.
+At Festi`Thé, we assume that people are sensible and thoughtful, and we don't try to tell them what to do, especially since in the french conference landscape, Festi`Thé appears to be among the most welcoming. However, organizing this event in a safe&#8239;<sup><a href="#note1" id="note1-source">1</a></sup> environment seems important to us.
 
 We have therefore decided to propose guidelines that will make everyone feel comfortable.
 

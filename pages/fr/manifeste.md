@@ -1,5 +1,5 @@
 ---
-title: Le Manifeste de Sud Web
+title: Le Manifeste de Festi`Thé
 description: ""
 permalink: /manifeste/
 ---
