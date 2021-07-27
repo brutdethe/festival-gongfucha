@@ -1,0 +1,72 @@
+- name: Accueil
+  type: root_anchor
+  value: ""
+  in_nav: true
+  in_footer: false
+- name: Appel à sujets
+  type: page
+  value: appel-a-sujets
+  in_nav: false
+  in_footer: false
+- name: Programme
+  type: page
+  value: programme
+  in_nav: true
+  in_footer: false
+- name: Billetterie
+  type: page
+  value: billetterie
+  in_nav: false
+  in_footer: false
+- name: Venir à Anduze
+  type: page
+  value: venir-anduze
+  in_nav: true
+  in_footer: true
+- name: Infos pratiques
+  type: page
+  value: infos-pratiques
+  fr_only: true
+  in_nav: true
+  in_footer: true
+- name: Code de Conduite
+  type: page
+  value: code-de-conduite
+  in_nav: false
+  in_footer: true
+- name: Manifeste
+  type: page
+  value: manifeste
+  in_nav: false
+  in_footer: true
+- name: Aider Sud Web
+  type: page
+  value: financer
+  in_nav: false
+  in_footer: true
+- name: Elles et ils nous soutiennent
+  type: page
+  value: merci
+  fr_only: true
+  in_nav: false
+  in_footer: true
+- name: Contact
+  type: translate
+  value: https://sudweb.fr/blog/contact/
+  in_nav: true
+  in_footer: true
+- name: Mentions légales
+  type: page
+  value: mentions-legales
+  in_nav: false
+  in_footer: true
+- name: Témoignages
+  type: translate
+  value: https://sudweb.fr/blog/temoignages/
+  in_nav: false
+  in_footer: true
+- name: Blog
+  type: url
+  value: https://sudweb.fr/blog/
+  in_nav: false
+  in_footer: true

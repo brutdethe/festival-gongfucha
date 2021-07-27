@@ -1,0 +1,21 @@
+<a role="button" href="#" class="button-reset nav-trigger" id="navTrigger" title="Navigation"
+  aria-controls="navigation" aria-expanded="false"
+  data-toggle-class="is-active" data-toggle-target-parent="#navigation" data-toggle-escape-key>
+  <span class="nav-trigger-button">
+    <span>navi</span><span>gation</span>
+  </span>
+</a>
+
+<nav class="page-nav" id="navigation" aria-labelledby="navTrigger">
+  <ul class="page-nav-inner">
+    {% assign nav_links = site.data.sitemap | where: 'in_nav', true %}
+    {% for link in nav_links %}
+      <li>{% include link.html link=link %}</li>
+    {% endfor%}
+    {% if page.translation %}
+      {% assign hreflang = page.translation.locale | slice: 0,2 %}
+      <li><a hreflang="{{ hreflang }}" href="{{ page.translation.url | relative_url }}"><small>{% t (see in english) %}</small></a></li>
+    {% endif %}
+
+  </ul>
+</nav>

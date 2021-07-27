@@ -1,0 +1,96 @@
+# Site configuration
+
+title: Sud Web
+tagline: les 25 et 26 mai 2018 à Anduze
+description: Deux journées pour faire le plein d'inspiration entre super-héros du web.
+logo: /assets/images/twittercard.png
+url: https://sudweb.fr
+repository: sudweb/2018
+destination: _site/2018
+locale: fr_FR
+logo: https://sudweb.fr/2018/assets/images/social/sudweb-logo.jpg
+lazyload:
+  placeholder: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+
+# Est-ce qu'on vend des places à tarif plein, est-ce qu'on propose une liste d'attente ou les deux ?
+tickets:
+  selling: false
+  waiting-list: false
+
+# Compression du code HTML en production
+compress_html:
+  ignore:
+    envs:
+      - 'development'
+
+## SEO
+
+robots: index,follow
+
+# Services configuration
+
+weezevent:
+    mini-site-url: https://www.weezevent.com/sudweb-2018
+
+newsletter:
+  url: http://sudweb.us2.list-manage.com/subscribe?u=af19b58cf514c01eca3f7652e&id=b579f5b507
+
+# Jekyll configuration
+
+timezone: Europe/Paris
+sass:
+    sass_dir: _sass
+    style: compressed
+
+collections:
+  talks:
+    output: false
+    order: date asc
+    permalink: /talks/:path/
+    sitemap: false
+
+defaults:
+  -
+    scope:
+      path: "pages"
+      type: pages
+    values:
+      locale: fr_FR
+      layout: default
+  -
+    scope:
+      path: "pages/en"
+      type: pages
+    values:
+      baseurl: "/2018/en"
+      locale: en_US
+
+microtypo:
+  median: true
+
+include:
+  - _headers
+
+exclude:
+  - .editorconfig
+  - .gitattributes
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - autoprefixer.yml
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - script
+  - vendor
+  - gems
+  - tmp
+  - LICENSE
+  - README.md
+  - notes-integration.md
+  - script
+  - "Rakefile"
+  - "gulpfile.js"
+  - "node_modules"
+  - "package.json"
+  - "package-lock.json"

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="{{ lang }}" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+
+        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/oraqle_script-webfont.woff2?date=20180119" | relative_url }}">
+        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-thin-webfont.woff2" | relative_url }}">
+        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-light-webfont.woff2" | relative_url }}">
+        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-lightitalic-webfont.woff2" | relative_url }}">
+        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-regular-webfont.woff2" | relative_url }}">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="robots" content="{{ page.robots |default: site.robots }}">
+
+        <title>{{ page.title }} - {{ site.title }}</title>
+        <meta name="description" content="{{ page.description }}">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png?date=20180123">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png">
+        <link rel="manifest" href="{{ site.baseurl }}/assets/favicons/manifest.json">
+        <link rel="mask-icon" href="{{ site.baseurl }}/assets/favicons/safari-pinned-tab.svg" color="#93ac3d">
+        <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico?date=20180119">
+        <meta name="msapplication-config" content="{{ site.baseurl }}/assets/favicons/browserconfig.xml">
+        <meta name="theme-color" content="#c8d891">
+
+        <link rel="author" href="{{ site.baseurl }}/humans.txt">
+
+        <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/social/og-image-{{ lang }}.jpg">
+        <meta property="og:image:height" content="488">
+        <meta property="og:image:width" content="932">
+        <meta property="og:description" content="{{ page.description }}">
+        <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ page.url | absolute_url }}">
+        <meta property="og:locale" content="{{ page.locale }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@SudWeb">
+        <meta name="twitter:creator" content="@SudWeb">
+
+        {% if page.translation %}
+            {% assign lang = page.translation.locale | slice: 0,2 %}
+            <link rel="alternate" hreflang="{{ lang }}" href="{{ page.translation.url | relative_url }}"/>
+        {% endif %}
+
+        <link rel="stylesheet" href="{{ "/assets/css/main.css?160518" | relative_url }}">
+
+    </head>
