@@ -7,6 +7,7 @@ logo: /assets/images/twittercard.png
 url: https://festival.brutdethé.fr
 repository: brutdethe/teaconf
 destination: _site
+robots: noindex,nofollow
 locale: fr_FR
 logo: https://festival.brutdethé.fr/assets/images/social/sudweb-logo.jpg
 lazyload:
