@@ -13,20 +13,29 @@ redirect_from:
 
 ## Éditeur
 
-Ce site web est édité par l’association Brut de Thé :
+Ce site web est co-édité par Jérôme Roussel, Jé le Potier :
+
+Entreprise répertoriée sous le numéro d’immatriculation 451 185 953 auprès du du RM de Moulin et dont le siège social est domicilié au 15, rue de la perception, 03300 Cusset
+
+et par l'association : Brut de Thé : 
 
 * association à but non lucratif de type loi 1901;
 * déclarée le 30 mars 2021, auprès de la préfecture de Paris;
 * sous le numéro W751260414;
 * dont le siège social est situé : 6, rue D'Armaillé, 75017 Paris
 
+
 ## Directeur de la publication
 
-Le directeur de la publication est [Violaine Andrieux](violaine@brutdethe.fr).
+La directrice de la publication est [Violaine Andrieux](violaine@brutdethe.fr).
 
 ## Hébergeur
 
 Ce site web est hébergé par la société [github](https://www.github.com).
+
+## Paiements
+
+Les paiements sont effectués via [Stripe](https://stripe.com) : [Mentions légales](https://stripe.com/fr/legal)
 
 ## Liens
 

@@ -20,7 +20,7 @@
   in_footer: false
 - name: Venir à Maulévrier
   type: page
-  value: venir-anduze
+  value: venir-maulevrier
   in_nav: true
   in_footer: true
 - name: Infos pratiques
@@ -52,21 +52,11 @@
   in_footer: true
 - name: Contact
   type: translate
-  value: https://festival.brutdethé.fr/blog/contact/
+  value: https://festival.brutdethé.fr/contact/
   in_nav: true
   in_footer: true
 - name: Mentions légales
   type: page
   value: mentions-legales
-  in_nav: false
-  in_footer: true
-- name: Témoignages
-  type: translate
-  value: https://festival.brutdethé.fr/blog/temoignages/
-  in_nav: false
-  in_footer: true
-- name: Blog
-  type: url
-  value: https://festival.brutdethé.fr/blog/
   in_nav: false
   in_footer: true

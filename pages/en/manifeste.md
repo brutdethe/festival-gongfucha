@@ -30,5 +30,3 @@ These are the values we share and convey:
 
 </div>
 </section>
-
-{% include banners/forum.html locale=page.locale %}
