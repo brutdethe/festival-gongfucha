@@ -1,35 +1,19 @@
-- firstname: Alexandra
-  lastname: Janin
-  slug: alexandra-janin
-  twitter: lellexindo
-  url: http://lellex.fr
+- firstname: Violaine
+  lastname: Andrieux
+  slug: violaine-andrieux
+  url: https://brutdethé.fr
 
-- firstname: Bertrand
-  lastname: Keller
-  slug: bertrand-keller
-  twitter: bertrandkeller
-  url: https://bertrandkeller.info/
+- firstname: Stéphane
+  lastname: Langlois
+  slug: stephane-langlois
+  url: https://brutdethé.fr
 
-- firstname: Boris
-  lastname: Schapira
-  slug: boris-schapira
-  twitter: borisschapira
-  url: https://borisschapira.com/
+- firstname: Thaïs
+  lastname: Erbs
+  slug: thais-erbs
+  url: https://brutdethé.fr
 
-- firstname: Matthieu
-  lastname: Bué
-  slug: matthieu-bue
-  twitter: twikito
-  url: https://twikito.com/
-
-- firstname: Érick
-  lastname: Gardin
-  slug: erick-gardin
-  twitter: newick
-  url: http://entre-quote.com/
-
-- firstname: Thomas
-  lastname: Gasc
-  slug: thomas-gasc
-  twitter: methylbro
-  url: https://methylbro.fr/
+- firstname: Jé
+  lastname: Le Potier
+  slug: je-le-potier
+  url: https://www.theiere-tasse.com
