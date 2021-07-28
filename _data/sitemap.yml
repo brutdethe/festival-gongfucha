@@ -20,7 +20,7 @@
   in_footer: false
 - name: Venir à Maulévrier
   type: page
-  value: venir-anduze
+  value: venir-maulevrier
   in_nav: true
   in_footer: true
 - name: Infos pratiques
