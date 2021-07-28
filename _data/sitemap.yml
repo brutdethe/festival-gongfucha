@@ -60,8 +60,3 @@
   value: mentions-legales
   in_nav: false
   in_footer: true
-- name: Témoignages
-  type: translate
-  value: https://festival.brutdethé.fr/temoignages/
-  in_nav: false
-  in_footer: true

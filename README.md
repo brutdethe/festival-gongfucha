@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/sudweb.svg?branch=master)](https://travis-ci.org/sudweb)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sud-web/sud-web)
 
-Site internet du cycle de conférences annuel Festi`Thé, dont la 8e édition a eu lieu à Maulévrier les 25 et 26 mai 2022.
+Site internet du cycle de conférences annuel Festi`Thé, dont la 1ère édition qui aura lieu à Maulévrier du 27 au 29 mai 2022.
 
 [https://festival.brutdethé.fr/](https://festival.brutdethé.fr/)
 

@@ -19,8 +19,6 @@ We have therefore decided to propose guidelines that will make everyone feel com
 </div>
 </section>
 
-{% include banners/informelle.html locale=page.locale %}
-
 <section class="section">
 <div class="wrapper" markdown="1">
 
