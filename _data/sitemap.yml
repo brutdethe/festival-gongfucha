@@ -52,7 +52,7 @@
   in_footer: true
 - name: Contact
   type: translate
-  value: https://festival.brutdethé.fr/blog/contact/
+  value: https://festival.brutdethé.fr/contact/
   in_nav: true
   in_footer: true
 - name: Mentions légales
@@ -62,11 +62,6 @@
   in_footer: true
 - name: Témoignages
   type: translate
-  value: https://festival.brutdethé.fr/blog/temoignages/
-  in_nav: false
-  in_footer: true
-- name: Blog
-  type: url
-  value: https://festival.brutdethé.fr/blog/
+  value: https://festival.brutdethé.fr/temoignages/
   in_nav: false
   in_footer: true
