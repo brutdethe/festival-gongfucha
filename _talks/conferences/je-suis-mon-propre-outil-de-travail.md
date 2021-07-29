@@ -1,7 +1,7 @@
 ---
 display-order: 14
 speaker:
-  - clementine
+  - charly-vilain
 fr_FR:
   title: "Je suis mon propre outil de travail"
   description: >-
