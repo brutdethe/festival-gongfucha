@@ -1,9 +1,9 @@
 ---
 display-order: 10
 speaker:
-  - laurence
+  - thais-erbs
 fr_FR:
-  title: "Tricot &amp; programmation"
+  title: "L'infusion parfaite"
   description: >-
     <p>Vous savez programmer ? Vous savez probablement (presque) tricoter&#8239;* !</p>
     <p>Un langage, des boucles, des patterns, une communauté avec des projets open source, ça ne vous rappelle rien ? La logique de programmation et du tricot ne sont pas si différentes !</p>
