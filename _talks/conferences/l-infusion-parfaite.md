@@ -5,10 +5,5 @@ speaker:
 fr_FR:
   title: "L'infusion parfaite"
   description: >-
-    <p>Vous savez programmer ? Vous savez probablement (presque) tricoter&#8239;* !</p>
-    <p>Un langage, des boucles, des patterns, une communauté avec des projets open source, ça ne vous rappelle rien ? La logique de programmation et du tricot ne sont pas si différentes !</p>
-    <p><small>(*) offre soumise à conditions</small></p>
-transcript: https://weblog.redisdead.net/main/post/Tricot-et-programmation
-slides: https://docs.google.com/presentation/d/1siYVSCJd9MzmUg3yTUxre7KEarQHjQ46rhsN5AA9if4/edit
-vimeo_id: 329347268
+    Vous voulez savoir comment infuser du thé sans équipement particulier ? Tout ce dont vous avez besoin pour commencer, c'est d'un bol et de quelques feuilles de qualité. À partir de là, vous pourrez ajouter d'autres ustensiles à votre collection et développer vos compétences en matière de Gong Fu Cha. Thaïs vous présente une conférence atelier qui reprend l'ensemble des principes et techniques d'infusion.
 ---
