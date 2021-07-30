@@ -5,9 +5,5 @@ speaker:
 fr_FR:
   title: "Histoire de thés entre ici et Taïwan"
   description: >-
-    <p>J'ai 15 ans de métier. J'ai de l'expérience.<br>
-    Je l'ai transmise. Écrit plus de 50 articles.<br>
-    Mais je ne sais pas tout. Vraiment pas.<br>
-    Mes connaissances vieillissent. Moi aussi.</p>
-    <p>Les débutants et débutantes ont besoin de mentors. Les personnes &laquo;&nbsp;expérimentées&nbsp;&raquo; aussi, car en fait… on ne l’est pas du tout. On est même des personnes toutes cruellement débutantes. Et même de plus en plus débutantes.</p>
+    Taïwan a été le pionnier de l'innovation dans les méthodes de traitement du thé wulong, passant de la méthode traditionnelle à forte intensité de main-d'œuvre à une procédure moderne de fabrication du thé, mécanisée et à fort volume. Dans cette conférence, Ya-Lin présentera l'objectif de chaque étape du traitement du thé wulong et les machines et l'évolution à Taïwan au cours des 35 dernières années.
 ---
