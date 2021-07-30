@@ -137,4 +137,15 @@ marc-andre-selosse:
     alt: >-
       Marc-André observe dans la forêt des champignons au compte-fil.
     bio: >-
-      Marc-André Selosse est un biologiste français spécialisé en botanique et mycologie. Il a travaillé sur la symbiose, en particulier dans les domaines de l’évolution et de l’écologie. 
+      Marc-André Selosse est un biologiste français spécialisé en botanique et mycologie. Il a travaillé sur la symbiose, en particulier dans les domaines de l’évolution et de l’écologie.
+
+tea-travellers:
+  name: tea-travellers
+  image: /assets/images/speakers/tea-travellers.jpg
+  url: http://www.teatravelers.fr
+  en_US:
+    bio: >-
+      The Tea Travelers duo will spend 7 months in the great tea producing countries. From India to Kenya, through China and Japan, they will travel through the tea plantations. The objective? To explore the world of tea and especially to share our discoveries.
+  fr_FR:
+    bio: >-
+      Le binôme de Tea Travelers part 7 mois à l’assaut des grands pays producteurs de thé. De l’Inde au Kenya en passant par la Chine et le Japon, ils vont parcourir les plantations de thé. L’objectif ? Partir explorer le monde du thé et surtout partager nos découvertes.
