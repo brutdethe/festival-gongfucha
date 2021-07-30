@@ -101,12 +101,17 @@ manon-clouzeau:
 charly-vilain:
   name: Charly Vilain
   image: /assets/images/speakers/charly-vilain.jpg
-  url: https://twitter.com/heu7reka
+  url: https://www.facebook.com/CharlyVillainAuxOriginesduThe/
+  en_US:
+    alt: >-
+      Charly is sitting comfortably, enjoying a drink, behind him the sea and a big blue sky.
+    bio: >-
+      Charly is from La Rochelle and has a master's degree in French-Chinese interpretation and international business. He is interested in teas and particularly in traditional Chinese ceremonies.
   fr_FR:
     alt: >-
-      Heu?reka se tient debout devant des arbres. Il porte une veste en cuir noire et une écharpe bleu marine.
+      Charly est confortablement assis, il déguste un verre, derrière lui la mer et un grand ciel bleu.
     bio: >-
-      Youtuber à plein temps féru de vulgarisation. Ancien financier habitué des salles des marchés parisiennes, londoniennes et new-yorkaises.
+      Charly est Rochelais, diplômé d’un master d’interprète franco-chinois et affaires internationale, il s'intéresse aux thés et particulièrement aux cérémonies traditionnelles chinoises.
 
 violaine-andrieux:
   name: Violaine Andrieux
@@ -119,42 +124,17 @@ violaine-andrieux:
       UX designer, créative, geek, tricoteuse et bien plus encore.
       J'aime bien créer des trucs, vous devriez essayer, c'est super.
 
-laurene:
-  name: Laurène Grangette
-  image: /assets/images/speakers/laurene.jpg
-  url: http://etincelle-theatre-forum.com
+marc-andre-selosse:
+  name: Marc-André Selosse
+  image: /assets/images/speakers/marc-andre-selosse.jpg
+  url: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
+  en_US:
+    alt: >-
+      Marc-André observes mushrooms in the forest with a thread-counter.
+    bio: >-
+      Marc-André Selosse is a French biologist specialized in botany and mycology. He has worked on symbiosis, particularly in the fields of evolution and ecology.
   fr_FR:
     alt: >-
-      Laurène Grangette marchant au milieu d'une forêt d'Automne. Son pull-over à col bénitier rose pâle fait écho à la lumière environnante.
+      Marc-André observe dans la forêt des champignons au compte-fil.
     bio: >-
-      À quel point la qualité de vos relations impacte-t-elle votre bien-être ? C'est la question qui anime mon activité de formatrice-facilitatrice en développement relationnel et organisationnel.
-
-nicolas:
-  name: Nicolas Hoffmann
-  image: /assets/images/speakers/nicolas.jpg
-  url: https://twitter.com/nico3333fr
-  fr_FR:
-    alt: >-
-      Nicolas Hoffmann, visage en gros plan, sourit.
-    bio: >-
-      Expert en qualité Web et éleveur de composants accessibles en plein air depuis plusieurs années, je me passionne aussi pour les Content Security Policies. On me perçoit souvent comme &laquo;&nbsp;le vieux sage qui sait&nbsp;&raquo; –&nbsp;vieux à 15 ans, excusez du peu !&nbsp;– mais il y a tant de choses que je voudrais encore apprendre…
-
-pascal:
-  name: Pascal Moriceau
-  image: /assets/images/speakers/pascal.jpg
-  url: https://twitter.com/momoroski
-  fr_FR:
-    alt: >-
-      Selfie de Pascal Moriceau. Il porte des lunettes, et une écharpe chamarrée.
-    bio: >-
-      Ancien restaurateur maintenant dans le web. Créateur de blind-test vidéo et DJ à-peu-près. Sportif à mi-temps dans la chasse aux papillons.
-
-xavier:
-  name: Xavier Coadic
-  image: /assets/images/speakers/xavier.jpg
-  url: https://twitter.com/xaviercoadic
-  fr_FR:
-    alt: >-
-      Xavier Coadic, lunettes de soleil et chapeau de paille, se tient légèrement de profil devant une façade d'ardoise où sont inscrites des activités maritimes. Un effet sur la photo lui donne des teintes pastel.
-    bio: >-
-      Large Human Collider, Hackitivist, transitioner, <span lang="en">commoner</span> et un peu plus cœur.<br><small>Photo: Aurélien Marty – <a href="https://en.wikipedia.org/wiki/Wikipedia:CC_BY-SA_Compliance">CC-BY-SAc</a></small>
+      Marc-André Selosse est un biologiste français spécialisé en botanique et mycologie. Il a travaillé sur la symbiose, en particulier dans les domaines de l’évolution et de l’écologie. 
