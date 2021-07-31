@@ -5,8 +5,6 @@ speaker:
 fr_FR:
   title: "Savez-vous planter du thé ?"
   description: >-
-    <p>Avant, j'étais dans un gang de cultureux punks à jongler entre plein de casquettes avec trois bouts de ficelle. Aujourd'hui, j'ai rejoint un secteur qui a le vent en poupe, plein de processus et de conventions.</p>
-    <p>Peut-on croiser ces deux cultures professionnelles et réinjecter du punk dans les projets web ? Ni spécialisées, ni gestionnaires : quelle place pour les femmes-orchestres ?</p>
-transcript: https://marges.clairezuliani.com/05/27-05-27-melange-cultures-professionnelles.html
-vimeo_id: 272440240
+    Le projet de Thomas : produire des denrées de qualité dans le respect de la terre et du vivant, ni plus ni moins. C'est aussi l'occasion de créer les conditions pour transmettre des savoir-faire paysans, botaniques, jardiniers et artisanaux dans un cadre bucolique, à deux pas de l'Étang de Gruellau ; une zone naturelle de 60ha. Dans cette conférence, Thomas nous fait un retour d'expérience honnête avec ses joies, ses succès mais aussi ses doutes et ses "désillusions".
+youtube_id: SIDnZIhg0ME
 ---
