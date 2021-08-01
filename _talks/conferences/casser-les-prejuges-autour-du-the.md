@@ -5,7 +5,5 @@ speaker:
 fr_FR:
   title: "Casser les préjugés autour du thé !"
   description: >-
-    <p>Pour pallier à la "désinformation", Emil et son mari ont décidé de se saisir du web pour prendre la parole et défendre en douceur l'homoparentalité. L'idée : produire des vidéos qui racontent leur vie de papas pour montrer que finalement, ce n'est pas si différent...</p>
-    <p>Résultat : des vidéos hebdomadaires, construites en même temps que leur parentalité, qui racontent leur vie de... parents, tout simplement.</p>
-vimeo_id: 272263498
+    Rétablir la relation entre les feuilles de thé et son origine  permet à vos papilles de se reconnecter avec les saveurs du terroir. C'est aussi probablement le premier pas pour décoloniser le thé.  Vous pouvez commencer à apprécier l'impact du producteur en matière de culture, de récolte, de façonnage, de séchage et de séchage. Enfin, l'ultime moyen de décoloniser le thé est de redistribuer la richesse de l'industrie du thé loin des marques, des commerçants et des intermédiaires et de la ramener à la source du thé.
 ---

@@ -49,10 +49,9 @@ thais-erbs:
   url: https://twitter.com/clementinehahn
   fr_FR:
     alt: >-
-      Clémentine Hahn se tient légèrement de profil. Elle regarde la caméra tandis que ses cheveux ondules. On voit surtout son visage. La photo est en noire et blanc.
+      ...
     bio: >-
-      <span lang="en">Product owner</span>. Après avoir débuté en e-santé au <abbr title="Centre Hospitalier Universitaire">CHU</abbr> de Bordeaux, Clémentine co-fonde dtc et travaille sur des enjeux de transparence public. Aujourd'hui installée à Montréal elle continue l'aventure dtc.
-
+      ...
 je-le-potier:
   name: Je le Potier
   image: /assets/images/speakers/je-le-potier.jpg
@@ -84,9 +83,9 @@ thomas-bernardi:
   url: http://www.dev-in-rodez.org/fr/
   fr_FR:
     alt: >-
-      Franck Alary en complet décalage. D'une part, sa chemise et son veston blanc confirment son air sérieux mais en même temps, des accessoires colorés et baroques, ainsi que son sourcil relevé, créent une atmosphère burlesque.
+      Selphie de Thomas en barbe  et polo rouge.
     bio: >-
-      Développeur à plein-temps, président de Dev’In Rodez à mi-temps, et drummer mais j’ai plus de temps.
+      Après des études en lycée agricole il y a vingt ans, Thomas entame une grande boucle professionnelle dans le milieu associatif culturel et l’éducation populaire. Une expérience foisonnante où pratique, réflexion et rencontres n’ont eu de cesse de s’entremêler. En parallèle, il se forme à la botanique, au jardinage biologique, à la greffe de fruitier, au compostage, et diverses réjouissances terriennes. La boucle est bouclée, vingt ans plus tard : je deviens paysan !
 
 manon-clouzeau:
   name: Manon Clouzeau
@@ -101,12 +100,17 @@ manon-clouzeau:
 charly-vilain:
   name: Charly Vilain
   image: /assets/images/speakers/charly-vilain.jpg
-  url: https://twitter.com/heu7reka
+  url: https://www.facebook.com/CharlyVillainAuxOriginesduThe/
+  en_US:
+    alt: >-
+      Charly is sitting comfortably, enjoying a drink, behind him the sea and a big blue sky.
+    bio: >-
+      Charly is from La Rochelle and has a master's degree in French-Chinese interpretation and international business. He is interested in teas and particularly in traditional Chinese ceremonies.
   fr_FR:
     alt: >-
-      Heu?reka se tient debout devant des arbres. Il porte une veste en cuir noire et une écharpe bleu marine.
+      Charly est confortablement assis, il déguste un verre, derrière lui la mer et un grand ciel bleu.
     bio: >-
-      Youtuber à plein temps féru de vulgarisation. Ancien financier habitué des salles des marchés parisiennes, londoniennes et new-yorkaises.
+      Charly est Rochelais, diplômé d’un master d’interprète franco-chinois et affaires internationale, il s'intéresse aux thés et particulièrement aux cérémonies traditionnelles chinoises.
 
 violaine-andrieux:
   name: Violaine Andrieux
@@ -114,47 +118,32 @@ violaine-andrieux:
   url: https://brutdethé.fr
   fr_FR:
     alt: >-
-      Laurence Vagner regarde la caméra amusée. Elle a des cheveux aussi roses que la monture de ses lunettes, un bonnet jaune et un tee-shirt bleu marine.
+      ...
     bio: >-
-      UX designer, créative, geek, tricoteuse et bien plus encore.
-      J'aime bien créer des trucs, vous devriez essayer, c'est super.
+      Violaine est co-fondatrice d'un café associatif en presqu'île de Crozon et vient de démarrer le projet -brut-de-thé- avec Thaïs et Stéphane.
 
-laurene:
-  name: Laurène Grangette
-  image: /assets/images/speakers/laurene.jpg
-  url: http://etincelle-theatre-forum.com
+marc-andre-selosse:
+  name: Marc-André Selosse
+  image: /assets/images/speakers/marc-andre-selosse.jpg
+  url: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
+  en_US:
+    alt: >-
+      Marc-André observes mushrooms in the forest with a thread-counter.
+    bio: >-
+      Marc-André Selosse is a French biologist specialized in botany and mycology. He has worked on symbiosis, particularly in the fields of evolution and ecology.
   fr_FR:
     alt: >-
-      Laurène Grangette marchant au milieu d'une forêt d'Automne. Son pull-over à col bénitier rose pâle fait écho à la lumière environnante.
+      Marc-André observe dans la forêt des champignons au compte-fil.
     bio: >-
-      À quel point la qualité de vos relations impacte-t-elle votre bien-être ? C'est la question qui anime mon activité de formatrice-facilitatrice en développement relationnel et organisationnel.
+      Marc-André Selosse est un biologiste français spécialisé en botanique et mycologie. Il a travaillé sur la symbiose, en particulier dans les domaines de l’évolution et de l’écologie.
 
-nicolas:
-  name: Nicolas Hoffmann
-  image: /assets/images/speakers/nicolas.jpg
-  url: https://twitter.com/nico3333fr
-  fr_FR:
-    alt: >-
-      Nicolas Hoffmann, visage en gros plan, sourit.
+tea-travellers:
+  name: tea-travellers
+  image: /assets/images/speakers/tea-travellers.jpg
+  url: http://www.teatravelers.fr
+  en_US:
     bio: >-
-      Expert en qualité Web et éleveur de composants accessibles en plein air depuis plusieurs années, je me passionne aussi pour les Content Security Policies. On me perçoit souvent comme &laquo;&nbsp;le vieux sage qui sait&nbsp;&raquo; –&nbsp;vieux à 15 ans, excusez du peu !&nbsp;– mais il y a tant de choses que je voudrais encore apprendre…
-
-pascal:
-  name: Pascal Moriceau
-  image: /assets/images/speakers/pascal.jpg
-  url: https://twitter.com/momoroski
+      The Tea Travelers duo will spend 7 months in the great tea producing countries. From India to Kenya, through China and Japan, they will travel through the tea plantations. The objective? To explore the world of tea and especially to share our discoveries.
   fr_FR:
-    alt: >-
-      Selfie de Pascal Moriceau. Il porte des lunettes, et une écharpe chamarrée.
     bio: >-
-      Ancien restaurateur maintenant dans le web. Créateur de blind-test vidéo et DJ à-peu-près. Sportif à mi-temps dans la chasse aux papillons.
-
-xavier:
-  name: Xavier Coadic
-  image: /assets/images/speakers/xavier.jpg
-  url: https://twitter.com/xaviercoadic
-  fr_FR:
-    alt: >-
-      Xavier Coadic, lunettes de soleil et chapeau de paille, se tient légèrement de profil devant une façade d'ardoise où sont inscrites des activités maritimes. Un effet sur la photo lui donne des teintes pastel.
-    bio: >-
-      Large Human Collider, Hackitivist, transitioner, <span lang="en">commoner</span> et un peu plus cœur.<br><small>Photo: Aurélien Marty – <a href="https://en.wikipedia.org/wiki/Wikipedia:CC_BY-SA_Compliance">CC-BY-SAc</a></small>
+      Le binôme de Tea Travelers part 7 mois à l’assaut des grands pays producteurs de thé. De l’Inde au Kenya en passant par la Chine et le Japon, ils vont parcourir les plantations de thé. L’objectif ? Partir explorer le monde du thé et surtout partager nos découvertes.
