@@ -23,6 +23,11 @@
   value: venir-maulevrier
   in_nav: true
   in_footer: true
+- name: Dormir à Maulévrier
+  type: page
+  value: dormir-maulevrier
+  in_nav: true
+  in_footer: true
 - name: Infos pratiques
   type: page
   value: infos-pratiques
