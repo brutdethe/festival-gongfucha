@@ -362,4 +362,4 @@ La billeterie du parc n'est pas impactée par l'évènement, les tarifs sont les
 - [Yam'Tcha](https://boutique.yamtcha.com/)
 - [Mei Leaf](https://www.youtube.com/channel/UCaHBABJFMRAtnKhQp2Cu5BQ)
 
-- ![fin](./photos/photo-de-fin.jpg)
+![fin](./photos/photo-de-fin.jpg)
