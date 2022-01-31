@@ -1,3 +1,10 @@
+<style>
+img {
+    width: 300px;
+    height: auto;
+}
+</style>
+
 # Dossier de présentation Festi'Thé Maulévrier
 
 <!--
