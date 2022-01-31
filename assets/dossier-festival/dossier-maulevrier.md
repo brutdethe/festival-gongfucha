@@ -68,19 +68,19 @@ Au même titre que la théière reçoit le thé à infuser, nous percevons le pa
 - Expérimenter en continu pour apprendre de nos erreurs aussi bien que de nos succès.
 - Offrir des produits sains et locaux (quand cela est possible) dans le respect des traditions du Thé.
 
-![ChaChaYiWei](./ChanCha.jpg)
+![ChaChaYiWei](./photos/ChanCha.jpg)
 
 ## Descriptif du projet
 
 ### Les publics
 
-![Clients1](./clients-1.jpg)
+![Clients1](./photos/clients-1.jpg)
 
 #### Les personnes visiteuses du parc 
 
 Ce public varié dans l'âge (7 à 87 ans) et plutôt familial, vient visiter un jardin oriental et nous supposons qu'il s'intéressera naturellement aux Thés traditionnels, éléments essentiels de la culture chinoise et japonaise.  
 
-![Clients2](./clients-2.jpg) 
+![Clients2](./photos/clients-2.jpg) 
 
 #### Les personnes amatrices de Thé
 
@@ -115,7 +115,7 @@ Comme pour le vin, il existe en chine différents terroirs avec des spécificit�
 
 #### La culture chinoise traditionnelle
 
-![Culture chinoise traditionnelle](./culture-chinoise-1.jpg)
+![Culture chinoise traditionnelle](./photos/culture-chinoise-1.jpg)
 
 En plus du Thé, partie dominante du festival, d'autres thèmes satellites seront présentés, toujours dans l'esprit de la tradition chinoise authentique :
 
@@ -123,15 +123,15 @@ En plus du Thé, partie dominante du festival, d'autres thèmes satellites seron
 
 - Calligraphie chinoise : démonstrations et ateliers
 
-![Calligraphie](./photos-calligraphie.jpg)
+![Calligraphie](./photos/photos-calligraphie.jpg)
 
 - Encens chinois : démonstrations et ateliers autour de l'encens traditionnel chinois
 
-![Encens](./encensJPG.jpg)
+![Encens](./photos/encensJPG.jpg)
 
 - 圍棋 - _WéiQí_ (Jeu de Go) : ateliers avec [FanHui](https://fr.wikipedia.org/wiki/Fan_Hui) trois fois champion d'europe 
 
-![Go](./go-2.jpg)
+![Go](./photos/go-2.jpg)
 
 - Santé et massage : découverte de la pharmacoppée traditionnelle chinoise et massage 推拿 - _Tuīná_
 
@@ -154,7 +154,7 @@ Par exemple : Yam'Tcha : https://www.instagram.com/yamtchaparis
 - **Le jeu de Go** : en chinois WéiQi (围棋) est un jeu de stratégie abstrait pour 2 joueurs d'origine chinoise qui est pratiqué dans toute l'Asie.  
 Les ateliers seront proposés par FanHui (樊麾) champion d'Europe : 2013, 2014 et 2015
 
-![Go](./festival/go-2.jpg)
+![Go](./photos/festival/go-2.jpg)
 
 - **La calligraphie chinoise** :  démonstrations et ateliers
 
@@ -168,7 +168,7 @@ Les ateliers seront proposés par FanHui (樊麾) champion d'Europe : 2013, 2014
 
 #### En France
 
-![Thé de France 2](./the-europe-2.jpg)
+![Thé de France 2](./photos/the-europe-2.jpg)
 
 
 Malgré le contexte sanitaire, les deux dernières années ont vu l'émergence d'une communauté active autour du Thé traditionnel. En 2020, l'Agence pour la Valorisation des Produits Agricoles a récompensé le Thé blanc produit par Michel Thévot dans le Finistère. En janvier 2021, une dizaine de producteurs se sont rassemblés pour créer l'Association Nationale des Producteurs de Thé Français (ANVPTF) pour partager leur expérience, valoriser et professionaliser la filière de production de Thé en France. En Bretagne, les personnes pionnières, WeiZi et Denis Mazerolle, sont passées aux choses sérieuses en plantant plus de 20000 pieds et vise les 90000 pieds d'ici à 2024.   
@@ -183,7 +183,7 @@ Sur le terrain, nous constatons un intérêt grandissant, de nombreux projets au
 - La présence de céramistes français qui dédient leur travail uniquement à l'univers du Thé.
 - La rédaction d'ouvrages de référence sur le Thé par des auteurs français.
 
-![Thé de France 1](./the-europe-1.jpg)
+![Thé de France 1](./photos/the-europe-1.jpg)
 
 #### En Europe et dans le monde
 
@@ -228,17 +228,8 @@ Quelques exemples :
 - L'histoire du Tie Guan Yin
 - Thé et santé
 - Tao du thé
-<<<<<<< Updated upstream
 - Pélerins du Thé
 - Rosé pamplemousse et surimi
-
-### Dédicaces
-Ce festival pourrait être l'occasion pour les plumes amatrices de Thé de présenter leurs ouvrages et d'en dédicacer certains.
-- Arnaud Bachelin
-=======
-- Pélerins du thé
-- Le thé industriel : rosé pamplemousse et surimi
->>>>>>> Stashed changes
 
 ### Ateliers
 
@@ -299,7 +290,7 @@ Avec un bol, elle arrive à faire un gaiwan ou une verseuse, juste en adaptant l
 >[...] J'aime les bols, j'aime les nuances, j'aime la matière. J'aime être avec toutes mes subtilités... Je crée tout autour du bol, tel un petit caillou que je sème sur le sable humide après le passage de l'eau. J'aime boire, j'aime déguster au centre d'une terre émaillée. J'aime partager, j'aime échanger, j'aime vivre. Alors, bienvenue dans mon univers aux mille nuances, aux mille matières, aux mille rires.[...]
 > [...] Mon insipiration, c'est tout ce qui me touche, une lumière, une couleur, une présence, un frisson, un instant, une respiration, un regard, un arbre nu, une voix, un plaisir... *extrait d'un interview par l'Atelier*
 
-![Manon](./manon-clouzeau.jpg)
+![Manon](./photos/manon-clouzeau.jpg)
 
 ### Perrine Pottiez
 
@@ -310,7 +301,7 @@ Autodidacte dans le travail de modelage, elle découvre sa vocation en 2014. À 
 > J'y vois la poésie de l'objet ordinaire, un geste ancestral perpétué, la beauté d'une imperfection, la simplicité  
 > De poudres et d'eau, de feu, de sueur et de patience, comme une empreinte sur l'éternité
 
-![Perrine](./perrine-pottiez.jpg)
+![Perrine](./photos/perrine-pottiez.jpg)
 
 ## Communication
 
@@ -371,4 +362,4 @@ La billeterie du parc n'est pas impactée par l'évènement, les tarifs sont les
 - [Yam'Tcha](https://boutique.yamtcha.com/)
 - [Mei Leaf](https://www.youtube.com/channel/UCaHBABJFMRAtnKhQp2Cu5BQ)
 
-- ![fin](/photo-de-fin.jpg)
+- ![fin](./photos/photo-de-fin.jpg)
