@@ -29,7 +29,7 @@ Violaine, grande consommatrice de Thé depuis un voyage prolongé sur les terres
 
 ### Thaïs Erbs
 
-Thaïs est tombé dans le Thé lors de son premier long séjour en Chine, alors qu’il fêtait ses 17 ans. Cette passion ne l’a pas quitté depuis et s’est concrétisée véritablement lors de son deuxième long séjour débuté en 2014 durant lequel il a obtenu les certificats de testeur de thé 评茶圆 - *PǐngCháYuán* et maitre de cérémonie 茶艺师 - *CháYìShī* (Occupation Qualification Certificate) auprès du ministère des ressources humaines chinois. 
+Thaïs est tombé dans le Thé lors de son premier long séjour en Chine, alors qu’il fêtait ses 17 ans. Cette passion ne l’a pas quitté depuis et s’est concrétisée véritablement lors de son deuxième long séjour débuté en 2014 durant lequel il a obtenu les certificats de testeur de thé 評茶員 - *PíngCháYuán* et maitre de cérémonie 茶藝師 - *CháYìShī* (Occupation Qualification Certificate) auprès du ministère des ressources humaines chinois. 
 
 > Adepte des jardins de Thé, des maisons de Thé traditionnelles, des marchés de Thé et des écoles de Thé, je suis guidé par la volonté de découvrir l'univers profond du Thé traditionnel chinois et je partage ma passion avec le plus grand nombre de personnes possible. Tradition et authenticité sont les deux valeurs qui m'animent.
 
