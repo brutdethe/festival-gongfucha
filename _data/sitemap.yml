@@ -60,13 +60,4 @@
   value: mentions-legales
   in_nav: false
   in_footer: true
-- name: Témoignages
-  type: translate
-  value: https://sudweb.fr/blog/temoignages/
-  in_nav: false
-  in_footer: true
-- name: Blog
-  type: url
-  value: https://sudweb.fr/blog/
-  in_nav: false
-  in_footer: true
+
