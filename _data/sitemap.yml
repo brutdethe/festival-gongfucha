@@ -18,9 +18,9 @@
   value: billetterie
   in_nav: false
   in_footer: false
-- name: Venir à Anduze
+- name: Venir au parc aux bambous
   type: page
-  value: venir-anduze
+  value: venir-parc-aux-bambous
   in_nav: true
   in_footer: true
 - name: Infos pratiques

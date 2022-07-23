@@ -1,44 +1,46 @@
 <header class="home-header">
-    <div class="wrapper">
-        <h1 class="home-main-title">
-            <svg width="1em" class="home-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.75 38.5 10.75">
-        <title id="headerLogoTitle">Sud Web</title>
+  <div class="wrapper">
+    <h1 class="home-main-title">
+      <svg width="1em" class="home-main-title-logo" role="img" aria-labelledby="headerLogoTitle"
+        viewBox="0 6.75 38.5 10.75">
+        <title id="headerLogoTitle">Festival GongFuCha</title>
         <defs>
           <pattern id="pic" patternUnits="userSpaceOnUse" width="38.5" height="20">
             <image xlink:href="{{ "/assets/images/logo-bg.jpg" | relative_url }}" width="38.5" height="20" />
           </pattern>
         </defs>
-        <text y="1em">Sud Web</text>
+        <text y="1em">GongFuCha</text>
       </svg>
-            <div class="home-main-title-baseline">
-                La conférence Web surtout Humaine
-            </div>
-        </h1>
+      <div class="home-main-title-baseline">
+        Le festival des Thés Chinois
+      </div>
+    </h1>
 
-        <p class="home-sub-title">
-            Sud Web, {% t c’est %} <a href="#conferences">{% t une journée de conférences %}</a> {% t et %} <a href="#forum-ouvert">{% t une journée de forum ouvert %}</a>, {% t et plein d’informelles %}. {% t La prochaine édition se tiendra les %} <strong><time datetime="2018-05-25">{% t vendredi 25 %}</time> {% t et %} <time datetime="2018-05-26">{% t samedi 26 mai 2018 %}</time></strong>            {% t à %}
-            <a href="{{ page.baseurl | default:site.baseurl }}/{{ " venir-anduze " | t: page.locale }}/">Anduze, Gard (30)</a>.
-        </p>
-        <p class="text-center">
-            <a class="button" data-text="{% t voir le programme %}" href="{{ page.baseurl | default:site.baseurl }}/{{ " programme " | t: page.locale }}/" title="{% t Voir le programme de Sud Web 2018 %}">
-                <span class="button-inner">{% t voir le programme %}</span>
-            </a>
-            {% if site.tickets.selling %}
-            <a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ " billetterie " | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
-                <span class="button-inner">{% t réserver votre place %}</span>
-            </a>
-            {% endif %} {% if site.tickets.waiting-list %}
-            <a class="button" data-text="{% t s'incrire en liste d'attente %}" href="{{ page.baseurl | default:site.baseurl }}/{{ " billetterie " | t: page.locale }}/#register" title="{% t Venir à Sud Web 2018 %}">
-                <span class="button-inner">{% t s'incrire en liste d'attente %}</span>
-            </a>
-            {% endif %}
-        </p>
-    </div>
+    <p class="home-sub-title">
+      GongFuCha, c’est<a href="#conferences">des conférences</a> et <a
+        href="#atliers"> des ateliers </a>, et plein d’informelles.
+       La prochaine édition se tiendra les <strong><time datetime="2022-09-20">vendredi 30 septembre</time>, <time datetime="2022-10-01"> samedi 1er octobre</time> et <time datetime="2022-10-01"> dimanche 2 octobre 2022</time></strong> au
+      <a href="{{ page.baseurl | default:site.baseurl }}/{{ "venir-parc-aux-bambous" | page.locale }}/">parc aux bambous de Lapenne, Ariège (09)</a>.
+    </p>
+    <p class="text-center">
+      <a class="button" data-text="voir le programme"
+        href="{{ page.baseurl | default:site.baseurl }}/{{ "programme" | page.locale }}/"
+        title="Voir le programme du festival GongFuCha">
+        <span class="button-inner">voir le programme</span>
+      </a>
+      {% if site.tickets.selling %}
+      <a class="button" data-text="réserver votre place"
+        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | page.locale }}/"
+        title="Venir au parc aux bambous">
+        <span class="button-inner">réserver votre place</span>
+      </a>
+      {% endif %} {% if site.tickets.waiting-list %}
+      <a class="button" data-text="s'incrire en liste d'attente"
+        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | page.locale }}/#register"
+        title="Venir à GongFuCha 2022">
+        <span class="button-inner">s'incrire en liste d'attente</span>
+      </a>
+      {% endif %}
+    </p>
+  </div>
 </header>
-{% comment %}
-<section class="section">
-    <div class="wrapper">
-        <hr>
-    </div>
-</section>
-{%- assign conferences = site.talks | sort: "display-order" -%} {% include speakers.html conferences=conferences locale=page.locale %} {% endcomment %}
