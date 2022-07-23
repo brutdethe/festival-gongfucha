@@ -5,9 +5,8 @@ tagline: les 25 et 26 mai 2018 à Anduze
 description: Deux journées pour faire le plein d'inspiration entre super-héros du web.
 logo: /assets/images/twittercard.png
 url: https://sudweb.fr
-repository: sudweb/2018
-baseurl: /2018
-destination: _site/2018
+repository: brutdethe/festival-gongfucha
+destination: _site
 locale: fr_FR
 logo: https://sudweb.fr/2018/assets/images/social/sudweb-logo.jpg
 lazyload:
