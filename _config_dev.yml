@@ -15,3 +15,10 @@ defaults:
     values:
       locale: fr_FR
       layout: default
+  -
+    scope:
+      path: "pages/en"
+      type: pages
+    values:
+      baseurl: "/en"
+      locale: en_US

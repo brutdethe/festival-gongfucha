@@ -1,17 +1,27 @@
 <footer class="page-footer">
   <div class="wrapper">
     {% if page.i18n-key == 'home' or page.i18n-key == 'contact' %}
-    {% include team.html %}
-    <hr>
+      {% include thym.html %}
+      <hr>
     {% endif %}
-    <div class="grid-2">
+    <div class="grid-3">
+      <section>
+        <h2 id="footerTitle1" class="text-lg">{% t Épisodes précédents %}</h2>
+        <nav aria-labelledby="footerTitle1">
+          <ul>
+            {% for edition in site.data.editions %}
+            <li><a href="https://sudweb.fr/{{edition.year}}">{{edition.year}} {% t à %} {{edition.town}}</a></li>
+            {% endfor%}
+          </ul>
+        </nav>
+      </section>
       <section>
         <h2 id="footerTitle2" class="text-lg">{% t Pour en savoir plus %}</h2>
         <nav aria-labelledby="footerTitle2">
           <ul>
             {% assign footer_links = site.data.sitemap | where: 'in_footer', true %}
             {% for link in footer_links %}
-            <li>{% include link.html link=link %}</li>
+              <li>{% include link.html link=link %}</li>
             {% endfor%}
           </ul>
         </nav>
@@ -21,10 +31,9 @@
         <form action="//sudweb.us2.list-manage.com/subscribe/post?u=af19b58cf514c01eca3f7652e&amp;id=b579f5b507"
           method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
           class="newsletter-form validate" target="_blank" rel="noopener noreferrer" novalidate="">
-          <label for="mce-EMAIL">{% t Recevez la Festi`Thé letter %}</label>
+          <label for="mce-EMAIL">{% t Recevez la Sud Web letter %}</label>
           <div class="form-row">
-            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="{% t Votre email %}"
-              required="">
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="{% t Votre email %}" required="">
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
               <input type="text" name="b_af19b58cf514c01eca3f7652e_b579f5b507" tabindex="-1" value="">
@@ -34,18 +43,18 @@
         </form>
         <ul class="social-links">
           {% for social in site.data.social %}
-          <li>
-            <a href="{{social.url}}" title="{{social.title}}">
-              <svg width="1em" role="img" aria-label="{{social.name}}" viewBox="0 0 448 512">
-                <use xlink:href="{{ "/assets/svg/symbol-defs.svg#" | append: social.name | relative_url }}" />
-              </svg>
-            </a>
-          </li>
+            <li>
+              <a href="{{social.url}}" title="{{social.title}}">
+                <svg width="1em" role="img" aria-label="{{social.name}}" viewBox="0 0 448 512">
+                  <use xlink:href="{{ "/assets/svg/symbol-defs.svg#" | append: social.name | relative_url }}"/>
+                </svg>
+              </a>
+            </li>
           {% endfor%}
         </ul>
       </section>
     </div>
     <hr>
-    <p class="text-center">{% t Contribué sur %} <a href="https://github.com/sudweb">github</a></a>.</p>
+    <p class="text-center">{% t Contribué sur %} <a href="https://github.com/sudweb/2018">github</a> {% t et gracieusement hébergé par %} <a href="https://alwaysdata.com">alwaysdata</a>.</p>
   </div>
 </footer>

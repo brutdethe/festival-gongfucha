@@ -1,0 +1,38 @@
+{% assign editions = site.data.writeups | sort: 'year' | reverse %} {% for edition in editions %}
+<section>
+  <h2>{{ edition.year }}</h2>
+  <ul>
+    {% comment %}
+
+      L'objectif ici est de fabriquer trois collections.
+      La première contient les témoignages dans la langue courante.
+      La seconde contient les autres.
+      La dernière contient les témoignages sans langue (comme les #hashtags)
+
+    {% endcomment %}
+    {% assign local_writeups = ''|split:''%}
+    {% assign foreign_writeups = ''|split:''%}
+    {% assign unsetlocal_writeups = ''|split:''%}
+    {% for writeup in edition.writeups %}
+      {% if writeup.locale == include.locale %}
+        {% assign local_writeups = local_writeups|push:writeup%}
+      {% elsif writeup.locale == nil %}
+        {% assign unsetlocal_writeups = unsetlocal_writeups|push:writeup%}
+      {% else %}
+        {% assign foreign_writeups = foreign_writeups|push:writeup%}
+      {% endif %}
+    {% endfor%}
+
+    {% comment %}
+
+      Maintenant qu'on a nos trois collections, on peut les utiliser.
+
+    {% endcomment %}
+
+    {% include writeups-items.html writeups=local_writeups locale=include.locale %}
+    {% include writeups-items.html writeups=foreign_writeups locale=include.locale %}
+    {% include writeups-items.html writeups=unsetlocal_writeups locale=include.locale %}
+  </ul>
+</section>
+<hr>
+{% endfor%}

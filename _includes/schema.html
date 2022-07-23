@@ -2,12 +2,12 @@
 {
   "@context": "http://schema.org",
   "@type": "Event",
-  "name": "Festi`Thé 2022",
+  "name": "Sud Web 2018",
   "description": "La conférence Web surtout Humaine",
   "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}",
   "image": "{{ site.url }}{{ site.baseurl }}/assets/images/social/og-image-{{ lang }}.jpg",
-  "startDate": "2022-05-25T09:00",
-  "endDate": "2022-05-26T18:00",
+  "startDate": "2018-05-25T09:00",
+  "endDate": "2018-05-26T18:00",
   "duration": "P2D",
   "location": {
     "@type": "Place",
@@ -15,7 +15,7 @@
       "@type": "PostalAddress",
       "streetAddress": "1050 Chemin Bas",
       "postalCode": "30140",
-      "addressLocality": "Maulévrier",
+      "addressLocality": "Anduze",
       "addressRegion": "Gars"
     },
     "name": "Val de l’Hort"
@@ -37,7 +37,7 @@
       "contactOption": "TollFree"
     },
     "member": [
-    {% for member in team %}
+    {% for member in thym %}
       {% unless forloop.first %},{% endunless %}
       {
         "@type": "Person",
@@ -53,8 +53,8 @@
     "@type": "Offer",
     "price": "250.00",
     "priceCurrency": "EUR",
-    "validFrom": "2022-01-22T00:00",
-    "validThrough": "2022-05-25T09:00",
+    "validFrom": "2018-01-22T00:00",
+    "validThrough": "2018-05-25T09:00",
     "availability": "http://schema.org/InStock",
     "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}/{% t billetterie %}/"
   },

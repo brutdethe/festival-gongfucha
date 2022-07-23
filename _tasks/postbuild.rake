@@ -11,7 +11,7 @@ namespace :postbuild do
 
   desc 'Deploy to remote server'
   task :deploy do |_t, args|
-    sh "rsync -r --delete-after --quiet --exclude '.ssh' $TRAVIS_BUILD_DIR/_site/ sudweb_2022@ssh-sudweb.alwaysdata.net:/home/sudweb/www/"
+    sh "rsync -r --delete-after --quiet --exclude '.ssh' $TRAVIS_BUILD_DIR/_site/2018/ sudweb_2018@ssh-sudweb.alwaysdata.net:/home/sudweb/www/2018/"
   end
 
   task test: ['test:kiss']

@@ -1,11 +1,11 @@
-# Festi`Thé 2022
+# Sud Web 2018
 
-[![Build Status](https://travis-ci.org/sudweb.svg?branch=master)](https://travis-ci.org/sudweb)
+[![Build Status](https://travis-ci.org/sudweb/2018.svg?branch=master)](https://travis-ci.org/sudweb/2018)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sud-web/sud-web)
 
-Site internet du cycle de conférences annuel Festi`Thé, dont la 1ère édition qui aura lieu à Maulévrier du 27 au 29 mai 2022.
+Site internet du cycle de conférences annuel Sud Web, dont la 8e édition a eu lieu à Anduze les 25 et 26 mai 2018.
 
-[https://festival.brutdethé.fr/](https://festival.brutdethé.fr/)
+[https://sudweb.fr/](https://sudweb.fr/)
 
 ## Pré-requis
 
@@ -34,7 +34,7 @@ $ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
 
 Si vous n'avez pas déjà cloné le dépot :
 ```bash
-$ git clone https://github.com/sudweb.git && cd 2022
+$ git clone https://github.com/sudweb/2018.git && cd 2018
 ```
 Si bundler n'est pas installé
 ```bash
@@ -79,11 +79,11 @@ Pour plus d'information sur l'utilisation de Jekyll, reportez-vous à la [docume
 
 ## Contribution
 
-Pour toute demande, merci de [créer une issue](https://github.com/sudweb/issues/new) sur GitHub.
+Pour toute demande, merci de [créer une issue](https://github.com/sudweb/2018/issues/new) sur GitHub.
 
-Si vous souhaitez nous aider, vous pouvez [copier](https://help.github.com/articles/fork-a-repo/) le dépôt, faire vos modifications dans une nouvelle branche et [faire une demande de fusion](https://github.com/sudweb/pulls).
+Si vous souhaitez nous aider, vous pouvez [copier](https://help.github.com/articles/fork-a-repo/) le dépôt, faire vos modifications dans une nouvelle branche et [faire une demande de fusion](https://github.com/sudweb/2018/pulls).
 
-Toute modification doit faire l'objet d'une [pull request](https://github.com/sudweb/pulls) et doit passer les tests avant de pouvoir être fusionnée.
+Toute modification doit faire l'objet d'une [pull request](https://github.com/sudweb/2018/pulls) et doit passer les tests avant de pouvoir être fusionnée.
 
 ## Tests
 

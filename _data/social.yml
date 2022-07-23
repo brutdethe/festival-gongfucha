@@ -1,15 +1,15 @@
 - name: facebook
-  title: Festi`Thé sur Facebook
+  title: Sud Web sur Facebook
   url: https://www.facebook.com/SudWeb
 - name: twitter
-  title: Festi`Thé sur Twitter
+  title: Sud Web sur Twitter
   url: https://twitter.com/sudweb
 - name: vimeo
-  title: Festi`Thé sur Vimeo
+  title: Sud Web sur Vimeo
   url: https://vimeo.com/sudweb
 - name: flickr
-  title: Festi`Thé sur Flickr
+  title: Sud Web sur Flickr
   url: https://www.flickr.com/people/sudweb/
 - name: slack
-  title: Festi`Thé sur Slack
+  title: Sud Web sur Slack
   url: http://sudweb.herokuapp.com/

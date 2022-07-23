@@ -1,5 +1,5 @@
 ---
-title: Festi`Thé Manifesto
+title: Sud Web Manifesto
 description: ""
 permalink: /en/manifesto/
 ---
@@ -30,3 +30,5 @@ These are the values we share and convey:
 
 </div>
 </section>
+
+{% include banners/forum.html locale=page.locale %}

@@ -1,6 +1,6 @@
 ---
 title: Line-up
-description: The talks of the 2022 edition of Festi`Thé
+description: The talks of the 2018 edition of Sud Web
 i18n-key: programme
 permalink: /en/line-up/
 ---
@@ -10,17 +10,13 @@ permalink: /en/line-up/
 
 <section class="section">
   <div class="wrapper">
-    <h1>Festi`Thé 2022: {{ number_of_conferences }} talks</h1>
-    <p>This year, we set up a program aligned with our values of inspiration, benevolence, caring and authenticity. You
-      will find human, professional and ethical commitments, people who are trying to reverse the status quo as well as
-      people who want to understand each other and propose new interactions.</p>
+    <h1>Sud Web 2018: {{ number_of_conferences }} talks</h1>
+    <p>This year, we set up a program aligned with our values of inspiration, benevolence, caring and authenticity. You will find human, professional and ethical commitments, people who are trying to reverse the status quo as well as people who want to understand each other and propose new interactions.</p>
     <p>Not all content is translated, but we are working on it.</p>
     {% if site.tickets.selling %}
-    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/"
-        title="{% t Venir à Festi`Thé 2022 %}">
-        <span class="button-inner">{% t réserver votre place %}</span>
-      </a></p>
+    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
+      <span class="button-inner">{% t réserver votre place %}</span>
+    </a></p>
     {% endif %}
   </div>
 </section>
@@ -44,11 +40,9 @@ permalink: /en/line-up/
 {% if site.tickets.selling %}
 <section class="section">
   <div class="wrapper">
-    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/"
-        title="{% t Venir à Festi`Thé 2022 %}">
-        <span class="button-inner">{% t réserver votre place %}</span>
-      </a></p>
+    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
+      <span class="button-inner">{% t réserver votre place %}</span>
+    </a></p>
   </div>
 </section>
 {% endif %}
