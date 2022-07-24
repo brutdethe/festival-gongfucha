@@ -1,22 +1,23 @@
 <header class="page-header">
-  <div class="wrapper">
-    <div class="page-main-title h-like">
-      <a href="{{ page.baseurl | default:site.baseurl }}/{{ include.link.anchor }}" title="{% t Accueil %}">
-        <svg width="1em" class="page-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.75 38.5 10.75">
-          <title id="headerLogoTitle">Sud Web</title>
+    <div class="wrapper">
+        <div class="page-main-title h-like">
+            <a href="{{ page.baseurl | default:site.baseurl }}/{{ include.link.anchor }}" title="{% t Accueil %}">
+                <svg width="1em" class="page-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.5 48.75 13">
+          <title id="headerLogoTitle">GongFuCha</title>
           <defs>
-            <pattern id="pic" patternUnits="userSpaceOnUse" width="38.5" height="20">
+            <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
               <image xlink:href="{{ "/assets/images/logo-bg.jpg" | relative_url }}" width="38.5" height="20" />
             </pattern>
-          </defs>
-          <text y="1em">Sud Web</text>
+          </defs>GongFuCha
+          <text y="1em">GongFuCha</text>
         </svg>
-      </a>
-      <p class="page-main-title-baseline">
-        {% t Les %} <time datetime="2018-05-25">25</time> {% t et %} <time datetime="2018-05-26">{% t 26 mai 2018 %}</time> {% t à Anduze %}
-      </p>
+            </a>
+            <p class="page-main-title-baseline">
+                <time datetime="2022-09-30">30 sept</time>, <time datetime="2022-1O-01">1</time> et <time datetime="2022-10-02">
+          2 oct 2022</time> à Lapenne
+            </p>
+        </div>
     </div>
-  </div>
 </header>
 
 {% unless page.hide_banner %}{% include banners/bambouseraie.html locale=page.locale page_top=true %}{% endunless %}
