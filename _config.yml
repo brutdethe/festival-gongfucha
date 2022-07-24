@@ -1,8 +1,8 @@
 # Site configuration
 
-title: Sud Web
-tagline: les 25 et 26 mai 2018 à Anduze
-description: Deux journées pour faire le plein d'inspiration entre super-héros du web.
+title: Festival GongFuCha
+tagline: les 30 septembre, 1er et 2 octobre 2022 au parc aux bambous à Lapenne (09)
+description: Trois journées pour faire le plein d'inspiration et rencontrer la culture Chinoise du Thé.
 logo: /assets/images/twittercard.png
 url: https://sudweb.fr
 repository: brutdethe/festival-gongfucha
@@ -14,7 +14,7 @@ lazyload:
 
 # Est-ce qu'on vend des places à tarif plein, est-ce qu'on propose une liste d'attente ou les deux ?
 tickets:
-  selling: false
+  selling: true
   waiting-list: false
 
 # Compression du code HTML en production
@@ -57,13 +57,6 @@ defaults:
     values:
       locale: fr_FR
       layout: default
-  -
-    scope:
-      path: "pages/en"
-      type: pages
-    values:
-      baseurl: "/2018/en"
-      locale: en_US
 
 microtypo:
   median: true
