@@ -1,5 +1,5 @@
 ---
-title: Le Manifeste de Sud Web
+title: Le manifeste du festival GongFuCha
 description: ""
 permalink: /manifeste/
 ---
@@ -9,24 +9,12 @@ permalink: /manifeste/
 
 # {{ page.title }}
 
-Voici les valeurs que nous partageons et véhiculons :
+Voici les valeurs qui nous animent et que nous souhaitons partager :
 
-* **S'immerger** chaque année dans une ville différente à la rencontre des acteurs locaux.
-* **Être** un évènement à taille humaine, avec moins de 150 participant·e·s.
-* **Réunir** une communauté de participant·e·s issu·e·s de divers métiers afin de bâtir une culture web commune.
-* **Encourager** la mixité, l'auto-organisation et le travail en petits groupes.
-* **Inviter** des personnes inspirantes, créatives et drôles, à travers notre curation.
-* **Veiller** à instaurer un cadre convivial et bienveillant pour tout le monde, sans distinction aucune.
-* **Apprendre** de domaines transverses : recherche, culture, droit, journalisme…
-* **Transmettre** nos expériences, notre savoir-faire.
-* **Partager** une journée de conférences unique.
-* **Insuffler** une prise de recul sur nos métiers.
-* **Donner** du sens à nos actions.
-* **Générer** de la confiance personnelle.
-* **Réfléchir** ensemble à des problématiques communes.
-* **Expérimenter** en continu pour apprendre de nos erreurs aussi bien que de nos succès.
-* **Confier** nos peurs, nos craintes et nos joies en toute humilité et sincérité.
-* **Offrir** une nourriture saine et locale.
+* **La rencontre** : Nous essayons de partir à la rencontre le cœur ouvert pour accueillir de nouvelles personnes, de nouvelles pratiques, de nouveaux thés. Explorer en prenant le risque de changer notre compréhension, voir plus loin à travers l'espace et à travers le temps pour partager et aborder humblement une tradition millénaire. GongFuCha est un festival qui prend son temps, le temps de papoter, le temps de savourer, le temps d'expérimenter, le temps de nous rencontrer.
+* **L'authenticité** : Ce qui est authentique est vrai, honnête et sans compromis. Nous souhaitons vous proposer des expériences insolites qui s'appuient sur la démarche de personnes artisanes impliquées et passionnées ou/et sur la culture traditionnelle chinoise du Thé.
+* **La simplicité** : Source de sérénité la simplicité est l'essence même de l'esprit du Thé. Nous souhaitons miser sur la frugalité, l'intimité, l'observation paisible. Proposer un festival hors du temps une parenthèse tranquille avec une empreinte écologique raisonnable.  
+* **Le plaisir** : C'est un peu ce qui nous anime, notre moteur d'enthousiasme, faire plaisir et se faire plaisir. Savourer des instants délicieux dans un jardin édénique.
 
 </div>
 </section>
