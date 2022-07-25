@@ -1,8 +1,7 @@
 <header class="home-header">
-  <div class="wrapper">
-    <h1 class="home-main-title">
-      <svg width="1em" class="home-main-title-logo" role="img" aria-labelledby="headerLogoTitle"
-        viewBox="0 6.5 48.75 13">
+    <div class="wrapper">
+        <h1 class="home-main-title">
+            <svg width="1em" class="home-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.5 48.75 13">
         <title id="headerLogoTitle">Festival GongFuCha</title>
         <defs>
           <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
@@ -11,36 +10,33 @@
         </defs>
         <text y="1em">GongFuCha</text>
       </svg>
-      <div class="home-main-title-baseline">
-        Le festival des Thés Chinois
-      </div>
-    </h1>
+            <div class="home-main-title-baseline">
+                Le festival autour des Thés Chinois
+            </div>
+        </h1>
 
-    <p class="home-sub-title">
-      工夫茶 - GōngFūChá, c’est <a href="#conferences">des conférences</a>, <a
-        href="#ateliers">des ateliers</a>, et plein d’informelles.
-       La prochaine édition se tiendra les <strong><time datetime="2022-09-20">vendredi 30 septembre</time>, <time datetime="2022-10-01"> samedi 1er octobre</time> et <time datetime="2022-10-01"> dimanche 2 octobre 2022</time></strong> au
-      <a href="{{ page.baseurl | default:site.baseurl }}/{{ "venir-parc-aux-bambous" | page.locale }}/">parc aux bambous de Lapenne, Ariège (09)</a>.
-    </p>
-    <p class="text-center">
-      <a class="button" data-text="voir le programme"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "programme" | page.locale }}/"
-        title="Voir le programme du festival GongFuCha">
-        <span class="button-inner">voir le programme</span>
-      </a>
-      {% if site.tickets.selling %}
-      <a class="button" data-text="réserver votre place"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | page.locale }}/"
-        title="Venir au parc aux bambous">
-        <span class="button-inner">réserver votre place</span>
-      </a>
-      {% endif %} {% if site.tickets.waiting-list %}
-      <a class="button" data-text="s'incrire en liste d'attente"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | page.locale }}/#register"
-        title="Venir à GongFuCha 2022">
-        <span class="button-inner">s'incrire en liste d'attente</span>
-      </a>
-      {% endif %}
-    </p>
-  </div>
+        <p class="home-sub-title">
+            Nous vous proposons des <a href="#ateliers">des ateliers</a>, <a href="#conferences">des
+        conférences</a>, et des instants informels de rencontre autour du thé de culture chinoise. La prochaine édition se tiendra les <strong><time datetime="2022-09-20">vendredi 30 septembre</time>, <time datetime="2022-10-01">
+          samedi 1er octobre</time> et <time datetime="2022-10-01"> dimanche 2 octobre
+          2022</time></strong> au
+            <a href="{{ page.baseurl | default:site.baseurl }}/{{ " venir-parc-aux-bambous " | page.locale }}/">parc aux
+        bambous
+        de Lapenne, Ariège (09)</a>.
+        </p>
+        <p class="text-center">
+            <a class="button" data-text="voir le programme" href="{{ page.baseurl | default:site.baseurl }}/{{ " programme " | page.locale }}/" title="Voir le programme du festival GongFuCha">
+                <span class="button-inner">voir le programme</span>
+            </a>
+            {% if site.tickets.selling %}
+            <a class="button" data-text="réserver votre place" href="{{ page.baseurl | default:site.baseurl }}/{{ " billetterie " | page.locale }}/" title="Venir au parc aux bambous">
+                <span class="button-inner">réserver votre place</span>
+            </a>
+            {% endif %} {% if site.tickets.waiting-list %}
+            <a class="button" data-text="s'incrire en liste d'attente" href="{{ page.baseurl | default:site.baseurl }}/{{ " billetterie " | page.locale }}/#register" title="Venir à GongFuCha 2022">
+                <span class="button-inner">s'incrire en liste d'attente</span>
+            </a>
+            {% endif %}
+        </p>
+    </div>
 </header>
