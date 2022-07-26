@@ -14,7 +14,7 @@ redirect_from:
 
 > Ce qui n’est pas grave pour vous l’est peut-être pour les autres.
 
-À Sud Web, nous supposons que les gens sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous  paraît important que cette rencontre s’organise dans un environnement &laquo;&nbsp;<span lang="en">safe</span>&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour tou·te·s.
+Pendant ce festival, nous supposons que les gens sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous  paraît important que cette rencontre s’organise dans un environnement &laquo;&nbsp;<span lang="en">safe</span>&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour tou·te·s.
 
 Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.
 
@@ -60,9 +60,9 @@ Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bie
 
 Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
 
-* Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et&#8239;/&#8239;ou à la Thym.
+* Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et&#8239;/&#8239;ou à l'équipe.
 * Vous n’êtes pas à l’aise et&#8239;/&#8239;ou vous n’avez pas l’énergie :
-    * vous pouvez en parler à une personne présente, en qui vous avez confiance, pour que celle-ci contacte la Thym ;
+    * vous pouvez en parler à une personne présente, en qui vous avez confiance, pour que celle-ci contacte l'équipe ;
     * ou appellez un·e ami·e de confiance ;
     * ou encore vous rendre dans un endroit et&#8239;/&#8239;ou auprès de personnes auprès desquelles vous vous sentez bien.
 
@@ -80,7 +80,7 @@ Les options sont multiples et dépendent souvent du contexte et des personnes en
     * l’interpeller ;
     * vérifier qu’elle est disposée à échanger au sujet de la situation ;
         * si oui, lui demander de s’expliquer sur la situation ;
-        * sinon, lui proposer d’en reparler plus tard et&#8239;/&#8239;ou d’en faire part à la Thym.
+        * sinon, lui proposer d’en reparler plus tard et&#8239;/&#8239;ou d’en faire part à l'équipe.
 
 Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode stricte&#8239;<sup><a href="#note2" id="note2-source">2</a></sup>.
 
@@ -100,7 +100,7 @@ En ce qui concerne la personne à l’origine de la situation, l’exclusion est
 
 <sup id="note1">1</sup>&#8239;: par <span lang="en">safe</span>, nous désignons un climat de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications. <a href="#note1-source">↵</a>
 
-<sup id="note2">2</sup>&#8239;: comme le fait remarquer [David](https://larlet.fr/david/stream/2018/01/12/), nous rappelons à toutes fins utiles qu’il existe en France un cadre légal de [lutte contre les discriminations](https://www.legifrance.gouv.fr/affichSarde.do?reprise=true&page=1&idSarde=SARDOBJT000007118441). <a href="#note2-source">↵</a>
+<sup id="note2">2</sup>&#8239;: comme le fait remarquer [David](https://larlet.fr/david/stream/2018/01/12/), nous rappelons à toutes fins utiles qu’il existe en France un cadre légal de [lutte contre les discriminations](https://www.egalite-femmes-hommes.gouv.fr/lutte-contre-les-discriminations/). <a href="#note2-source">↵</a>
 
 </div>
 </section>
