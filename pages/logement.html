@@ -21,8 +21,7 @@ permalink: /alternatives-logement/
         "fromprice" %} {% for bnb in specifics %}
       <li>
         <a href="{{ bnb.url }}" target="_blank" rel="noopener noreferrer">{{ bnb.name }}{% if bnb.distance %}
-          ({{ bnb.distance }} {% t à pied %}){% endif %} {% t à partir
-                de %} {{ bnb.fromprice }}
+          ({{ bnb.distance }} à pied){% endif %} à partir de {{ bnb.fromprice }}
           <span class="sr-only">(open in a new window)</span>
         </a>
       </li>
