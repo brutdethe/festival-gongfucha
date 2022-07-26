@@ -1,6 +1,6 @@
 ---
 title: Mentions légales
-description: "Sud Web est une association de type 1901 à but non-lucratif."
+description: "Brut de thé est une association de type 1901 à but non-lucratif."
 permalink: /mentions-legales/
 redirect_from:
   - /en/legal-mentions/
@@ -13,34 +13,30 @@ redirect_from:
 
 ## Éditeur
 
-Ce site web est édité par l’association Sud-Web :
+Ce site web est édité par [Brut de Thé](https://www.brutdethé.fr) :
 
 * association à but non lucratif de type loi 1901;
-* déclarée le 30/11/2011, auprès de la préfecture d’Avignon;
-* sous le numéro W842002749;
-* dont le siège social est situé : 32, route de la Grange, 24750 Champcevinel
+* déclarée le 16 avril 2021, auprès de la préfecture de Paris;
+* sous le numéro W751260414;
+* dont le siège social est situé : 7, rue Tal-Ar-Groas, 29160 Lanvéoc
 
 ## Directeur de la publication
 
-Le directeur de la publication est Boris Schapira, président de l’association Sud-Web.
+Les responsables de publication, sont Violaine Andrieux et Stéphane Langlois.
 
 ## Hébergeur
 
-Ce site web est hébergé par la société alwaysdata sise au 62 rue Tiquetonne, 75002 Paris.
+Ce site web est hébergé par la société [Github](https://fr.wikipedia.org/wiki/GitHub).
 
 ## Liens
 
 La création de liens avec le site est libre.
 
-## Droits de reproduction
-
-Toute copie d’un contenu d’une des pages du site doit avoir obtenu l’autorisation expresse de l'association Sud-Web.
-
 ## Données nominatives
 
 Les informations que vous pouvez donner au travers des différents formulaires nous sont destinées exclusivement.
 
-Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : contact à sudweb.fr
+Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : coucou à brutdethé.fr
 
 </div>
 </section>
