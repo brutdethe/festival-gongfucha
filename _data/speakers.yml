@@ -1,80 +1,40 @@
-don-mei:
-  name: Don Mei
-  image: /assets/images/speakers/don-mei.jpg
-  url: https://meileaf.com
-  en_US:
-    alt: >-
-      Don Mei among the tea trees.
-    bio: >-
-      It took a lot of effort and struggle from a Londoner, son of a Swiss mother and a Chinese father, to start teaching the British that tea is much more than that. His name is Don Mei, owner of London’s most famous tea shop, Mei Leaf (www.meileaf.com) located in the charming neighborhood of Camden Town.
+qiurong-bibollet:
+  name: Quirong Bibollet
+  image: /assets/images/speakers/quirong-bibollet.jpg
+  url: https://www.laporcelaineespaceduthe.com
   fr_FR:
     alt: >-
-      Don Mei au milieu des théiers.
+      QiuRong en pleine cérémonie de GongFuCha.
     bio: >-
-      Il a fallu beaucoup d'efforts et de lutte à un Londonien, fils d'une mère suisse et d'un père chinois, pour commencer à enseigner aux Britanniques que le thé est bien plus que cela. Il s'appelle Don Mei, propriétaire du plus célèbre salon de thé de Londres, Mei Leaf (www.meileaf.com), situé dans le charmant quartier de Camden Town.
+      Quirong est la Créatrice de la Maison de Thé -La Porcelaine- un lieu authentique pour rencontrer l'art du Thé et s'initier à la pratique de Gong fu cha. Elle vient d'une famille qui travaille dans la pharmacopée chinoise, l'agro-alimentaire et la restauration. C'est dans cet environnement que la culture chinoise s'est profondément enracinée en elle.
 
-leo-perrin:
-  name: Léo Perrin
-  image: /assets/images/speakers/leo-perrin.jpg
-  url: https://www.instagram.com/leo.prrn/?hl=fr
-  en_US:
-    alt: >-
-      Leo is wearing a white shirt, looking down, wearing a headset with a microphone.
-    bio: >-
-      Léo Perrin travels the tea plantations to select the best vintages and transmits with passion the fruit of his travels and encounters.
+perrine-pottiez:
+  name: Perrine Pottiez
+  image: /assets/images/speakers/perrine-pottiez.jpg
+  url: https://www.perrinepottiez.com
   fr_FR:
     alt: >-
-      Léo est en chemise blanche, le regard baissé, il porte un casque avec un micro.
+      Perrine regarde attentivement une de ses céramiques.
     bio: >-
-      Léo Perrin parcourt les plantations de thé pour sélectionner les meilleurs crus et transmet avec passion le fruit de ses voyages et de ses rencontres.
-
-tony-gebely:
-  name: Tony Gebely
-  image: /assets/images/speakers/tony-gebely.jpg
-  url: https://teausersguide.com/
-  en_US:
-    alt: >-
-      Tony poses smiling in a blue shirt.
-    bio: >-
-      In his 13 years in the tea business, Tony Gebely has worked for many leading tea companies, helping them navigate the burgeoning specialty sector of the tea industry. Tony is also the founder of the World of Tea website. Having traveled extensively to tea-producing regions during his life in tea, and having a degree in computer science, he developed a pragmatic approach to tea that led him to write his 2016 treatise, Tea: A User's Guide. Tony continues to be a student of the leaf and is currently working on his second book and serves as the Executive Director for the American Specialty Tea Alliance.
-  fr_FR:
-    alt: >-
-      Tony pose tout sourrire en chemise bleu.
-    bio: >-
-      Au cours de ses 13 années d'expérience dans le domaine du thé, Tony Gebely a travaillé pour de nombreuses sociétés de thé de premier plan, les aidant à s'orienter dans le secteur florissant des spécialités de l'industrie du thé. Tony est également le fondateur du site Web World of Tea. Ayant beaucoup voyagé dans les régions productrices de thé au cours de sa vie dans le thé, et ayant un diplôme en informatique, il a développé une approche pragmatique du thé qui l'a conduit à écrire son traité de 2016, Tea : Un guide de l'utilisateur. Tony continue d'être un étudiant de la feuille et travaille actuellement sur son deuxième livre et sert de directeur exécutif pour l'American Specialty Tea Alliance.
-
-thais-erbs:
-  name: Thaïs Erbs
-  image: /assets/images/speakers/thais-erbs.jpg
-  url: https://twitter.com/clementinehahn
-  fr_FR:
-    alt: >-
-      ...
-    bio: >-
-      ...
+      Perrine a découvert la céramique en 2014, elle a choisi le modelage qui permet un temps long et calme dans l’élaboration des pièces, elle cherche toujours à trouver la courbe harmonieuse, l’angle juste, l’arrondi subtil. Plus qu’un travail de poterie, sa démarche est un acte poétique.
 
 ya-lin:
   name: Ya Lin
   image: /assets/images/speakers/ya-lin.jpg
   url: http://ecoledethe.com/
-  en_US:
-    alt: >-
-      Tony poses smiling in a blue shirt.
-    bio: >-
-      Qualified as a master-assistant in the art of Chinese tea by the Chinese Tea Culture Academy in Taiwan. Born in Taipei, her first tea master was her maternal grandfather, a passionate tea lover. It was he who passed on to her the roots, the taste and the love of this tea culture. She is a disciple of Master FAN, a renowned tea master in Taiwan and China. Her ambition? To show the authentic taste, the culture and the Way of Chinese tea to as many people as possible.
   fr_FR:
     alt: >-
-      Emil se tient devant un décor coloré qui évoque l'enfance. Il porte un polo noir.
+      Ya-Lin le regard serein porte des lunette et une écharpe en laine.
     bio: >-
-      Qualifiée maître-assistante de l’art du thé chinois par « Chinese Tea Culture Academy » à Taïwan. Née à Taipei, son premier maître de thé était son grand-père maternel, un amateur passionné de thés. C’est lui qui lui a transmis les racines, le goût et l’amour de cette culture du thé. Elle est une disciple du maître FAN, maître de thé renommé à Taïwan et en Chine. Son ambition ? Montrer le goût authentique, la culture et la Voie du thé chinois au plus grand nombre.
+      Qualifiée maître-assistante de l’art du thé chinois par la « Chinese Tea Culture Academy » à Taïwan. Née à Taipei, son premier maître de thé était son grand-père maternel, un amateur passionné de thés. C’est lui qui lui a transmis les racines, le goût et l’amour de cette culture du thé. Elle est une disciple du maître FAN, maître de thé renommé à Taïwan et en Chine. Son ambition ? Montrer le goût authentique, la culture et la Voie du thé chinois au plus grand nombre.
 
 thomas-bernardi:
   name: Thomas Bernardi
   image: /assets/images/speakers/thomas-bernardi.jpg
-  url: http://www.dev-in-rodez.org/fr/
+  url: https://www.facebook.com/leslandesvivantes/
   fr_FR:
     alt: >-
-      Selphie de Thomas en barbe  et polo rouge.
+      Selphie de Thomas en barbe et polo rouge.
     bio: >-
       Après des études en lycée agricole il y a vingt ans, Thomas entame une grande boucle professionnelle dans le milieu associatif culturel et l’éducation populaire. Une expérience foisonnante où pratique, réflexion et rencontres n’ont eu de cesse de s’entremêler. En parallèle, il se forme à la botanique, au jardinage biologique, à la greffe de fruitier, au compostage, et diverses réjouissances terriennes. La boucle est bouclée, vingt ans plus tard : je deviens paysan !
 
@@ -88,21 +48,6 @@ manon-clouzeau:
     bio: >-
       Manon Clouzeau modèle des bols en grès parés d'émaux aux nuances naturalistes. Sur la voie du thé, elle tourne également des GaiWan et verseuses d'une élégante délicatesse.
 
-charly-vilain:
-  name: Charly Vilain
-  image: /assets/images/speakers/charly-vilain.jpg
-  url: https://www.facebook.com/CharlyVillainAuxOriginesduThe/
-  en_US:
-    alt: >-
-      Charly is sitting comfortably, enjoying a drink, behind him the sea and a big blue sky.
-    bio: >-
-      Charly is from La Rochelle and has a master's degree in French-Chinese interpretation and international business. He is interested in teas and particularly in traditional Chinese ceremonies.
-  fr_FR:
-    alt: >-
-      Charly est confortablement assis, il déguste un verre, derrière lui la mer et un grand ciel bleu.
-    bio: >-
-      Charly est Rochelais, diplômé d’un master d’interprète franco-chinois et affaires internationale, il s'intéresse aux thés et particulièrement aux cérémonies traditionnelles chinoises.
-
 violaine-andrieux:
   name: Violaine Andrieux
   image: /assets/images/speakers/violaine-andrieux.jpg
@@ -112,29 +57,3 @@ violaine-andrieux:
       ...
     bio: >-
       Violaine est co-fondatrice d'un café associatif en presqu'île de Crozon et vient de démarrer le projet -brut-de-thé- avec Thaïs et Stéphane.
-
-marc-andre-selosse:
-  name: Marc-André Selosse
-  image: /assets/images/speakers/marc-andre-selosse.jpg
-  url: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-  en_US:
-    alt: >-
-      Marc-André observes mushrooms in the forest with a thread-counter.
-    bio: >-
-      Marc-André Selosse is a French biologist specialized in botany and mycology. He has worked on symbiosis, particularly in the fields of evolution and ecology.
-  fr_FR:
-    alt: >-
-      Marc-André observe dans la forêt des champignons au compte-fil.
-    bio: >-
-      Marc-André Selosse est un biologiste français spécialisé en botanique et mycologie. Il a travaillé sur la symbiose, en particulier dans les domaines de l’évolution et de l’écologie.
-
-tea-travellers:
-  name: tea-travellers
-  image: /assets/images/speakers/tea-travellers.jpg
-  url: http://www.teatravelers.fr
-  en_US:
-    bio: >-
-      The Tea Travelers duo will spend 7 months in the great tea producing countries. From India to Kenya, through China and Japan, they will travel through the tea plantations. The objective? To explore the world of tea and especially to share our discoveries.
-  fr_FR:
-    bio: >-
-      Le binôme de Tea Travelers part 7 mois à l’assaut des grands pays producteurs de thé. De l’Inde au Kenya en passant par la Chine et le Japon, ils vont parcourir les plantations de thé. L’objectif ? Partir explorer le monde du thé et surtout partager nos découvertes.
