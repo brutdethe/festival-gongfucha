@@ -12,7 +12,7 @@
             href="https://twitter.com/{{member.twitter}}">{{member.firstname}} <span
             class="sr-only">{{member.lastname}}</span></a>
         {% else %}
-          {{member.lastname}}
+          {{member.firstname}} <span class="sr-only">{{member.lastname}}</span>
         {% endif %}
         (<a href="{{member.url}}">site</a>)
       </figcaption>
