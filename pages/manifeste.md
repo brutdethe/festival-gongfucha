@@ -19,4 +19,4 @@ Voici les valeurs qui nous animent et que nous souhaitons partager :
 </div>
 </section>
 
-{% include banners/gaiwan.html locale=page.locale %}
+{% include banners/teahouse.html locale=page.locale %}

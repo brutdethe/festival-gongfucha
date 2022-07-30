@@ -21,7 +21,7 @@ Nous avons donc décidé de proposer des consignes qui permettent de faire en so
 </div>
 </section>
 
-{% include banners/informelle.html locale=page.locale %}
+{% include banners/bambous.html locale=page.locale %}
 
 <section class="section">
 <div class="wrapper" markdown="1">
@@ -105,5 +105,5 @@ En ce qui concerne la personne à l’origine de la situation, l’exclusion est
 </div>
 </section>
 
-{% include banners/manon.html locale=page.locale %}
+{% include banners/perrine.html locale=page.locale %}
 
