@@ -16,8 +16,7 @@ permalink: /programme/
       de renverser la table comme des gens qui veulent se comprendre et proposer de nouvelles choses.</p>
     {% if site.tickets.selling %}
     <p class="text-center"><a class="button" data-text="réserver votre place"
-        href="{{ page.baseurl | default:site.baseurl }}/billetterie/"
-        title="Venir à GongFuCha 2022">
+        href="{{ page.baseurl | default:site.baseurl }}/billetterie/" title="Venir à GongFuCha 2022">
         <span class="button-inner">réserver votre place</span>
       </a></p>
     {% endif %}
@@ -44,12 +43,11 @@ permalink: /programme/
 <section class="section">
   <div class="wrapper">
     <p class="text-center"><a class="button" data-text="réserver votre place"
-        href="{{ page.baseurl | default:site.baseurl }}/billetterie/"
-        title="Venir à GongFuCha 2022">
+        href="{{ page.baseurl | default:site.baseurl }}/billetterie/" title="Venir à GongFuCha 2022">
         <span class="button-inner">réserver votre place</span>
       </a></p>
   </div>
 </section>
 {% endif %}
 
-{% include banners/forum.html locale=page.locale %}
+{% include banners/gaiwan.html locale=page.locale %}

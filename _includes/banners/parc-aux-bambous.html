@@ -1,0 +1,16 @@
+{% if include.page_top %}
+{% assign slug = "parc-aux-bambous page-top" %}
+{% else %}
+{% assign slug = "parc-aux-bambous" %}
+{% endif %}
+{% include banners/_generic.html
+  slug=slug
+  locale=include.locale
+  source_title="Le parc aux bambous de Lapenne"
+  source_target_url="https://parcauxbambous.com"
+  source_url=""
+  source_author="Didier Diroux"
+  source_rights_url="https://creativecommons.org/licenses/by-sa/3.0/"
+  source_rights_title="Licence Creative Commons"
+  source_rights_shortname="CC BY-SA 3.0"
+%}
