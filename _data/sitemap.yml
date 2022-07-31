@@ -29,6 +29,11 @@
   fr_only: true
   in_nav: true
   in_footer: true
+- name: Dormir sur place
+  type: page
+  value: dormir-sur-place
+  in_nav: true
+  in_footer: true
 - name: Code de Conduite
   type: page
   value: code-de-conduite
@@ -60,4 +65,3 @@
   value: mentions-legales
   in_nav: false
   in_footer: true
-
