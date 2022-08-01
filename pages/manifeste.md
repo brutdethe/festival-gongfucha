@@ -9,6 +9,9 @@ permalink: /manifeste/
 
 # {{ page.title }}
 
+> Un festival pour revenir aux sources, sans nuage de lait, ni arômes ajoutés. 
+> Des feuilles de Thé, de l’eau chaude, un peu de savoir faire et c’est tout
+
 Voici les valeurs qui nous animent et que nous souhaitons partager :
 
 * **La rencontre** : Nous essayons de partir à la rencontre le cœur ouvert pour accueillir de nouvelles personnes, de nouvelles pratiques, de nouveaux thés. Explorer en prenant le risque de changer notre compréhension, voir plus loin à travers l'espace et à travers le temps pour partager et aborder humblement une tradition millénaire. GongFuCha est un festival qui prend son temps, le temps de papoter, le temps de savourer, le temps d'expérimenter, le temps de nous rencontrer.
