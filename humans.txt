@@ -4,8 +4,8 @@ layout: null
 
 /* ABOUT */
 
-  Twitter:      @sudweb
-  Location:     South of France (Bordeaux, Toulouse, Montpellier, Avignon, Nîmes)
+  Twitter:      @brutdethe
+  Location:     Crozon, Lapenne
   Design:       Matthieu Bué (@twikito)
 
 /* SITE */

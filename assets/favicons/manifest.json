@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-    "name": "Sud Web",
+    "name": "GongFuCha",
     "icons": [
         {
             "src": "{{ "assets/favicons/android-chrome-192x192.png?date=20180123" | relative_url }}",

@@ -20,7 +20,7 @@ permalink: /dormir-sur-place/
   <a href="http://valdelhort.com/">Le Val de l’Hort</a> nous accueillira du jeudi soir au samedi, en chambres de 3 à
   4 personnes, en dortoir, ou en tente. La réservation du logement se fera au moment de l’inscription et vous
   pourrez évidemment choisir votre chambrée.
-  N’hésitez pas à <a href="https://sudweb.fr/blog/contact/" title="Contactez l'équipe de Sud Web">nous faire
+  N’hésitez pas à <a href="/contact/" title="Contactez l'équipe de Sud Web">nous faire
     signe</a> pour toute question.
 </p>
 <p>

@@ -44,7 +44,7 @@
   value: manifeste
   in_nav: false
   in_footer: true
-- name: Aider Sud Web
+- name: Aider GongFuCha
   type: page
   value: financer
   in_nav: false
@@ -56,8 +56,8 @@
   in_nav: false
   in_footer: true
 - name: Contact
-  type: translate
-  value: https://sudweb.fr/blog/contact/
+  type: page
+  value: contact
   in_nav: true
   in_footer: true
 - name: Mentions légales
