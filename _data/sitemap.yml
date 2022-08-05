@@ -32,8 +32,8 @@
 - name: Dormir sur place
   type: page
   value: dormir-sur-place
-  in_nav: true
-  in_footer: true
+  in_nav: false
+  in_footer: false
 - name: Code de Conduite
   type: page
   value: code-de-conduite
@@ -48,7 +48,7 @@
   type: page
   value: financer
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Elles et ils nous soutiennent
   type: page
   value: merci
