@@ -53,9 +53,8 @@
 - name: Elles et ils nous soutiennent
   type: page
   value: merci
-  fr_only: true
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Contact
   type: page
   value: contact
