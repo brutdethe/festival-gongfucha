@@ -11,15 +11,22 @@ permalink: /programme/
 <section class="section">
   <div class="wrapper">
     <h1>Le programme 2022 : {{ number_of_conferences }} ateliers</h1>
-    <p>Sur cette page nous vous présentons des personnes qui cultivent une <strong>relation authentique</strong> et
-      enthousiaste avec le Thé et qui <strong>comptent pour nous</strong>. Nous sommes fières et exaltées en imaginant
-      <strong>les rencontres et les liens</strong> qui vont se tisser entre ces artisants et vous !</p>
+    <p>Le festival 工夫茶 - <em>GongFuCha</em> propose une <strong>balade poétique et bucolique</strong> ponctuée
+        de {{ number_of_conferences }} d'expériences autour du monde du Thé, qui vous invitent à des <strong>rencontres</strong>, des <strong>ateliers</strong> et des <strong>conférences</strong> présentées par des
+        des personnes qui cultivent une <strong>relation authentique</strong> et enthousiaste avec le Thé. Le festival se
+        déroule du vendredi au dimanche, vous pouvez choisir le ou les jours qui vous conviennent.</p>
+    <p>Nous sommes fières et exaltées en imaginant <strong>les rencontres et les liens</strong> qui vont se tisser entre ces artisants et vous !</p>
     {% if site.tickets.selling %}
     <p class="text-center"><a class="button" data-text="réserver votre place"
         href="{{ page.baseurl | default:site.baseurl }}/billetterie/" title="Venir à GongFuCha 2022">
         <span class="button-inner">réserver votre place</span>
-      </a></p>
+      </a>
     {% endif %}
+      <a class="button" data-text="proposer un sujet"
+        href="{{ page.baseurl | default:site.baseurl }}/{{ "appel-a-propositions" | page.locale }}/"
+        title="proposer un sujet">
+        <span class="button-inner">proposer un sujet</span>
+      </a></p>
   </div>
 </section>
 
