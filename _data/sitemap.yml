@@ -1,13 +1,14 @@
+
 - name: Accueil
   type: root_anchor
   value: ""
   in_nav: true
   in_footer: false
-- name: Appel à sujets
+- name: Appel à propositions
   type: page
-  value: appel-a-sujets
-  in_nav: false
-  in_footer: false
+  value: appel-a-propositions
+  in_nav: true
+  in_footer: true
 - name: Programme
   type: page
   value: programme
