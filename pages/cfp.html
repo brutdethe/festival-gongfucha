@@ -8,28 +8,37 @@ published: true
 
 <section class="section">
   <div class="wrapper">
-    <h1>Comment participer au festival ?</h1>
+    <h1>Proposer votre participation au festival</h1>
     <p>Autour du sujet : <i>Thé de culture chinoise</i></p>
-    <ul>
-      <li><p><b>Vous avez des choses à présenter</b><br />
-        <i>Vous avez quelque chose à montrer, faire déguster, à vendre, à faire vivre : <br />
-        Nous pouvons mettre à disposition un coin qui vous sera dédié pour vous permettre de rencontrer les participantes</i>
-      </p></li>
-      <li><p><b>Vous avez des choses à raconter</b><br />
-        <i>Vous avez un sujet à présenter, une histoire à raconter, etc :<br />
-          il est aussi possible de tenir une conférence.</i>
-      </p></li>
-    </ul>
+    <dl>
+      <dt>
+        <h3>Vous avez des choses à présenter ?</h3>
+      </dt>
+      <dd>
+        <p>
+          Vous avez des <strong>objets ou des créations</strong> à exposer, du <strong>Thé</strong> à faire déguster et à vendre, des théiers ou quelque
+            chose que nous n'avons pas encore imaginé.<br />
+            Nous vous aiderons à aménager un <strong>espace dédié et intimiste</strong> pour exposer et rencontrer les participantes dans les meilleures conditions.
+        </p>
+      </dd>
+      <dt>
+        <h3>Vous avez des choses à raconter ?</h3>
+      </dt>
+      <dd>
+        <p>
+         Si vous souhaitez partager votre <strong>vision du Thé</strong> ou parler de <strong>votre métier</strong> ou exposer quelques choses qui vous tient à cœur.<br>
+         Nous construirons avec vous les conditions pour que vous puissiez jouer votre conférence ou votre atelier dans de bonnes conditions.
+        </p>
+      </dd>
+    </dl>
   </div>
 </section>
-
+{% include banners/perrine.html locale=page.locale %}
 <section class="section">
   <div class="wrapper">
-    <h4>Contactez nous par ce formulaire en nous décrivant de quelle manière vous souhaiteriez participer</h4>
+    <h4>Contactez nous par ce formulaire décrivant le sujet la forme que vous souhaiteriez donner à votre participation</h4>
     {% include contact_form.html locale=page.locale %}
   </div>
 </section>
-
-{% include banners/parc-aux-bambous.html locale=page.locale %}
 
 {% include banners/manon.html locale=page.locale %}
