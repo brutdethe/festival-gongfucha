@@ -25,7 +25,8 @@ permalink: /alternatives-logement/
           <span class="sr-only">(open in a new window)</span>
         </a>
       </li>
-      {% endfor %} {% for bnb in generics %}
+      {% endfor %}
+      {% for bnb in generics %}
       <li>
         <a href="{{ bnb.url }}" target="_blank" rel="noopener noreferrer">{{ bnb.name }}{% if bnb.distance %}
           ({{ bnb.distance }}){% endif %} à partir de {{ bnb.fromprice

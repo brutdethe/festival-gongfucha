@@ -10,23 +10,36 @@ permalink: /dormir-sur-place/
 # {{ page.title }}
     
 <p>
-  Cette année, <strong>nous avons choisi l’immersion</strong> pour cultiver le lien et provoquer encore plus
-  d’informelles.
-  Lisez notre article &laquo;&nbsp;<a href="https://sudweb.fr/blog/2018/un-lieu-plutot-qu-une-ville/">Choisir un
-    lieu plutôt qu’une ville</a>&nbsp;&raquo; pour en savoir plus sur cette décision.
-  Par conséquent, <strong>l’hébergement est compris dans le prix du billet</strong>.
+  <p>Le festival se tiendra dans le parc au bambous à 12km de Pamiers :</p>
+  <address>Broques<br>09500 Lapenne<br>
+    <small>
+      (<a href="https://www.openstreetmap.org/directions?from=&to=44.0403%2C3.98892#map=8">ouvrir dans
+        OpenStreetMap</a>)
+    </small>
+  </address>
 </p>
-<p>
-  <a href="http://valdelhort.com/">Le Val de l’Hort</a> nous accueillira du jeudi soir au samedi, en chambres de 3 à
-  4 personnes, en dortoir, ou en tente. La réservation du logement se fera au moment de l’inscription et vous
-  pourrez évidemment choisir votre chambrée.
-  N’hésitez pas à <a href="https://sudweb.fr/blog/contact/" title="Contactez l'équipe de Sud Web">nous faire
-    signe</a> pour toute question.
-</p>
-<p>
-  Si toutefois vous préférez vous loger par vos propres moyens, <a
-    href="{{ "/alternatives-logement/" | relative_url }}">des alternatives sont disponibles</a>.
-</p>
+
+<ul>
+  {% assign specifics = site.data.bnbs.specifics | sort: "distance" %} {% assign generics = site.data.bnbs.generics | sort:
+    "fromprice" %} {% for bnb in specifics %}
+  <li>
+    <a href="{{ bnb.url }}" target="_blank" rel="noopener noreferrer">{{ bnb.name }}{% if bnb.distance %}
+      ({{ bnb.distance }} à pied){% endif %} à partir de {{ bnb.fromprice }}
+      <span class="sr-only">(open in a new window)</span>
+    </a>
+  </li>
+  {% endfor %}
+  {% for bnb in generics %}
+  <li>
+    <a href="{{ bnb.url }}" target="_blank" rel="noopener noreferrer">{{ bnb.name }}{% if bnb.distance %}
+      ({{ bnb.distance }}){% endif %} à partir de {{ bnb.fromprice
+            }}
+      <span class="sr-only">(open in a new window)</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
 {% if site.tickets.selling %}
 <p class="text-center">
   <a class="button" data-text="réserver votre place" href="{{ "/billetterie/" | relative_url }}"
@@ -35,6 +48,8 @@ permalink: /dormir-sur-place/
   </a>
 </p>
 {% endif %}
+
+<!-- 
 <div class="grid-3">
   <figure role="group" aria-labelledby="fig1">
     <img src="{{ site.lazyload.placeholder }}" class="lozad"
@@ -58,5 +73,5 @@ permalink: /dormir-sur-place/
 </div>
   </div>
 </section>
-
+-->
 {% include banners/teahouse.html locale=page.locale %}

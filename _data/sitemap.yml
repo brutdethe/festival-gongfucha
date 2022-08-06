@@ -1,13 +1,14 @@
+
 - name: Accueil
   type: root_anchor
   value: ""
   in_nav: true
   in_footer: false
-- name: Appel à sujets
+- name: Appel à propositions
   type: page
-  value: appel-a-sujets
-  in_nav: false
-  in_footer: false
+  value: appel-a-propositions
+  in_nav: true
+  in_footer: true
 - name: Programme
   type: page
   value: programme
@@ -48,16 +49,15 @@
   type: page
   value: financer
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Elles et ils nous soutiennent
   type: page
   value: merci
-  fr_only: true
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Contact
-  type: translate
-  value: https://sudweb.fr/blog/contact/
+  type: page
+  value: contact
   in_nav: true
   in_footer: true
 - name: Mentions légales
