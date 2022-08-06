@@ -44,7 +44,7 @@
   value: manifeste
   in_nav: false
   in_footer: true
-- name: Aider Sud Web
+- name: Aider GongFuCha
   type: page
   value: financer
   in_nav: false
