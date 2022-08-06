@@ -1,3 +1,14 @@
+je-le-potier:
+  name: Jé le potier
+  image: /assets/images/speakers/je-le-potier.jpg
+  url: https://www.theiere-tasse.com
+  fr_FR:
+    alt: >-
+      Sébastien pendant une cuisson regarde vers le haut, bouche bée.. C’est un espace d’expérimentation, d’apprentissage et de création
+    bio: >-
+      Jé a consacré son travail au domaine du thé, il explore par une pratique quotidienne, pour que l’expérience se transforme en qualités concrètes et utiles pour les pièces avec le sens du détail et le plaisir de la précision.
+      <blockquote>Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est inspirant, plein de promesses et de mystères.</blockquote>
+
 sebastien-de-groot:
   name: Sébastien de Groot
   image: /assets/images/speakers/sebastien-de-groot.jpg
@@ -57,13 +68,3 @@ manon-clouzeau:
       Manon Clouzeau est en train de tourner des pièces, légèrement masquée par une étagère.
     bio: >-
       Manon Clouzeau modèle des bols en grès parés d'émaux aux nuances naturalistes. Sur la voie du thé, elle tourne également des GaiWan et verseuses d'une élégante délicatesse.
-
-violaine-andrieux:
-  name: Violaine Andrieux
-  image: /assets/images/speakers/violaine-andrieux.jpg
-  url: https://brutdethé.fr
-  fr_FR:
-    alt: >-
-      ...
-    bio: >-
-      Violaine est co-fondatrice d'un café associatif en presqu'île de Crozon et vient de démarrer le projet -brut-de-thé- avec Thaïs et Stéphane.

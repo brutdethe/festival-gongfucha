@@ -8,8 +8,7 @@ permalink: /dormir-sur-place/
   <div class="wrapper" markdown="1">
 
 # {{ page.title }}
-    
-<p>
+        
   <p>Le festival se tiendra dans le parc au bambous à 12km de Pamiers :</p>
   <address>Broques<br>09500 Lapenne<br>
     <small>
@@ -17,7 +16,11 @@ permalink: /dormir-sur-place/
         OpenStreetMap</a>)
     </small>
   </address>
-</p>
+  <p>Nous vous proposons une petite sélection de lieux pas trop éloignés du parc pour pouvoir profiter pleinement de ces trois jours d'évasion et nous rejoindre dans l'univers des Thés chinois.</p>
+
+<ul>
+  <li>à Montaud chez <a href="https://www.airbnb.fr/rooms/7822320?source_impression_id=p3_1659794266_I%2Fzu2KYkWSStL3bn&check_in=2022-09-29&guests=2&adults=2&check_out=2022-10-02">Arno et Thomas</a></li>
+</ul>
 
 <ul>
   {% assign specifics = site.data.bnbs.specifics | sort: "distance" %} {% assign generics = site.data.bnbs.generics | sort:
@@ -51,29 +54,7 @@ permalink: /dormir-sur-place/
 </p>
 {% endif %}
 
-<!-- 
-<div class="grid-3">
-  <figure role="group" aria-labelledby="fig1">
-    <img src="{{ site.lazyload.placeholder }}" class="lozad"
-      data-src="{{ "/assets/images/anduze/val-de-lhort-1-460.jpg" | relative_url }}" alt="Un espace circulant"
-      width="460" height="307">
-    <figcaption id="fig1" class="text-xs text-center">Un espace circulant</figcaption>
-  </figure>
-  <figure role="group" aria-labelledby="fig2">
-    <img src="{{ site.lazyload.placeholder }}" class="lozad"
-      data-src="{{ "/assets/images/anduze/val-de-lhort-2-460.jpg" | relative_url }}"
-      alt="Des endroits tranquilles et ombragés" width="460" height="307">
-    <figcaption id="fig2" class="text-xs text-center">Des endroits tranquilles et ombragés</figcaption>
-  </figure>
-  <figure role="group" aria-labelledby="fig3">
-    <img src="{{ site.lazyload.placeholder }}" class="lozad"
-      data-src="{{ "/assets/images/anduze/val-de-lhort-3-460.jpg" | relative_url }}"
-      alt="Accessible, label Tourisme et handicaps" width="460" height="307">
-    <figcaption id="fig3" class="text-xs text-center">Accessible, label &laquo;&nbsp;Tourisme et
-      handicaps&nbsp;&raquo;</figcaption>
-  </figure>
-</div>
   </div>
 </section>
--->
-{% include banners/teahouse.html locale=page.locale %}
+{% include banners/porcelaine.html locale=page.locale %}
+

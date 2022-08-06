@@ -55,9 +55,9 @@
   value: merci
   in_nav: false
   in_footer: false
-- name: Contact
+- name: Nous contacter
   type: page
-  value: contact
+  value: nous-contacter
   in_nav: true
   in_footer: true
 - name: Mentions légales

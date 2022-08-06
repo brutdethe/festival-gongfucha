@@ -8,11 +8,11 @@
   slug: violaine-andrieux
   url: https://brutdethé.fr
 
-- firstname: Stéphane
-  lastname: Langlois
-  slug: stephane-langlois
-  twitter: pointbar
-  url: https://pntbr.fr
+#- firstname: Stéphane
+#  lastname: Langlois
+#  slug: stephane-langlois
+#  twitter: pointbar
+#  url: https://pntbr.fr
   
 - firstname: Qiurong
   lastname: Bibollet
@@ -34,3 +34,8 @@
   twitter: sofiaboulaarab
   slug: sofia-boulaarab
   url: https://www.linkedin.com/in/sofiaboulaarab/
+
+- firstname: Jé
+  lastname: le potier
+  slug: je-le-potier
+  url: https://www.theiere-tasse.com/
