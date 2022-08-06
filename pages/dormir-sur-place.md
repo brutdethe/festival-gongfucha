@@ -42,9 +42,11 @@ permalink: /dormir-sur-place/
 
 {% if site.tickets.selling %}
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="{{ "/billetterie/" | relative_url }}"
-    title="Venir à GongFuCha 2022">
-    <span class="button-inner">réserver votre place</span>
+  <a class="button" data-text="réserver votre place"
+        href="https://boutique.brutdethé.fr/?categorie=Festival"
+        title="Venir au parc aux bambous"
+        target="_blank">
+        <span class="button-inner">réserver votre place</span>
   </a>
 </p>
 {% endif %}
