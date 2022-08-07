@@ -6,7 +6,7 @@
         <title id="headerLogoTitle">Festival GongFuCha</title>
         <defs>
           <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
-            <image xlink:href="{{ "/assets/images/logo-bg.jpg" | relative_url }}" width="38.5" height="20" />
+            <image xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}" width="38.5" height="20" />
           </pattern>
         </defs>
         <text y="1em">GongFuCha</text>
@@ -38,10 +38,8 @@
         <span class="button-inner">voir le programme</span>
       </a>
       {% if site.tickets.selling %}
-      <a class="button" data-text="réserver votre place"
-        href="https://boutique.brutdethé.fr/?categorie=Festival"
-        title="Venir au parc aux bambous"
-        target="_blank">
+      <a class="button" data-text="réserver votre place" href="https://boutique.brutdethé.fr/?categorie=Festival"
+        title="Venir au parc aux bambous" target="_blank">
         <span class="button-inner">réserver votre place</span>
       </a>
       {% endif %} {% if site.tickets.waiting-list %}
