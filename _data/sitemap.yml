@@ -14,11 +14,6 @@
   value: programme
   in_nav: true
   in_footer: false
-- name: Billetterie
-  type: page
-  value: billetterie
-  in_nav: false
-  in_footer: false
 - name: Venir au parc aux bambous
   type: page
   value: venir-parc-aux-bambous
@@ -43,7 +38,7 @@
 - name: Manifeste
   type: page
   value: manifeste
-  in_nav: false
+  in_nav: true
   in_footer: true
 - name: Aider GongFuCha
   type: page

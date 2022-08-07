@@ -24,5 +24,4 @@ permalink: /budget/
 | Divers            |||   500 € |
 | **Total**         ||| **7 750 €** |
 
-{% include register-section.html label='Contribuer à la cagnotte' inside='true' %}
 {% include banners/teahouse.html locale=page.locale %}
