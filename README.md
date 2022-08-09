@@ -1,7 +1,7 @@
 # GongFuCha 2022
 
 Site internet du festival des Thés de culture Chinoise, dont la 1e édition aura lieu les 30 septembre, 1er et 2 octobre au [parc aux bambous](https://parcauxbambous.com) à Lapenne (09)
-[https://festival.brutdethé.fr](https://gongfucha.brutdethé.fr)
+[https://gongfucha.brutdethé.fr](https://gongfucha.brutdethé.fr)
 
 ## Pré-requis
 
