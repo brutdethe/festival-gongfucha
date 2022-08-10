@@ -13,7 +13,7 @@ permalink: /budget/
 
 # {{ page.title }}
     
-Voici un aperçu du budget prévisionnel en fonction des différents postes :
+Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce budget est voué à évoluer au fil du temps en fonction de l'avancée du programme et de l'organisation.
 
 | Poste dépenses    | Montant      |
 | :---------------- | -----------: |
@@ -30,6 +30,8 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes :
 
 ---
 
+<br>
+
 | Poste recettes    | Montant     |
 | :---------------- | ----------: |
 | Vente affiches    |       150 € |
@@ -42,4 +44,5 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes :
 
   </div>
 </section>
+
 {% include banners/teahouse.html locale=page.locale %}
