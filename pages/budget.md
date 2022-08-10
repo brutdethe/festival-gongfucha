@@ -11,17 +11,29 @@ permalink: /budget/
     
 <p>Voici un aperçu du budget prévisionnel en fonction des différents postes :</p>
 
-| Poste dépenses    ||| Montant |
-| ----------------- ||| ------- |
-| Affiches          |||   600 € |
-| Hébergement       ||| 1 500 € |
-| Eau/thé           |||   250 € |
-| Transport         |||   500 € |
-| Aménagement       ||| 3 000 € |
-| Com'pro           |||   500 € |
-| Location véhicule |||   300 € |
-| Catering          |||   600 € |
-| Divers            |||   500 € |
-| **Total**         ||| **7 750 €** |
+| Poste dépenses    | Montant     |
+| ----------------- | ----------: |
+| Affiches          |       700 € |
+| Hébergement       |     1 500 € |
+| Eau + filtre      |       500 € |
+| Transport         |       500 € |
+| Aménagement       |     3 000 € |
+| Location véhicule |       300 € |
+| Catering          |     1 600 € |
+| Cachets artistes  |       600 € |
+| Divers            |       800 € |
+| **Total**         | **9 500 €** |
 
+| Poste recettes    | Montant     |
+| ----------------- | ----------: |
+| Vente affiches    |       150 € |
+| Entrées web       |       400 € |
+| Bols entrées      |       750 € |
+| Brut de thé       |       750 € |
+| Sponsors          |         ? € |
+| Dons              |         ? € |
+| **Total**         | **2 050 €** |
+
+</div>
+</section>
 {% include banners/teahouse.html locale=page.locale %}
