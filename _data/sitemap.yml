@@ -60,3 +60,8 @@
   value: mentions-legales
   in_nav: false
   in_footer: true
+- name: Remerciements
+  type: page
+  value: remerciements
+  in_nav: false
+  in_footer: false

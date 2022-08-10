@@ -3,29 +3,35 @@ title: Budget prévisionnel
 description: ""
 permalink: /budget/
 ---
-
+<style>
+  th {
+    width: 12em;
+  }
+</style>
 <section class="section">
   <div class="wrapper" markdown="1">
 
 # {{ page.title }}
     
-<p>Voici un aperçu du budget prévisionnel en fonction des différents postes :</p>
+Voici un aperçu du budget prévisionnel en fonction des différents postes :
 
-| Poste dépenses    | Montant     |
-| ----------------- | ----------: |
-| Affiches          |       700 € |
-| Hébergement       |     1 500 € |
-| Eau + filtre      |       500 € |
-| Transport         |       500 € |
-| Aménagement       |     3 000 € |
-| Location véhicule |       300 € |
-| Catering          |     1 600 € |
-| Cachets artistes  |       600 € |
-| Divers            |       800 € |
-| **Total**         | **9 500 €** |
+| Poste dépenses    | Montant      |
+| :---------------- | -----------: |
+| Affiches          |        700 € |
+| Hébergement       |      2 500 € |
+| Eau + filtre      |        500 € |
+| Transport         |        500 € |
+| Aménagement       |      3 000 € |
+| Location véhicule |        300 € |
+| Catering          |      1 600 € |
+| Cachets artistes  |        600 € |
+| Divers            |        800 € |
+| **Total**         | **10 500 €** |
+
+---
 
 | Poste recettes    | Montant     |
-| ----------------- | ----------: |
+| :---------------- | ----------: |
 | Vente affiches    |       150 € |
 | Entrées web       |       400 € |
 | Bols entrées      |       750 € |
@@ -34,6 +40,6 @@ permalink: /budget/
 | Dons              |         ? € |
 | **Total**         | **2 050 €** |
 
-</div>
+  </div>
 </section>
 {% include banners/teahouse.html locale=page.locale %}
