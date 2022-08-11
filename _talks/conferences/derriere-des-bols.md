@@ -3,8 +3,8 @@ display-order: 3
 speaker:
   - manon-clouzeau
 fr_FR:
-  title: Derrière des bols
+  title: Derrière le bol
   description: >-
-    Manon a la passion des bols, elle n'est pas intéressée par la dimension technique du thé, elle nous parle de son appetit sensoriel et de plein d'autres trucs personnels autour de sa relation avec le thé.
-vimeo_id: 68202421
+    Manon a la passion des bols, elle se consacre presque exclusivement à la création de bols en grès émaillé tournés à la motte. Plus ou moins ouverts, plus ou moins grands. Chacun sa parure d’émail subtile variation de textures. Ce contenant synonyme d’ouverture et d’accueil permet aussi bien de donner que de recevoir, en invoquant l’échange et le partage.
+youtube_id: AQqweWF2oIY
 ---
