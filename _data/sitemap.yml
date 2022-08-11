@@ -7,6 +7,17 @@
 - name: Appel à propositions
   type: page
   value: appel-a-propositions
+  in_nav: false
+  in_footer: false
+- name: Infos pratiques
+  type: page
+  value: infos-pratiques
+  fr_only: true
+  in_nav: true
+  in_footer: true
+- name: Manifeste
+  type: page
+  value: manifeste
   in_nav: true
   in_footer: true
 - name: Programme
@@ -17,12 +28,6 @@
 - name: Venir au parc aux bambous
   type: page
   value: venir-parc-aux-bambous
-  in_nav: true
-  in_footer: true
-- name: Infos pratiques
-  type: page
-  value: infos-pratiques
-  fr_only: true
   in_nav: true
   in_footer: true
 - name: Dormir sur place
@@ -50,11 +55,6 @@
   value: merci
   in_nav: false
   in_footer: false
-- name: Nous contacter
-  type: page
-  value: nous-contacter
-  in_nav: true
-  in_footer: true
 - name: Mentions légales
   type: page
   value: mentions-legales
@@ -65,3 +65,8 @@
   value: remerciements
   in_nav: false
   in_footer: false
+- name: Nous contacter
+  type: page
+  value: nous-contacter
+  in_nav: true
+  in_footer: true
