@@ -40,11 +40,6 @@
   value: code-de-conduite
   in_nav: false
   in_footer: true
-- name: Manifeste
-  type: page
-  value: manifeste
-  in_nav: true
-  in_footer: true
 - name: Aider GongFuCha
   type: page
   value: financer
