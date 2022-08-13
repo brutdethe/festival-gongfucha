@@ -1,5 +1,5 @@
 ---
-display-order: 9
+display-order: 7
 speaker:
   - laurence-gillet
 fr_FR:

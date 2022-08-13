@@ -1,5 +1,5 @@
 ---
-display-order: 7
+display-order: 5
 speaker:
   - sophie-pouly
 fr_FR:
