@@ -38,9 +38,9 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 | Entrées web       |       400 € |
 | Bols entrées      |       750 € |
 | Brut de thé       |       750 € |
-| Sponsors          |         ? € |
+| Sponsors          |       100 € |
 | Dons              |         ? € |
-| **Total**         | **2 050 €** |
+| **Total**         | **2 150 €** |
 
   </div>
 </section>
