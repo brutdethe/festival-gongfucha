@@ -18,7 +18,7 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 | Poste dépenses    | Montant      |
 | :---------------- | -----------: |
 | Affiches          |        700 € |
-| Hébergement       |      2 500 € |
+| Hébergement       |      3 000 € |
 | Eau + filtre      |        500 € |
 | Transport         |        500 € |
 | Aménagement       |      3 000 € |
@@ -26,7 +26,7 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 | Catering          |      1 600 € |
 | Cachets artistes  |        600 € |
 | Divers            |        800 € |
-| **Total**         | **10 500 €** |
+| **Total**         | **11 000 €** |
 
 ---
 

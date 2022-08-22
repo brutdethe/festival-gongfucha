@@ -35,9 +35,9 @@
   value: dormir-sur-place
   in_nav: true
   in_footer: true
-- name: Code de Conduite
+- name: Recommandations de postures
   type: page
-  value: code-de-conduite
+  value: recommandations-de-postures
   in_nav: false
   in_footer: true
 - name: Aider GongFuCha
