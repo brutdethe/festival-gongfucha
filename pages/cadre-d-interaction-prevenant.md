@@ -4,6 +4,16 @@ description: "Consignes pour créer un cadre d’interaction prévenant"
 i18n-key: coc
 permalink: /recommandations-de-postures/
 ---
+<style>
+dd {
+    display: none;
+    margin: 0.9rem;
+}
+
+dd.visible {
+    display: block;
+}
+</style>
 
 <script>
 window.addEventListener("load", function(event) {
@@ -18,16 +28,10 @@ window.addEventListener("load", function(event) {
 
 <section class="section">
 <div class="wrapper" markdown="1">
-<dl>  
-<dt>Recommandations pour un cadre prévenant</dt>
-<dd>
+## Recommandations pour un cadre prévenant
 > Ce qui n’est pas grave pour vous l’est peut-être pour les autres.
 
-Pendant ce festival, nous supposons que les gens sont bien intentionnés et nous ne cherchons pas à leur dire quoi faire. En même temps, nous souhaitons favoriser un environnement &laquo;&nbsp;prévenant&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour toutes les personnes présentes.
-
-Pour faire en sorte que tout le monde se sente à l'aise, nous proposons quelques recommandations.
-</dd>
-</dl>
+Pendant ce festival, nous supposons que les personnes sont bien intentionnées et nous ne souhaitons pas leur dire quoi faire. En même temps, nous avons à cœur de construire un environnement &laquo;&nbsp;prévenant&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour faire en sorte que tout le monde se sente à l'aise.
 </div>
 </section>
 
@@ -35,14 +39,15 @@ Pour faire en sorte que tout le monde se sente à l'aise, nous proposons quelque
 
 <section class="section">
 <div class="wrapper" markdown="1">
-
+<dl>
 <dt>Pour quoi faire ?</dt>
 
-<dd>Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être &laquo;&nbsp;oppressées&nbsp;&raquo; par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes inappropriées adoptées sans s’en rendre compte.</dd>
-
-Ici, les recommandations de sécurisation des interactions permettent de favoriser un contexte &laquo;&nbsp;prévenant&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; en veillant à ce que des situations pouvant aller de l’inconfortable à l’oppressif puissent être rendues visibles et soient prises en compte. Nous cherchons à établir un lien de confiance et de soin pour permettre à toutes les personnes d'intégrer la communauté avec une confiance suffisante.
-
-## Concrètement, comment ça marche ?
+<dd>Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être &laquo;&nbsp;oppressées&nbsp;&raquo; par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes inappropriées adoptées sans s’en rendre compte.
+<br>
+<br>
+Ici, les recommandations sur les interactions permettent de favoriser un contexte &laquo;&nbsp;prévenant&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; en veillant à ce que des situations pouvant aller de l’inconfortable à l’oppressif puissent être rendues visibles et soient prises en compte. Nous cherchons à établir un lien de confiance et de soin pour permettre à toutes les personnes d'intégrer la communauté avec une confiance suffisante.</dd>
+</dl>
+Concrètement, comment ça marche ?
 
 Pour sauvegarder et encourager le cadre auquel nous aspirons, nous avons défini ce qui nous convenait, et ce qui ne nous convenait pas :
 
