@@ -9,8 +9,17 @@ permalink: /remerciements/
   <div class="wrapper">
     <center><h1>Un grand MERCI</h1></center>
     <p>En date du 22/08/2022 la cagnotte est de <strong>100 €</strong></p>
-    <center><h1>Celles et ceux qui ont aidé<br> le festival GongFuCha</h1></center>
+      
+    <section class="section">
+        <div class="wrapper">
+        <hr>
+        </div>
+      </section>
     
+    {% include mercis.html mercis=mercis locale=page.locale %}
+    
+
+  <!--
     <h2># Villa Mayari, camping en Ariège</h2>
     <div style="display:inline-block;vertical-align:top;">
       <img src="/assets/images/merci/camping-mayari.png" alt="Un chalet au camping Mayari"/>
@@ -24,7 +33,7 @@ permalink: /remerciements/
       </div>
       
     
-    <!--
+    
     <p>Montant total en cagnotte : <strong>{{ site.data.crowdfunding.amount }}&nbsp;€</strong></p>
 
 
@@ -53,5 +62,5 @@ permalink: /remerciements/
     </div>
   </div>-->
 </section>
-
+{% include banners/je-le-potier.html locale=page.locale %}
 <hr class="wrapper">
