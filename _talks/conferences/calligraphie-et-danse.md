@@ -1,5 +1,5 @@
 ---
-display-order: 11
+display-order: 12
 speaker:
   - ya-yu
 fr_FR:
