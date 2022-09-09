@@ -1,0 +1,61 @@
+---
+title: Programme
+description: Le programme de l'édition 2022 de GongFuCha
+i18n-key: programme
+permalink: /programme-sf/
+---
+
+{%- assign conferences = site.talks | sort: "display-order" -%}
+{%- assign number_of_conferences = conferences | where_exp:"item","item.type != 'pause'"| size -%}
+
+<section class="section">
+  <div class="wrapper">
+    <h1>Le programme 2022 : {{ number_of_conferences }} ateliers</h1>
+    <p>Le festival 工夫茶 - <em>GongFuCha</em> propose une <strong>balade poétique et bucolique</strong> ponctuée
+      de {{ number_of_conferences }} d'expériences autour du monde du Thé, qui vous invitent à des
+      <strong>rencontres</strong>, des <strong>ateliers</strong> et des <strong>conférences</strong> présentées par des
+      des personnes qui cultivent une <strong>relation authentique</strong> et enthousiaste avec le Thé. Le festival se
+      déroule du vendredi au dimanche, vous pouvez choisir le ou les jours qui vous conviennent.</p>
+    <p>Nous sommes fières et exaltées en imaginant <strong>les rencontres et les liens</strong> qui vont se tisser entre
+      ces artisants et vous !</p>
+    {% if site.tickets.selling %}
+    <p class="text-center"><a class="button" data-text="réserver votre place"
+        href="https://boutique.brutdethé.fr/?categorie=Festival" title="Venir au parc aux bambous" target="_blank">
+        <span class="button-inner">réserver votre place</span>
+      </a>
+      {% endif %}
+      <a class="button" data-text="proposer un sujet"
+        href="{{ page.baseurl | default:site.baseurl }}/appel-a-propositions" title="proposer un sujet">
+        <span class="button-inner">proposer un sujet</span>
+      </a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrapper">
+    <hr>
+  </div>
+</section>
+
+{% include speakers.html conferences=conferences locale=page.locale shorturl=true %}
+
+<section class="section">
+  <div class="wrapper">
+    <hr>
+  </div>
+</section>
+
+{% include conferences.html conferences=conferences locale=page.locale %}
+
+{% if site.tickets.selling %}
+<section class="section">
+  <div class="wrapper">
+    <p class="text-center"><a class="button" data-text="réserver votre place"
+        href="https://boutique.brutdethé.fr/?categorie=Festival" title="Venir au parc aux bambous" target="_blank">
+        <span class="button-inner">réserver votre place</span>
+      </a></p>
+  </div>
+</section>
+{% endif %}
+
+{% include banners/gaiwan.html locale=page.locale %}
