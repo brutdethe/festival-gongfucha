@@ -5,6 +5,12 @@ speaker:
 fr_FR:
   title: Derrière le bol
   description: >-
-    Manon a la passion des bols, elle se consacre presque exclusivement à la création de bols en grès émaillé tournés à la motte. Plus ou moins ouverts, plus ou moins grands. Chacun sa parure d’émail subtile variation de textures. Ce contenant synonyme d’ouverture et d’accueil permet aussi bien de donner que de recevoir, en invoquant l’échange et le partage.
+    Durant le festival GongFuCha,<br>
+    je vous invite à me rejoindre, à ma table, un tissus, quelques bols, de l'eau, du thé et du temps à diluer.<br>
+    Et par la voix, je vous guiderai à infuser, apprendre et servir le breuvage de bols en bols.<br><br>
+    simplicité<br>
+    Joie<br>
+    à bientôt<br>
+    manon
 youtube_id: AQqweWF2oIY
 ---
