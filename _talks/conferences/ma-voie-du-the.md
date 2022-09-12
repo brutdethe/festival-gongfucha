@@ -8,4 +8,6 @@ fr_FR:
     Pourquoi buvons nous du thé ? Jé explore des réponses et nous partage une vision personnelle.
     Pour lui, le Thé n'est que le prétexte pour se réaliser. 
 youtube_id: 3W9g7_UAsrc
+categories:
+  - exposition et dégustation
 ---

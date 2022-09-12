@@ -1,14 +1,29 @@
 .conference {
   &-speaker {
     &-pic {
-      max-width: 6em; float: left; margin: .5em 1em 0 0; overflow: hidden;
+      max-width: 6em;
+      float: left;
+      margin: .5em 1em 0 0;
+      overflow: hidden;
       border-radius: 50%;
     }
+
     &-name {
       line-height: 1.25;
     }
+
     &-description {
       margin: .5em 0;
     }
   }
+}
+
+.categories {
+  margin-top: -1.5em;
+}
+
+img.affiche {
+  margin: 0 25%;
+  width: 512px;
+  height: 722px;
 }

@@ -1,5 +1,5 @@
 ---
-display-order: 3
+display-order: 4
 speaker:
   - manon-clouzeau
 fr_FR:
@@ -13,4 +13,6 @@ fr_FR:
     À bientôt<br>
     manon
 youtube_id: AQqweWF2oIY
+categories:
+  - exposition et dégustation
 ---

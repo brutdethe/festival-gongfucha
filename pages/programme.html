@@ -10,15 +10,18 @@ permalink: /programme/
 
 <section class="section">
   <div class="wrapper">
-    <h1>Le programme 2022 : {{ number_of_conferences }} ateliers</h1>
-
-    <p>Le festival 工夫茶 - <em>GongFuCha</em> propose une <strong>balade poétique et bucolique</strong> ponctuée
-      de {{ number_of_conferences }} d'expériences autour du monde du Thé, qui vous invitent à des
-      <strong>rencontres</strong>, des <strong>ateliers</strong> et des <strong>conférences</strong> présentées par des
-      des personnes qui cultivent une <strong>relation authentique</strong> et enthousiaste avec le Thé. Le festival se
-      déroule du vendredi au dimanche, vous pouvez choisir le ou les jours qui vous conviennent.</p>
+    <h1>Le programme 2022</h1>
+    <img class="affiche" src="{{ "/assets/images/mini-affiche-gongfucha.jpg" | relative_url }}" alt="Affiche GongFuCha par BenHito" width="512" height="722">
+    <p>L’équipe du festival 工夫茶 - <em>GongFuCha</em> a élaboré le programme de cette première édition dans l’idée
+      de <strong>proposer {{ number_of_conferences }} expériences autour du monde du thé</strong>, avec des personnes
+      qui cultivent une <strong>relation authentique</strong> et <strong>enthousiaste</strong> avec le Thé.</p>
+    
+    <p>Sur les trois jours du festival, vous pourrez vous balader dans le parc et découvrir la proposition de chacun des personnes intervenantes :
+      dégustation posée ou itinérante, de temps en temps accompagnées de <a href="https://youtu.be/OKH8SL1Y5yY">guzheng</a>, échanges autour des feuilles ou d’un bol de thé, 
+      exposition de pièces en céramiques ou en bois, de la poésie à lire et à écouter. Des conférences auront lieux plusieurs fois 
+      dans la journée, le programme sera affiché le jour même. Une expérience nocturne est proposée le samedi soir.</p>
     <p>Nous sommes fières et exaltées en imaginant <strong>les rencontres et les liens</strong> qui vont se tisser entre
-      ces artisants et vous !</p>
+      ces artisans et vous !</p>
     {% if site.tickets.selling %}
     <p class="text-center"><a class="button" data-text="réserver votre place"
         href="https://boutique.brutdethé.fr/?categorie=Festival" title="Venir au parc aux bambous" target="_blank">
@@ -31,7 +34,6 @@ permalink: /programme/
         <span class="button-inner">proposer un sujet</span>
       </a>
       -->
-      <img src="{{ "/assets/images/affiche-gongfucha.jpg" | relative_url }}" alt="">
     </p>
   </div>
 </section>
