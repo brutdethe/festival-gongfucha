@@ -6,11 +6,11 @@ fr_FR:
   title: Derrière le bol
   description: >-
     Durant le festival GongFuCha,<br>
-    je vous invite à me rejoindre, à ma table, un tissus, quelques bols, de l'eau, du thé et du temps à diluer.<br>
-    Et par la voix, je vous guiderai à infuser, apprendre et servir le breuvage de bols en bols.<br><br>
-    simplicité<br>
+    je vous invite à me rejoindre à ma table, un tissus, quelques bols, de l'eau, du thé et du temps à diluer.<br>
+    Et par la voix, je vous guiderai à infuser, apprendre et servir le breuvage de bol en bol.<br><br>
+    Simplicité<br>
     Joie<br>
-    à bientôt<br>
+    À bientôt<br>
     manon
 youtube_id: AQqweWF2oIY
 ---
