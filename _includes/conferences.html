@@ -46,9 +46,9 @@
           frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         <br /><a href="https://vimeo.com/{{ verbatim.vimeo_id }}">voir sur Vimeo</a>.</p>
       {% endif %} {% if conference.youtube_id %}
-      <p class="text-center">
-        <iframe s<iframe width="640" height="360" src="https://www.youtube.com/embed/{{ conference.youtube_id }}"
-          title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+      <p class="text-center video">
+        <iframe s<iframe src="https://www.youtube.com/embed/{{ conference.youtube_id }}" title="YouTube video player"
+          frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
         <br /><a href="https://www.youtube.com/watch?v={{ conference.youtube_id }}">voir sur youtube</a>.</p>
       {% endif %} {% if conference.image %}
       <p class="text-center">
