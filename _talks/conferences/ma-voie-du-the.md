@@ -9,5 +9,5 @@ fr_FR:
     Pour lui, le Thé n'est que le prétexte pour se réaliser. 
 youtube_id: 3W9g7_UAsrc
 categories:
-  - exposition et dégustation
+  - exposition et dégustation - du vendredi au dimanche
 ---
