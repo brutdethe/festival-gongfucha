@@ -9,5 +9,5 @@ fr_FR:
     <em>Texte écrit par le [Le vagabond bleu](https://www.levagabondbleu.fr/cloches/)</em>
 image: perrine-pottiez
 categories:
-  - exposition, installation et dégustation
+  - exposition, installation et dégustation - du vendredi au dimanche
 ---
