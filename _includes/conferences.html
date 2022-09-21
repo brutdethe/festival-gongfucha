@@ -1,43 +1,78 @@
 <section class="section">
-    <div class="wrapper">
-        <h2 class="text-center">
-            Programme détaillé
-        </h2>
-        {% for conference in include.conferences %}{% assign verbatim = conference.fr_FR %}
-        <article class="conference" id="{{ conference.slug }}">
-            <h3>
-                {{ verbatim.title }}&nbsp;<a href="#{{ conference.slug }}" class="text-xs">#</a>
-            </h3>
-            {{ verbatim.description | markdownify }} {% if conference.vimeo_id %}
-            <p class="text-center">
-                <iframe src="https://player.vimeo.com/video/{{ conference.vimeo_id }}?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                <br /><a href="https://vimeo.com/{{ verbatim.vimeo_id }}">voir sur Vimeo</a>.</p>
-            {% endif %} {% if conference.youtube_id %}
-            <p class="text-center">
-                <iframe s<iframe width="640" height="360" src="https://www.youtube.com/embed/{{ conference.youtube_id }}" title="YouTube video player" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
-                <br /><a href="https://www.youtube.com/watch?v={{ conference.youtube_id }}">voir sur youtube</a>.</p>
-            {% endif %} {% if conference.image %}
-            <p class="text-center">
-                <figure role="group" aria-labelledby="fig1">
-                    <img src="{{ site.lazyload.placeholder }}" class="lozad" data-src="/assets/images/talks/{{ conference.image }}.jpg" alt="{{ conference.image }}" width="960" height="540">
-                </figure>
-            </p>
-            {% endif %} {% for names in conference.speaker %} {% assign speaker = site.data.speakers[names] %} {% assign speakatim = speaker.fr_FR %}
-            <section class="conference-speaker text-sm">
-                <figure class="conference-speaker-pic" role="group">
-                    <img src="{{ speaker.image | relative_url }}" alt="">
-                    <figcaption class="sr-only">{{ speaker.name }}</figcaption>
-                </figure>
-                <h3 class="conference-speaker-name">
-                    <span class="text-xs">Présenté par</span><br> {% capture person %}<em>{{ speaker.name }}</em>{% endcapture %} {% if speaker.url %} {% capture person %}<a href="{{ speaker.url }}">{{ person }}</a>{% endcapture %} {% endif %} {{ person
+  <div class="wrapper">
+    <hr>
+    <h2>Uniquement le samedi soir</h2>
+    <article class="conference" id="nocturne">
+      <h3>La nocturne de 20h01 à 22h59&nbsp;<a href="#cuisson-au-bois" class="text-xs">#</a></h3>
+      <p>La nocturne se déroule dans le parc, de nuit. Didier et Ifa ont pensé les lumières pour mettre en valeur les
+        bambous et la végétation du parc qu'ils connaissent sur le bout des doigts. Pour le tableau : l'art du 工夫茶 -
+        GongFuCha mis en valeur par le travail de <a href="{{"/programme/#gongfucha" | relative_url }}">Yan Lin</a>, <a
+          href="{{"/programme/#le-guzheng" | relative_url }}">Jiang Nan</a> et <a
+          href="{{"/programme/#calligraphie-et-danse" | relative_url }}">Ya-Yu Lai.</a></p>
+      <p>Et pour le reste c'est surprise !<br><em>(Pour des raisons de sécurités et pour favoriser l'aspect intimiste et
+          contemplatif on choisi d'ouvrir 35 places)</em></p>
+      <p class="text-center"></p>
+      <figure role="group" aria-labelledby="fig1">
+        <img src="/assets/images/talks/nocturne.jpg" class="lozad fade" data-src="/assets/images/talks/nocturne.jpg"
+          alt="la nocturne de GongFuCha" decoding="async" data-loaded="true" width="960" height="540">
+      </figure>
+      <p></p>
+      <p class="text-center">
+        <a class="button" data-text="réserver la nocturne" href="https://boutique.brutdethé.fr/fr/produit-billet5"
+          title="réserver la nocturne">
+          <span class="button-inner">réserver la nocturne</span>
+        </a>
+      </p>
+    </article>
+    <hr>
+    <h2>Uniquement le samedi</h2>
+    <hr> {% for conference in include.conferences %}{% assign verbatim = conference.fr_FR %}
+    {% if conference.display-order == 3 %}
+    <h2>Du vendredi au dimanche</h2>
+    <hr>
+    {% endif %}
+    <article class="conference" id="{{ conference.slug }}">
+      <h3>
+        {{ verbatim.title }}&nbsp;<a href="#{{ conference.slug }}" class="text-xs">#</a>
+      </h3>
+      <p class="categories text-sm"><em>{{ conference.categories }}</em></p>
+      {{ verbatim.description | markdownify }} {% if conference.vimeo_id %}
+      <p class="text-center">
+        <iframe src="https://player.vimeo.com/video/{{ conference.vimeo_id }}?color=ffffff" width="640" height="360"
+          frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <br /><a href="https://vimeo.com/{{ verbatim.vimeo_id }}">voir sur Vimeo</a>.</p>
+      {% endif %} {% if conference.youtube_id %}
+      <p class="text-center video">
+        <iframe s<iframe src="https://www.youtube.com/embed/{{ conference.youtube_id }}" title="YouTube video player"
+          frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+        <br /><a href="https://www.youtube.com/watch?v={{ conference.youtube_id }}">voir sur youtube</a>.</p>
+      {% endif %} {% if conference.image %}
+      <p class="text-center">
+        <figure role="group" aria-labelledby="fig1">
+          <img src="{{ site.lazyload.placeholder }}" class="lozad"
+            data-src="/assets/images/talks/{{ conference.image }}.jpg" alt="{{ conference.image }}" width="960"
+            height="540">
+        </figure>
+      </p>
+      {% endif %} {% for names in conference.speaker %} {% assign speaker = site.data.speakers[names] %}
+      {% assign speakatim = speaker.fr_FR %}
+      <section class="conference-speaker text-sm">
+        <figure class="conference-speaker-pic" role="group">
+          <img src="{{ speaker.image | relative_url }}" alt="">
+          <figcaption class="sr-only">{{ speaker.name }}</figcaption>
+        </figure>
+        <h3 class="conference-speaker-name">
+          <span class="text-xs">Présenté par</span><br> {% capture person %}<em>{{ speaker.name }}</em>{% endcapture %}
+          {% if speaker.url %} {% capture person %}<a href="{{ speaker.url }}">{{ person }}</a>{% endcapture %}
+          {% endif %} {{ person
                     }}
-                </h3>
-                <p class="conference-speaker-description">
-                    {{ speakatim.bio }}
-                </p>
-            </section>
-            {%- endfor -%}
-        </article>
-        <hr> {%- endfor -%}
-    </div>
+        </h3>
+        <p class="conference-speaker-description">
+          {{ speakatim.bio }}
+        </p>
+      </section>
+      {%- endfor -%}
+    </article>
+    <hr> {%- endfor -%}
+  </div>
 </section>
