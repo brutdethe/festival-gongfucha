@@ -8,5 +8,5 @@ fr_FR:
     Ces derniers mois, Eufricinia a prêté son œil, son inspiration délicate et son habilité pour expérimenter des ponts entre la tradition populaire et poétique chinoise du Thé et le monde des apothicaires et des cabinets de curiosités. Son travail fin et délicat se reflète dans les étiquettes et les emballages qu'elle a produit pour habiller les trois Thés sélectionnés par [Ya-Lin](/programme/#gongfucha) pour le festival.
 image: eufricinia
 categories:
-  - exposition - du vendredi au samedi
+  - exposition - du vendredi au dimanche
 ---
