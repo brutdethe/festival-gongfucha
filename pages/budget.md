@@ -17,16 +17,14 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 
 | Poste dépenses    | Montant      |
 | :---------------- | -----------: |
-| Affiches          |        700 € |
-| Hébergement       |      3 000 € |
-| Eau + filtre      |        500 € |
-| Transport         |        500 € |
-| Aménagement       |      3 000 € |
-| Location véhicule |        300 € |
-| Catering          |      1 600 € |
-| Cachets artistes  |        600 € |
-| Divers            |        800 € |
-| **Total**         | **11 000 €** |
+| Affiches          |        772 € |
+| Hébergement       |      3 174 € |
+| Transport         |        341 € |
+| Aménagement       |        598 € |
+| Catering          |      1 716 € |
+| Cachets artistes  |        240 € |
+| Divers            |        148 € |
+| **Total**         |  **6 648 €** |
 
 ---
 
@@ -34,13 +32,16 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 
 | Poste recettes    | Montant     |
 | :---------------- | ----------: |
-| Vente affiches    |       150 € |
-| Entrées web       |       400 € |
-| Bols entrées      |       750 € |
-| Brut de thé       |       750 € |
-| Sponsors          |       100 € |
+| Vente affiches    |         0 € |
+| Entrées web       |       750 € |
+| Entrées           |     2 234 € |
+| Bols entrées      |         ? € |
+| Repas             |         ? € |
+| Sponsors          |       110 € |
 | Dons              |         ? € |
-| **Total**         | **2 150 €** |
+| Brut de thé       |             |
+| Stéphane          |     2 000 € |
+| **Total**         | **5 094 €** |
 
   </div>
 </section>
