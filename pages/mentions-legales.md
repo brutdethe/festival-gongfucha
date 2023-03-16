@@ -1,7 +1,7 @@
 ---
 title: Mentions légales
 description: "Brut de thé est une association de type 1901 à but non-lucratif."
-permalink: /mentions-legales/
+permalink: /2023/mentions-legales/
 redirect_from:
   - /en/legal-mentions/
 ---

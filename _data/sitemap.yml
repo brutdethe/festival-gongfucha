@@ -6,12 +6,12 @@
   in_footer: false
 - name: Appel à propositions
   type: page
-  value: appel-a-propositions
+  value: /2023/appel-a-propositions
   in_nav: false
   in_footer: false
 - name: Infos pratiques
   type: page
-  value: infos-pratiques
+  value: /2023/infos-pratiques
   fr_only: true
   in_nav: true
   in_footer: true

@@ -1,7 +1,7 @@
 ---
 title: Le manifeste du festival GongFuCha
 description: ""
-permalink: /manifeste/
+permalink: /2023/manifeste/
 ---
 
 <section class="section">
