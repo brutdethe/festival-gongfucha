@@ -4,69 +4,69 @@
   value: ""
   in_nav: true
   in_footer: false
-- name: Appel à propositions
+- name: Appel a propositions
   type: page
-  value: /2023/appel-a-propositions
+  value: 2023/appel-a-propositions
   in_nav: false
   in_footer: false
 - name: Infos pratiques
   type: page
-  value: /2023/infos-pratiques
+  value: 2023/infos-pratiques
   fr_only: true
   in_nav: true
   in_footer: true
 - name: Manifeste
   type: page
-  value: manifeste
+  value: 2023/manifeste
   in_nav: true
   in_footer: true
 - name: Programme
   type: page
-  value: programme
+  value: 2023/programme
   in_nav: true
   in_footer: false
 - name: Venir au parc aux bambous
   type: page
-  value: venir-parc-aux-bambous
+  value: 2023/venir-parc-aux-bambous
   in_nav: true
   in_footer: true
 - name: Dormir sur place
   type: page
-  value: dormir-sur-place
+  value: 2023/dormir-sur-place
   in_nav: true
   in_footer: true
 - name: Recommandations de postures
   type: page
-  value: recommandations-de-postures
+  value: 2023/recommandations-de-postures
   in_nav: false
   in_footer: true
 - name: Aider GongFuCha
   type: page
-  value: financer
+  value: 2023/financer
   in_nav: true
   in_footer: true
 - name: Elles et ils nous soutiennent
   type: page
-  value: remerciements
+  value: 2023/remerciements
   in_nav: true
   in_footer: true
 - name: Les boutiques qui parlent de nous
   type: page
-  value: boutiques
+  value: 2023/boutiques
   in_nav: true
   in_footer: true
 - name: Mentions légales
   type: page
-  value: mentions-legales
+  value: 2023/mentions-legales
   in_nav: false
   in_footer: true
 - name: Remerciements
   type: page
-  value: remerciements
+  value: 2023/remerciements
   in_nav: false
   in_footer: false
 - name: Nous contacter
   type: page
-  value: nous-contacter
+  value: 2023/nous-contacter
   in_nav: true
   in_footer: true
