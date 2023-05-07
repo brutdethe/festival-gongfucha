@@ -1,100 +1,86 @@
 <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Event",
-    "name": "Festival GongFuCha 2022",
-    "description": "Trois journées pour faire le plein d'inspiration et rencontrer la culture Chinoise du Thé.",
-    "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}",
-    "image": "{{ site.url }}{{ site.baseurl }}/assets/images/social/og-image-{{ lang }}.jpg",
-    "startDate": "2022-09-30T10:00",
-    "endDate": "2022-10-02T18:00",
-    "duration": "P2D",
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Parc aux bambous - Broques",
-        "postalCode": "09500",
-        "addressLocality": "Lapenne",
-        "addressRegion": "Ariège"
-      },
-      "name": "Val de l’Hort"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "{{ site.title }}",
-      "logo": "{{ site.logo }}",
-      "sameAs": [
-        "https://twitter.com/brutdethe",
-      ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}/nous-contacter/",
-        "contactType": "customer service",
-        "contactOption": "TollFree"
-      },
-      "member": [{
-        %
-        for member in equipe %
-      } {
-        %
-        unless forloop.first %
-      }, {
-        %
-        endunless %
-      } {
-        "@type": "Person",
-        "name": "{{ member.firstname }} {{ member.lastname }}",
-        "sameAs": [
-          "https://twitter.com/{{ member.twitter }}",
-          "{{ member.url }}"
-        ]
-      } {
-        %
-        endfor %
-      }]
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "priceCurrency": "EUR",
-      "validFrom": "2022-01-22T00:00",
-      "validThrough": "2022-05-25T09:00",
-      "availability": "http://schema.org/InStock",
-      "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}/billetterie/"
-    },
-    "performer": [{
-      %
-      for conference in site.talks %
-    } {
-      %
-      unless forloop.first %
-    }, {
-      %
-      endunless %
-    } {
-      %
-      for names in conference.speaker %
-    } {
-      %
-      assign speaker = site.data.speakers[names] %
-    } {
-      %
-      unless forloop.first or forloop.last %
-    }, {
-      %
-      endunless %
-    } {
-      "@type": "Person",
-      "name": "{{ speaker.name }}",
-      "sameAs": "{{ speaker.url }}"
-    } {
-      %
-      endfor %
-    } {
-      %
-      endfor %
-    }]
-  }
-
+    {
+        "@context": "http://schema.org",
+        "@type": "Event",
+        "name": "Festival GongFuCha 2023",
+        "description": "Trois journées pour faire le plein d'inspiration et rencontrer la culture Chinoise du Thé.",
+        "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}",
+        "image": "{{ site.url }}{{ site.baseurl }}/assets/images/social/og-image-{{ lang }}.jpg",
+        "startDate": "2023-09-30T10:00",
+        "endDate": "2023-10-02T18:00",
+        "duration": "P2D",
+        "location": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Parc aux bambous - Broques",
+                "postalCode": "09500",
+                "addressLocality": "Lapenne",
+                "addressRegion": "Ariège"
+            },
+            "name": "Val de l’Hort"
+        },
+        "organizer": {
+            "@type": "Organization",
+            "name": "{{ site.title }}",
+            "logo": "{{ site.logo }}",
+            "sameAs": [
+                "https://twitter.com/brutdethe",
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}/nous-contacter/",
+                "contactType": "customer service",
+                "contactOption": "TollFree"
+            },
+            "member": [{ %
+                for member in equipe %
+            } { %
+                unless forloop.first %
+            }, { %
+                endunless %
+            } {
+                "@type": "Person",
+                "name": "{{ member.firstname }} {{ member.lastname }}",
+                "sameAs": [
+                    "https://twitter.com/{{ member.twitter }}",
+                    "{{ member.url }}"
+                ]
+            } { %
+                endfor %
+            }]
+        },
+        "offers": {
+            "@type": "Offer",
+            "price": "250.00",
+            "priceCurrency": "EUR",
+            "validFrom": "2023-01-22T00:00",
+            "validThrough": "2023-05-25T09:00",
+            "availability": "http://schema.org/InStock",
+            "url": "{{ site.url }}{{ page.baseurl | default:site.baseurl }}/billetterie/"
+        },
+        "performer": [{ %
+            for conference in site.talks %
+        } { %
+            unless forloop.first %
+        }, { %
+            endunless %
+        } { %
+            for names in conference.speaker %
+        } { %
+            assign speaker = site.data.speakers[names] %
+        } { %
+            unless forloop.first or forloop.last %
+        }, { %
+            endunless %
+        } {
+            "@type": "Person",
+            "name": "{{ speaker.name }}",
+            "sameAs": "{{ speaker.url }}"
+        } { %
+            endfor %
+        } { %
+            endfor %
+        }]
+    }
 </script>

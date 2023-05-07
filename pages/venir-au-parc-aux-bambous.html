@@ -1,199 +1,177 @@
----
-title: Venir au parc aux bambous
-description: "Tout pour venir le plus simplement"
-i18n-key: come
-permalink: /2023/venir-parc-aux-bambous/
-redirect_from:
-- /venir/
----
+--- title: Venir au parc aux bambous description: "Tout pour venir le plus simplement" i18n-key: come permalink: /2023/venir-parc-aux-bambous/ redirect_from: - /venir/ ---
 
 <section class="section">
-  <div class="wrapper">
-    <h1>Venir au parc aux bambous</h1>
+    <div class="wrapper">
+        <h1>Venir au parc aux bambous</h1>
 
-    <p>
-      Le parc aux bambous est situé :
-      <address>Broques<br>09500 Lapenne<br>Ariège Pyrénées<br>
+        <p>
+            Le parc aux bambous est situé :
+            <address>Broques<br>09500 Lapenne<br>Ariège Pyrénées<br>
         <small>
           (<a
             href="https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=43.604%2C1.444%3B43.145%2C1.731#map=10/43.3606/1.5875">ouvrir
             dans
             OpenStreetMap</a>)
         </small></address>
-    </p>
+        </p>
 
-    <p>Nous sommes conscient·e·s qu’en sortant d’une ville, il va être nécessaire de s’organiser un peu plus pour venir.
-      avion, train, voiture, etc. la question est rarement de savoir comment rejoindre Toulouse, mais plutôt de trouver
-      comment
-      rejoindre le parc aux bambous à Lapenne.</p>
-    <p>On a pensé à vous, on a creusé ce qui existait que vous parcouriez tout le trajet, ou seulement ces derniers
-      kilomètres :</p>
+        <p>Nous sommes conscient·e·s qu’en sortant d’une ville, il va être nécessaire de s’organiser un peu plus pour venir. avion, train, voiture, etc. la question est rarement de savoir comment rejoindre Toulouse, mais plutôt de trouver comment rejoindre
+            le parc aux bambous à Lapenne.</p>
+        <p>On a pensé à vous, on a creusé ce qui existait que vous parcouriez tout le trajet, ou seulement ces derniers kilomètres :</p>
 
-    <ul>
-      <li>
-        <a href="#car">avec sa voiture ou en covoiturage</a> ;
-      </li>
-      <li>
-        <a href="#public-transport">en transports en commun</a> ;
-      </li>
-      <li>
-        <a href="#bike">ou même à vélo</a> !
-      </li>
-    </ul>
-  </div>
+        <ul>
+            <li>
+                <a href="#car">avec sa voiture ou en covoiturage</a> ;
+            </li>
+            <li>
+                <a href="#public-transport">en transports en commun</a> ;
+            </li>
+            <li>
+                <a href="#bike">ou même à vélo</a> !
+            </li>
+        </ul>
+    </div>
 </section>
 
 {% include banners/bambous.html locale=page.locale %}
 
 <section class="section">
-  <div class="wrapper">
-    <h2 id="car">En voiture</h2>
+    <div class="wrapper">
+        <h2 id="car">En voiture</h2>
 
-    <p>
-      Si vous décidez de prendre un véhicule personnel ou de location, pensez au covoiturage.
-      <br> Qu’il s’agisse d’un trajet de longue durée ou uniquement d’une portion Pamiers-Lapenne, maximisez l’usage de
-      votre voiture en embarquant d’autres participant·e·s ! Un parking sera disponible au parc aux bambous pour les
-      véhicules.
-    </p>
+        <p>
+            Si vous décidez de prendre un véhicule personnel ou de location, pensez au covoiturage.
+            <br> Qu’il s’agisse d’un trajet de longue durée ou uniquement d’une portion Pamiers-Lapenne, maximisez l’usage de votre voiture en embarquant d’autres participant·e·s ! Un parking sera disponible au parc aux bambous pour les véhicules.
+        </p>
 
-    <h3>Covoiturage</h3>
+        <h3>Covoiturage</h3>
 
-    <p>Pour faciliter les échanges entre participant·e·s, nous vous proposons de lister vos propositions de covoiturage
-      sur notre site. Si vous venez en voiture, <a href="#submit">partagez votre itinéraire</a> via le formulaire
-      ci-dessous.</p>
+        <p>Pour faciliter les échanges entre participant·e·s, nous vous proposons de lister vos propositions de covoiturage sur notre site. Si vous venez en voiture, <a href="#submit">partagez votre itinéraire</a> via le formulaire ci-dessous.
+        </p>
 
-    <h4>Voilà la liste de ce qui a déjà été partagé : </h4>
+        <h4>Voilà la liste de ce qui a déjà été partagé : </h4>
 
-    <ul>
-      {% for journey in site.data.carsharing %}
-      <li>
-        Qui : {{journey.name}}
-        <br> Départ : de
-        <strong>{{journey.leaving-place}}, le {{journey.leaving-day}} vers {{journey.leaving-time}}</strong>
-        <br> {% if journey.return-day != ""%} Retour : le {{journey.return-day}} vers {{journey.return-time}}
-        <br> {% endif %} Étapes proposées : {{journey.steps}}
-        <br> Prendre contact : {{journey.contact}}
-      </li>
-      {% endfor%}
-    </ul>
+        <ul>
+            {% for journey in site.data.carsharing %}
+            <li>
+                Qui : {{journey.name}}
+                <br> Départ : de
+                <strong>{{journey.leaving-place}}, le {{journey.leaving-day}} vers {{journey.leaving-time}}</strong>
+                <br> {% if journey.return-day != ""%} Retour : le {{journey.return-day}} vers {{journey.return-time}}
+                <br> {% endif %} Étapes proposées : {{journey.steps}}
+                <br> Prendre contact : {{journey.contact}}
+            </li>
+            {% endfor%}
+        </ul>
 
-    <hr>
+        <hr>
 
-    <h4 id="submit">Vous proposez un trajet :</h4>
-    <form action="https://formspree.io/f/xqkjzyrq" method="POST">
-      <div class="p-like">
-        <label class="desc" for="id_name">Votre nom :</label>
-        <input type="text" name="_name" placeholder="ex : Lisbeth Salander" id="id_name" required>
-      </div>
-      <div class="p-like">
-        <label class="desc" for="id_message">Votre proposition la plus précise possible (ville de départ, horaires, si
+        <h4 id="submit">Vous proposez un trajet :</h4>
+        <form action="https://formspree.io/f/xqkjzyrq" method="POST">
+            <div class="p-like">
+                <label class="desc" for="id_name">Votre nom :</label>
+                <input type="text" name="_name" placeholder="ex : Lisbeth Salander" id="id_name" required>
+            </div>
+            <div class="p-like">
+                <label class="desc" for="id_message">Votre proposition la plus précise possible (ville de départ, horaires, si
           vous faites une/des étape(s)) :</label>
-        <textarea name="message" rows=""
-          placeholder="ex : Je pars jeudi de Montpellier vers 18h, je peux m’arrêter à Nîmes. Pour le retour, je partirai vers 18h le samedi. J’ai 3 places. Pour me contacter, un petit message à @Lisbeth-Salander"
-          id="id_message" required></textarea>
-      </div>
-      <div class="p-like text-center">
-        <input type="hidden" name="_subject" value="Message envoyé depuis la page contact" />
-        <input type="text" name="_gotcha" style="display:none">
-        <input type="hidden" name="_next" value="{{ site.url }}" />
-        <button type="submit" class="button" data-text="Envoyer">
+                <textarea name="message" rows="" placeholder="ex : Je pars jeudi de Montpellier vers 18h, je peux m’arrêter à Nîmes. Pour le retour, je partirai vers 18h le samedi. J’ai 3 places. Pour me contacter, un petit message à @Lisbeth-Salander" id="id_message"
+                    required></textarea>
+            </div>
+            <div class="p-like text-center">
+                <input type="hidden" name="_subject" value="Message envoyé depuis la page contact" />
+                <input type="text" name="_gotcha" style="display:none">
+                <input type="hidden" name="_next" value="{{ site.url }}" />
+                <button type="submit" class="button" data-text="Envoyer">
           <span class="button-inner">Envoyer</span>
         </button>
-      </div>
-    </form>
+            </div>
+        </form>
 
-    <h3>Location de voiture</h3>
-    <p>À la gare de Toulouse vous pourrez trouver, par exemple, les agences de location suivantes :</p>
-    <ul>
-      <li>
-        <a href="https://www.hertz.fr/p/location-de-voiture/france/toulouse">hertz</a>
-      </li>
-      <li>
-        <a href="https://www.europcar.fr/fr-fr/agences/france/toulouse-gare">europcar</a>
-      </li>
-      <li>
-        <a
-          href="https://www.avis.fr/services-avis/location-voiture/europe/france/toulouse/gare-de-toulouse-matabiau">Avis</a>
-      </li>
-      <li>
-        <a href="https://www.thrifty.fr/">Thrifty</a>
-      </li>
-    </ul>
+        <h3>Location de voiture</h3>
+        <p>À la gare de Toulouse vous pourrez trouver, par exemple, les agences de location suivantes :</p>
+        <ul>
+            <li>
+                <a href="https://www.hertz.fr/p/location-de-voiture/france/toulouse">hertz</a>
+            </li>
+            <li>
+                <a href="https://www.europcar.fr/fr-fr/agences/france/toulouse-gare">europcar</a>
+            </li>
+            <li>
+                <a href="https://www.avis.fr/services-avis/location-voiture/europe/france/toulouse/gare-de-toulouse-matabiau">Avis</a>
+            </li>
+            <li>
+                <a href="https://www.thrifty.fr/">Thrifty</a>
+            </li>
+        </ul>
 
-    <h3>En taxi</h3>
-    <ul>
-      <li>de Toulouse : autour de 150 €</li>
-    </ul>
+        <h3>En taxi</h3>
+        <ul>
+            <li>de Toulouse : autour de 150 €</li>
+        </ul>
 
-  </div>
+    </div>
 </section>
 
 {% include banners/porcelaine.html locale=page.locale %}
 
 <section class="section">
-  <div class="wrapper">
-    <h2 id="public-transport">En transports en commun</h2>
+    <div class="wrapper">
+        <h2 id="public-transport">En transports en commun</h2>
 
-    <p>Pour venir en transport en commun à GongFuCha 2022, vous pouvez prendre une correspondance et passer
-      par Toulouse :</p>
+        <p>Pour venir en transport en commun à GongFuCha 2023, vous pouvez prendre une correspondance et passer par Toulouse :</p>
 
-    <ul>
-      <li>
-        En avion : l’aéroport important le plus proche est celui de Toulouse, puis vous pourrez prendre le train
-        jusqu’à Pamiers.
-      </li>
-    </ul>
+        <ul>
+            <li>
+                En avion : l’aéroport important le plus proche est celui de Toulouse, puis vous pourrez prendre le train jusqu’à Pamiers.
+            </li>
+        </ul>
 
-    <h3>Depuis Toulouse</h3>
+        <h3>Depuis Toulouse</h3>
 
-    <h4>En train :</h4>
-    <p>
-      <a
-        href="https://www.sncf.com/fr/itineraire-reservation/itineraire/liste-resultats?uic1=OCE87611004&coordX1=1.453616&coordY1=43.611206&uic2=09225&coordX2=1.6&coordY2=43.1167&date=1664514049&when=leave-at&label1=Toulouse%20Matabiau&label2=Pamiers%20(Toutes%20gares)&typeDepart=ZONE_ARRET&typeArrivee=COMMUNE&listeCodesMode=0,1,2,3,4,5,6,7,8,9&origineCP=31000&destinationCP=09100">En
-        TER</a> vous
-      arriverez jusqu’à Pamiers (12km de Lapenne).
-    </p>
-  </div>
+        <h4>En train :</h4>
+        <p>
+            <a href="https://www.sncf.com/fr/itineraire-reservation/itineraire/liste-resultats?uic1=OCE87611004&coordX1=1.453616&coordY1=43.611206&uic2=09225&coordX2=1.6&coordY2=43.1167&date=1664514049&when=leave-at&label1=Toulouse%20Matabiau&label2=Pamiers%20(Toutes%20gares)&typeDepart=ZONE_ARRET&typeArrivee=COMMUNE&listeCodesMode=0,1,2,3,4,5,6,7,8,9&origineCP=31000&destinationCP=09100">En
+        TER</a> vous arriverez jusqu’à Pamiers (12km de Lapenne).
+        </p>
+    </div>
 </section>
 
 {% include banners/teahouse.html locale=page.locale %}
 
 <section class="section">
-  <div class="wrapper">
-    <h2 id="bike">À vélo</h2>
+    <div class="wrapper">
+        <h2 id="bike">À vélo</h2>
 
-    <p>Le nord Ariège fin septembre devrait être plutôt agréable.</p>
+        <p>Le nord Ariège fin septembre devrait être plutôt agréable.</p>
 
-    <p>
-      <a
-        href="https://cycle.travel/map?from=Gare%20de%20Pamiers&to=Le%20Parc%20aux%20Bambous&fromLL=43.1162128,1.6195828353958428&toLL=43.14474035,1.7305120973340955">Depuis
+        <p>
+            <a href="https://cycle.travel/map?from=Gare%20de%20Pamiers&to=Le%20Parc%20aux%20Bambous&fromLL=43.1162128,1.6195828353958428&toLL=43.14474035,1.7305120973340955">Depuis
         la gare de Pamiers</a>, comptez 12&nbsp;km, soit une petite heure environ sans forcer.
-    </p>
-    <p>
-      <a
-        href="https://cycle.travel/map?from=Gare%20de%20Toulouse-Matabiau&to=Le%20Parc%20aux%20Bambous&fromLL=43.61139155,1.4536743624860695&toLL=43.14474035,1.7305120973340955">Depuis
-        la gare de Toulouse</a>, c'est environ 70&nbsp;km, et 580&nbsp;m de dénivelé positif. <br>
-      C'est plus sportif&nbsp;! Compter 4h30.
-    </p>
-  </div>
+        </p>
+        <p>
+            <a href="https://cycle.travel/map?from=Gare%20de%20Toulouse-Matabiau&to=Le%20Parc%20aux%20Bambous&fromLL=43.61139155,1.4536743624860695&toLL=43.14474035,1.7305120973340955">Depuis
+        la gare de Toulouse</a>, c'est environ 70&nbsp;km, et 580&nbsp;m de dénivelé positif. <br> C'est plus sportif&nbsp;! Compter 4h30.
+        </p>
+    </div>
 </section>
 
 {% include banners/sophie.html locale=page.locale %}
 
 <section class="section">
-  <div class="wrapper">
-    <h2>Ce qui est sûr, c’est que vous ne serez pas seul·e·s !</h2>
-    <p>
-      N’hésitez pas à vous organiser sur
-      <a href="https://gongfucha-festival.slack.com">le Slack du festival GongFuCha</a>
-      <br>(<a href="/nous-contacter/">contactez nous pour créer votre compte</a>).
-    </p>
-    <p>
-      Profitez de ces moments pour vous retrouver, dans le train, durant les correspondances.
-      <br> Échangez, échangeons, pleins de solutions sont à votre disposition !
-    </p>
-    <p>Bon voyage :)</p>
-  </div>
+    <div class="wrapper">
+        <h2>Ce qui est sûr, c’est que vous ne serez pas seul·e·s !</h2>
+        <p>
+            N’hésitez pas à vous organiser sur
+            <a href="https://gongfucha-festival.slack.com">le Slack du festival GongFuCha</a>
+            <br>(<a href="/nous-contacter/">contactez nous pour créer votre compte</a>).
+        </p>
+        <p>
+            Profitez de ces moments pour vous retrouver, dans le train, durant les correspondances.
+            <br> Échangez, échangeons, pleins de solutions sont à votre disposition !
+        </p>
+        <p>Bon voyage :)</p>
+    </div>
 </section>
 
 {% include banners/manon.html locale=page.locale %}
