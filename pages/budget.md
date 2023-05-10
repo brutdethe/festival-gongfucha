@@ -15,33 +15,29 @@ permalink: /2023/budget/
     
 Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce budget est voué à évoluer au fil du temps en fonction de l'avancée du programme et de l'organisation.
 
-| Poste dépenses    | Montant      |
-| :---------------- | -----------: |
-| Affiches          |        772 € |
-| Hébergement       |      3 174 € |
-| Transport         |        341 € |
-| Aménagement       |        598 € |
-| Catering          |      1 716 € |
-| Cachets artistes  |        240 € |
-| Divers            |        148 € |
-| **Total**         |  **6 648 €** |
+| Poste dépenses                       | Montant       |
+| :----------------------------------- | -----------:  |
+| Hébergement bénévoles / intervantes  |     1 200 €   |
+| Communication                        |       700 €   |
+| Transport                            |       150 €   |
+| Intervantes                          |       200 €   |
+| Catering + courses                   |       500 €   |
+| Mobilier et décorations              |       100 €   |
+| Divers                               |       500 €   |
+| **Total**                            | **3 350 €**   |
 
 ---
 
 <br>
 
-| Poste recettes    | Montant     |
-| :---------------- | ----------: |
-| Vente affiches    |         0 € |
-| Entrées web       |       750 € |
-| Entrées           |     2 234 € |
-| Bols entrées      |         ? € |
-| Repas             |         ? € |
-| Sponsors          |       110 € |
-| Dons              |         ? € |
-| Brut de thé       |             |
-| Stéphane          |     2 000 € |
-| **Total**         | **5 094 €** |
+| Poste recettes                                    | Montant     |
+| :------------------------------------------------ | ----------: |
+| Tickets (après remboursement du parc)             |   3 500 €   |
+| Participation intervenantes CA en 5% et 10%       |     500 €   |
+| Dons                                              |     500 €   |
+| Herbergements / repas interveantes                |     600 €   |
+
+| **Total**                                         | **5 100 €** |
 
   </div>
 </section>
