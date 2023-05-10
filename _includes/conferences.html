@@ -1,7 +1,6 @@
 <section class="section">
   <div class="wrapper">
-    <hr>
-    <!--
+    <hr hidden>
       <h2>Uniquement le samedi soir</h2>
     <article class="conference" id="nocturne">
       <h3>La nocturne de 20h01 à 22h59&nbsp;<a href="./#cuisson-au-bois" class="text-xs">#</a></h3>
@@ -26,12 +25,11 @@
         </a>
       </p>
     </article>
-    <hr>
+    <hr hidden>
     <h2>Uniquement le samedi</h2>
     <hr> {% for conference in include.conferences %}{% assign verbatim = conference.fr_FR %}
     {% if conference.display-order == 3 %}
-  </div>-->
-  
+
     <h2>Du vendredi au dimanche</h2>
     <hr>
     {% endif %}
