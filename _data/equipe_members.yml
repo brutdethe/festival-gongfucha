@@ -18,44 +18,24 @@
   slug: sebastien-de-groot
   url: https://www.sebastiendegroot.com
 
-- firstname: Violaine
-  lastname: Andrieux
-  slug: violaine-andrieux
-  url: https://brutdethé.fr
-
 - firstname: Stéphane
   lastname: Langlois
   slug: stephane-langlois
   twitter: pointbar
-  url: https://pntbr.fr
+  url: https://brutdethé.fr
   
-- firstname: Qiurong
-  lastname: Bibollet
-  slug: qiurong-bibollet
-  url: https://www.laporcelaineespaceduthe.com
 
-- firstname: Perrine
-  lastname: Pottiez
-  slug: perrine-pottiez
-  url: https://www.perrinepottiez.com
-
-- firstname: Audrey
-  lastname: Bramy
-  slug: audrey-bramy
-  url: https://www.linkedin.com/in/audreybramy
+- firstname: Nadège
+  lastname: Jibassia
+  slug: nadege-jibassia
+  url: https://brutdethé.fr
 
 - firstname: Sofia
   lastname: Boulaarab
-  twitter: sofiaboulaarab
   slug: sofia-boulaarab
-  url: https://www.linkedin.com/in/sofiaboulaarab/
+  url: https://brutdethé.fr
 
 - firstname: Jé
   lastname: le potier
   slug: je-le-potier
   url: https://www.theiere-tasse.com/
-
-- firstname: Chloé
-  lastname: Têtelin
-  slug: chloe-tetelin
-  url: https://www.instagram.com/rendezvous.francechine/
