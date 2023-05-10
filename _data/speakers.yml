@@ -37,6 +37,7 @@ theicultrices-theiculteurs-ariege:
       Gros plan sur une feuille de *Camellia sinensis*. 
     bio: >-
       Les théiers se cultivent aujourd'hui dans différents pays d'Europe. La filière Ariégeoise est en plein essor avec ses quatre terroirs déjà en cours de plantations et son association départementale en cours de création. Avec ses zones de montagnes aux fortes hygrométries atmosphériques, sa situation dans le Sud, ses différences de température entre le jour et la nuit, ses différences géologiques, son boisement montagnard, l’Ariège offre des conditions prometteuses pour obtenir un thé de grande qualité.
+
 ya-yu:
   name: Ya-Yu Lai
   image: /assets/images/speakers/ya-yu.jpg
@@ -67,14 +68,6 @@ guillaume-regler:
     bio: >-
       Artiste touche à tout, photographe, artisan, Guillaume travail au gré de ses inspirations le bois, la céramique ou le métal pour créer des objets d'une esthétique épurée et minimaliste, adaptés à sa pratique quotidienne de la Voie du Thé. 
 
-julien-monnet:
-  name: Julien Monnet
-  image: /assets/images/speakers/julien-monnet.jpg
-  url: https://kanchatea.com
-  fr_FR:
-    alt: >-
-      Julien exprime de la joie dans un jardin de thés au milieu des théiers. 
-
 laurence-gillet:
   name: Laurence Gillet
   image: /assets/images/speakers/laurence-gillet.jpg
@@ -95,17 +88,6 @@ sophie-pouly:
     bio: >-
       Sophie est masseuse et potière. Au fond, la peau, les pots invitent à la même écoute de la matière, et par le toucher, à un retour au centre.
 
-je-le-potier:
-  name: Jé le potier
-  image: /assets/images/speakers/je-le-potier.jpg
-  url: https://www.theiere-tasse.com
-  fr_FR:
-    alt: >-
-      Dessin au trait de Jé le Potier
-    bio: >-
-      Jé a consacré son travail au domaine du thé, il explore par une pratique quotidienne, pour que l’expérience se transforme en qualités concrètes et utiles pour les pièces avec le sens du détail et le plaisir de la précision.
-      <blockquote>Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est inspirant, plein de promesses et de mystères.</blockquote>
-
 sebastien-de-groot:
   name: Sébastien de Groot
   image: /assets/images/speakers/sebastien-de-groot.jpg
@@ -116,15 +98,6 @@ sebastien-de-groot:
     bio: >-
       Sébastien est céramiste, spécialisé dans les cuissons au feu de bois à haute température, il aime parcourir l'histoire des céramiques du thé. Son atelier est un espace d’expérimentation, d’apprentissage où il explore différentes techniques de modelage, tournage, découpe, émail, sérigraphie.
 
-qiurong-bibollet:
-  name: Quirong Bibollet
-  image: /assets/images/speakers/quirong-bibollet.jpg
-  url: https://www.laporcelaineespaceduthe.com
-  fr_FR:
-    alt: >-
-      QiuRong en pleine cérémonie de GongFuCha.
-    bio: >-
-      Quirong est la Créatrice de la Maison de Thé -La Porcelaine- un lieu authentique pour rencontrer l'art du Thé et s'initier à la pratique de Gong fu cha. Elle vient d'une famille qui travaille dans la pharmacopée chinoise, l'agro-alimentaire et la restauration. C'est dans cet environnement que la culture chinoise s'est profondément enracinée en elle.
 
 perrine-pottiez:
   name: Perrine Pottiez
@@ -146,15 +119,6 @@ ya-lin:
     bio: >-
       Qualifiée maître-assistante de l’art du Thé chinois par la « Chinese Tea Culture Academy » à Taïwan. Née à Taipei, son grand-père maternel, un amateur passionné, fut son premier maître de Thé. C’est lui qui lui a transmis les racines, le goût et l’amour de cette culture du thé. Elle est une disciple du maître Fan, maître de Thé renommé à Taïwan et en Chine. Son ambition ? Montrer le goût authentique, la culture et la Voie du Thé chinois au plus grand nombre.
 
-thomas-bernardi:
-  name: Thomas Bernardi
-  image: /assets/images/speakers/thomas-bernardi.jpg
-  url: https://www.facebook.com/leslandesvivantes/
-  fr_FR:
-    alt: >-
-      Selphie de Thomas en barbe et polo rouge.
-    bio: >-
-      Après des études en lycée agricole il y a vingt ans, Thomas entame une grande boucle professionnelle dans le milieu associatif culturel et l’éducation populaire. Une expérience foisonnante où pratique, réflexion et rencontres n’ont eu de cesse de s’entremêler. En parallèle, il se forme à la botanique, au jardinage biologique, à la greffe de fruitier, au compostage, et diverses réjouissances terriennes. La boucle est bouclée, vingt ans plus tard : je deviens paysan !
 
 manon-clouzeau:
   name: Manon Clouzeau
