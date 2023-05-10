@@ -10,7 +10,12 @@ permalink: /2023/remerciements/
         <center hidden>
             <h1>Un grand MERCI</h1>
         </center>
-        <p>La cagnotte est ouverte</p>
+        <p>La cagnotte pour nous aider à financer l'édition de juin 2023 est ouverte !</p>
+        <div class="text-center">
+          <a class="button" href="https://boutique.brutdethé.fr/?categorie=Festival" data-text="Contribuer à la cagnotte">
+            <span class="button-inner">Contribuer à la cagnotte</span>
+          </a>
+        </div>
 
         <section class="section">
             <div class="wrapper">
@@ -18,30 +23,8 @@ permalink: /2023/remerciements/
             </div>
         </section>
 
-        {% include mercis.html mercis=mercis locale=page.locale %}
+  {% include mercis.html mercis=mercis locale=page.locale %}
 
-  
-    <p>Montant total en cagnotte : <strong>{{ site.data.crowdfunding.amount }}&nbsp;€</strong></p>
-    <div class="thanks-grid">
-      <div class="M28611102O7771">
-        <a class="logo" title="Don anonyme" href="{{ "/financer/#crowdfounding" | relative_url }}">
-          <span class="sr-only">Don anonyme</span>
-        </a>
-
-      </div>
-      <div class="M30443092O7771">
-        <a class="logo" title="Don anonyme" href="{{ "/financer/#crowdfounding" | relative_url }}">
-          <span class="sr-only">Don anonyme</span>
-        </a>
-      </div>
-
-      <i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i
-        aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i
-        aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i
-        aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i
-        aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i><i aria-hidden="true"></i>
-
-    </div>
   </div>
 </section>
 {% include banners/je-le-potier.html locale=page.locale %}
