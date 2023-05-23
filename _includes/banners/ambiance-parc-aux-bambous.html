@@ -1,0 +1,16 @@
+{% if include.page_top %}
+{% assign slug = "ambiance-parc-aux-bambous page-top" %}
+{% else %}
+{% assign slug = "ambiance-parc-aux-bambous" %}
+{% endif %}
+{% include banners/_generic.html
+  slug=slug
+  locale=include.locale
+  source_title="Le parc aux bambous de Lapenne"
+  source_target_url="https://parcauxbambous.com"
+  source_url="http://www.sarahrobine.com"
+  source_author="Sarah Robine"
+  source_rights_url="https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  source_rights_title="Licence Creative Commons"
+  source_rights_shortname="CC BY-NC-ND 4.0"
+%}
