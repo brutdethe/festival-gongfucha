@@ -1,29 +1,28 @@
-- firstname: Guillaume
-  lastname: Regler
-  slug: guillaume-regler
-  url: https://guan-tcha.fr
-
-- firstname: Louna
-  lastname: Langlois
-  slug: louna-langlois
-  url: http://www.louna.com
-
 - firstname: Manon
   lastname: Clouzeau
   slug: manon-clouzeau
   url: https://manonclouzeau.com
 
-- firstname: Sébastien
-  lastname: de Groot
-  slug: sebastien-de-groot
-  url: https://www.sebastiendegroot.com
+- firstname: Jé
+  lastname: le potier
+  slug: je-le-potier
+  url: https://www.theiere-tasse.com/
+
+- firstname: Yuanyuan
+  lastname: 
+  slug: yuanyuan
+  url: 
+
+  - firstname: Ya Lin
+  lastname: 
+  slug: ya-lin
+  url: https://brutdethé.fr
 
 - firstname: Stéphane
   lastname: Langlois
   slug: stephane-langlois
   twitter: pointbar
   url: https://brutdethé.fr
-  
 
 - firstname: Nadège
   lastname: Jibassia
@@ -34,8 +33,3 @@
   lastname: Boulaarab
   slug: sofia-boulaarab
   url: https://brutdethé.fr
-
-- firstname: Jé
-  lastname: le potier
-  slug: je-le-potier
-  url: https://www.theiere-tasse.com/

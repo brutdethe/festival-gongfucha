@@ -1,35 +1,10 @@
 <section class="section">
   <div class="wrapper">
     <hr>
-    <h2>Uniquement le samedi soir</h2>
-    <article class="conference" id="nocturne">
-      <h3>La nocturne de 20h01 à 22h59&nbsp;<a href="./#cuisson-au-bois" class="text-xs">#</a></h3>
-      <p>À la chaleur des braseros nous partagerons un plat avant de partir explorer le parc.</p>
-      <p>Pour cette nocturne, Didier et Ifa ont pensé les lumières pour mettre en valeur les
-        bambous et la végétation du parc qu'ils connaissent sur le bout des doigts. Pour le tableau : l'art du 工夫茶 -
-        GongFuCha mis en valeur par le travail de <a href="{{"#gongfucha" | relative_url }}">Ya Lin</a>, <a
-          href="{{"#le-guzheng" | relative_url }}">Jiang Nan</a> et <a
-          href="{{"#calligraphie-et-ecriture" | relative_url }}">Ya-Yu Lai.</a></p>
-      <p>Et pour le reste c'est surprise !<br><em>(Pour des raisons de sécurités et pour favoriser l'aspect intimiste et
-          contemplatif on choisi d'ouvrir 35 places)</em></p>
-      <p class="text-center"></p>
-      <figure role="group" aria-labelledby="fig1">
-        <img src="/assets/images/talks/nocturne.jpg" class="lozad fade" data-src="/assets/images/talks/nocturne.jpg"
-          alt="la nocturne de GongFuCha" decoding="async" data-loaded="true" width="960" height="540">
-      </figure>
-      <p></p>
-      <p class="text-center">
-        <a class="button" data-text="réserver la nocturne" href="https://boutique.brutdethé.fr/fr/produit-billet5"
-          title="réserver la nocturne">
-          <span class="button-inner">réserver la nocturne</span>
-        </a>
-      </p>
-    </article>
     <hr>
-    <h2>Uniquement le samedi</h2>
-    <hr> {% for conference in include.conferences %}{% assign verbatim = conference.fr_FR %}
-    {% if conference.display-order == 3 %}
+
     <h2>Du vendredi au dimanche</h2>
+    
     <hr>
     {% endif %}
     <article class="conference" id="{{ conference.slug }}">
