@@ -22,4 +22,4 @@ Voici les valeurs qui nous animent et que nous souhaitons partager :
 </div>
 </section>
 
-{% include banners/sophie.html locale=page.locale %}
+{% include banners/gaiwan.html locale=page.locale %}

@@ -68,16 +68,6 @@ laurence-gillet:
     bio: >-
       Après dix ans d’expérience dans l’univers du thé, Laurence a eu envie d’animer des ateliers de dégustation autour des thés rares afin de partager sa passion avec d’autres amateurs de thé. Elle propose d’explorer le monde du thé et de cheminer sur la voie du thé avec curiosité, plaisir et étonnement.
 
-sophie-pouly:
-  name: Sophie Pouly
-  image: /assets/images/speakers/sophie-pouly.jpg
-  url: https://sophiepouly.wixsite.com/terreetcielpoterie
-  fr_FR:
-    alt: >-
-      Sophie en pleine nature malaxe de la terre.
-    bio: >-
-      Sophie est masseuse et potière. Au fond, la peau, les pots invitent à la même écoute de la matière, et par le toucher, à un retour au centre.
-
 sebastien-de-groot:
   name: Sébastien de Groot
   image: /assets/images/speakers/sebastien-de-groot.jpg
@@ -101,13 +91,12 @@ perrine-pottiez:
 ya-lin:
   name: Ya Lin
   image: /assets/images/speakers/ya-lin.jpg
-  url: http://ecoledethe.com/
+  url: http://brutdethé.fr/
   fr_FR:
     alt: >-
       Ya-Lin le regard serein porte des lunette et une écharpe en laine.
     bio: >-
       Qualifiée maître-assistante de l’art du Thé chinois par la « Chinese Tea Culture Academy » à Taïwan. Née à Taipei, son grand-père maternel, un amateur passionné, fut son premier maître de Thé. C’est lui qui lui a transmis les racines, le goût et l’amour de cette culture du thé. Elle est une disciple du maître Fan, maître de Thé renommé à Taïwan et en Chine. Son ambition ? Montrer le goût authentique, la culture et la Voie du Thé chinois au plus grand nombre.
-
 
 manon-clouzeau:
   name: Manon Clouzeau
