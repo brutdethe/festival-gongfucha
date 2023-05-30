@@ -1,12 +1,12 @@
 ---
 display-order: 5
 speaker:
-  - Terre & ciel
+  - terre-de-ciel
 fr_FR:
-  title: "Terre & ciel"
+  title: "Terre de ciel"
   description: >-
-    Terre & Ciel
-image: 
+    Terre de Ciel
+image: terre-de-ciel
 categories:
   - exposition et dégustation - du vendredi au dimanche
 ---

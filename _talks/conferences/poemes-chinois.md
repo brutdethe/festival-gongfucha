@@ -1,7 +1,7 @@
 ---
 display-order: 15
 speaker:
-  - meiling
+  - mei-ling
 fr_FR:
   title: "La poésie,une petite voie..."
   description: >-

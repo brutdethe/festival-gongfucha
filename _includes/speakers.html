@@ -5,7 +5,7 @@
         <a class="sr-only" src="{% unless include.shorturl %}{{ page.baseurl | default:site.baseurl }}/{{ " programme " | t: include.locale }}{% endunless %}#conferences">Aller
       directement au programme détaillé</a>
         <h2 class="text-center">
-            Les intervenant·e·s 2023
+            Les personnes intervenantes 2023
         </h2>
         <div class="grid-7 text-center">
             {% for conference in include.conferences %} {% for names in conference.speaker %} {% capture conf-url %}{% unless include.shorturl %}{{ page.baseurl | default:site.baseurl }}/{{ "programme" | t: include.locale }}{% endunless %}#{{conference.slug}}{% endcapture
