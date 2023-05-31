@@ -1,5 +1,5 @@
 ---
-display-order: 10
+display-order: 4
 speaker:
   - sebastien-de-groot
 fr_FR:

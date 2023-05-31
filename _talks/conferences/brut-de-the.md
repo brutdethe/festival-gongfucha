@@ -1,5 +1,5 @@
 ---
-display-order: 16
+display-order: 2
 speaker:
   - brut-de-the
 fr_FR:

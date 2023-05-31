@@ -1,12 +1,14 @@
 ---
-display-order: 3
+display-order: 7
 speaker:
   - ya-lin
 fr_FR:
-  title: "Qu’est-ce que le GongFuCha ?"
+  title: Qu'est-ce que le GōngFūChá ?
   description: >-
-    Le Thé existe en Chine depuis des milliers d'années. Depuis l'Antiquité, les guérisseurs l'ont étudié et les poètes ont écrit à son sujet. À certains moments, la cérémonie du thé chinoise était même la partie centrale de l'empire chinois, cependant, il a fallu des décennies pour que l'art du GongFuCha se développe pleinement dans ce que nous connaissons aujourd'hui. Il existe encore beaucoup d'interprétations, Ya Lin vous propose de découvrir et d'explorer les secrets de cette tradition.
+    Le « GōngFū 工夫 » signifie l'accumulation des efforts pour atteindre la maîtrise d'une pratique dans la recherche de la perfection.
+
+    Le Thé existe en Chine depuis des milliers d’années. Depuis l’Antiquité, les guérisseurs l’ont étudié et les poètes ont écrit à son sujet. Le Thé a tenu une place importante dans l'histoire chinoise de la cour impériale jusqu'aux plus petits foyers. Il a fallu des décennies pour que l’art du GōngFūChá se développe pleinement dans les différentes interprétations que nous connaissons aujourd’hui. Ya Lin vous propose de découvrir et d’explorer cette tradition.
 image: ya-lin
 categories:
-  - conférence et cérémonie - du vendredi au dimanche
+  - cérémonie et dégustation - du vendredi au dimanche
 ---
