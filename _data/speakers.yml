@@ -1,3 +1,22 @@
+laurence-gillet:
+  name: Laurence Gillet
+  image: /assets/images/speakers/laurence-gillet.jpg
+  url: https://www.seasonalitea.fr
+  fr_FR:
+    alt: >-
+      Laurence est assise devant un bateau de thé qui porte tous les ustensiles nécessaire au GongFuCha.
+    bio: >-
+      Après dix ans d’expérience dans l’univers du thé, Laurence a eu envie d’animer des ateliers de dégustation autour des thés rares afin de partager sa passion avec d’autres amateurs de thé. Elle propose d’explorer le monde du thé et de cheminer sur la voie du thé avec curiosité, plaisir et étonnement.
+
+margaux-ceramics:
+  name: Margaux Ceramics
+  image: /assets/images/speakers/margaux-ceramics.jpg
+  url: https://www.margauxceramics.com
+  fr_FR:
+    alt: >-
+      Deux bols et une théière de Margaux
+    bio: >-
+      À travers l’harmonie, le souffle, le respect ou encore la complétude, Margaux crée des pièces sculpturales uniques et des petites séries de pièces rendues uniques, toutes réalisées à la main. Elle travaille accompagnée des Éléments, avec une terre extraite entre Nantes et Angers. Après des études de langues à l’Université de Nantes, Margaux se dirige vers le monde du thé : les cérémonies du thé l’initient aux objets précieux de dégustation.
 roman-linetsky:
   name: Roman Linetsky
   image: /assets/images/speakers/roman-linetsky.jpg
@@ -67,6 +86,7 @@ maison-dao:
       Logo de maison Dao
     bio: >-
       Olivier Plante a créé Maison Dao au Canada, il vit maintenant en France. Il développe son activité autour du thé chinois, principalement dans l’axe de la pratique thé et méditation. En ce moment, il se concentre sur la pratique et s'intéresse particulièrement à la culture des théiers et à la transformation du thé en France pour en faire un produit local et du quotidien. 
+
 sebastien-de-groot:
   name: Sébastien de Groot
   image: /assets/images/speakers/sebastien-de-groot.jpg
