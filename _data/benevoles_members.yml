@@ -1,35 +1,24 @@
-- firstname: Manon
-  lastname: Clouzeau
-  slug: manon-clouzeau
-  url: https://manonclouzeau.com
-
-- firstname: Jé
-  lastname: le potier
-  slug: je-le-potier
-  url: https://www.theiere-tasse.com/
-
-- firstname: Yalin
-  lastname: Cheng
-  slug: ya-lin
-  url: https://brutdethé.fr
-
-- firstname: Stéphane
+- firstname: Louna
   lastname: Langlois
-  slug: stephane-langlois
-  twitter: pointbar
-  url: https://brutdethé.fr
+  slug: louna-langlois
+  url: https://louna.com
 
-- firstname: Nadège
-  lastname: Jibassia
-  slug: nadege-jibassia
-  url: https://brutdethé.fr
+- firstname: Audrey
+  lastname: Bramy
+  slug: audrey-bramy
+  url: https://keybase.io/audreybramy
 
-- firstname: Sofia
-  lastname: Boulaarab
-  slug: sofia-boulaarab
-  url: https://brutdethé.fr
+- firstname: Bastien
+  slug: bastien
 
-- firstname: Yuanyuan
-  lastname: Niu
-  slug: yuanyuan-niu
-  url: https://tampopo.bio
+- firstname: Cyrille
+  lastname: Baticle
+  slug: cyrille-baticle
+
+- firstname: Elie
+  lastname: Daviron
+  slug: elie-daviron
+
+- firstname: Fanny
+  lastname: Monsonis
+  slug: fanny-monsonis

@@ -2,7 +2,11 @@
 layout: microtypo
 ---
 
-{% assign locale = page.locale | default: site.locale %}{% assign lang = locale | slice: 0,2 %}{% assign equipe = site.data.equipe_members | sort: "slug" %}{% include head.html %}
+{% assign locale = page.locale | default: site.locale %}
+{% assign lang = locale | slice: 0,2 %}
+{% assign equipe = site.data.equipe_members | sort: "slug" %}
+{% assign benevoles = site.data.benevoles_members | sort: "slug" %}
+{% include head.html %}
 
 <body>
   {% if page.i18n-key == 'home' %}

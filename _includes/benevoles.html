@@ -14,7 +14,9 @@
         {% else %}
         {{member.firstname}} <span class="sr-only">{{member.lastname}}</span>
         {% endif %}
+        {% if member.url %}
         (<a href="{{member.url}}">site</a>)
+        {% endif %}
       </figcaption>
     </figure>
     {% endfor%}

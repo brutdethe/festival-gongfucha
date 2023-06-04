@@ -1,5 +1,5 @@
 <section id="equipe">
-  <h2 class="text-center">L'équipe</h2>
+  <h2 class="text-center">L'équipe d'organisation</h2>
   <div class="grid-6 text-center">
     {% for member in equipe %}
     <figure class="person" role="group" aria-labelledby="capt-{{member.twitter}}">
@@ -14,7 +14,9 @@
         {% else %}
         {{member.firstname}} <span class="sr-only">{{member.lastname}}</span>
         {% endif %}
+        {% if member.url %}
         (<a href="{{member.url}}">site</a>)
+        {% endif %}
       </figcaption>
     </figure>
     {% endfor%}
