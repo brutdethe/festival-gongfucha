@@ -19,7 +19,6 @@ permalink: /2023/dormir-sur-place/
   <p>Nous vous proposons une petite sélection de lieux pas trop éloignés du parc pour pouvoir profiter pleinement de ces trois jours d'évasion et nous rejoindre dans l'univers des Thés chinois.</p>
 
 <ul>
-  <li>à Montaud, chez <a href="https://www.airbnb.fr/rooms/7822320?&check_in=2023-09-29&guests=2&adults=2&check_out=2023-10-02">Arno et Thomas</a></li>
   <li>Les Pujols, chez <a href="https://www.airbnb.fr/rooms/49921647?check_in=2023-09-30&check_out=2023-10-02">Chloé</a>
   </li>
   <li>Les Pujols, chez <a href="https://www.airbnb.fr/rooms/40355162?location=Lapenne%2C%20France&check_in=2023-09-30&check_out=2023-10-02">Jean-philippe</a></li>
