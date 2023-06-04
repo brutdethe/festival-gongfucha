@@ -1,0 +1,22 @@
+<section id="benevoles">
+  <h2 class="text-center">Les bénévoles</h2>
+  <div class="grid-6 text-center">
+    {% for member in benevoles %}
+    <figure class="person" role="group" aria-labelledby="capt-{{member.twitter}}">
+      <img src="{{ site.lazyload.placeholder }}" class="person-avatar lozad"
+        data-src="{{ "/assets/images/benevoles/" | append: member.slug | append: ".jpg" | relative_url }}"
+        alt="{{member.firstname}} {{member.lastname}}" width="100" height="100">
+      <figcaption id="capt-{{member.twitter}}" class="person-name text-xs">
+        {% if member.twitter %}
+        <a title="{{member.firstname}} {{member.lastname}}"
+          href="https://twitter.com/{{member.twitter}}">{{member.firstname}} <span
+            class="sr-only">{{member.lastname}}</span></a>
+        {% else %}
+        {{member.firstname}} <span class="sr-only">{{member.lastname}}</span>
+        {% endif %}
+        (<a href="{{member.url}}">site</a>)
+      </figcaption>
+    </figure>
+    {% endfor%}
+  </div>
+</section>
