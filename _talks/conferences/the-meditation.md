@@ -5,7 +5,7 @@ speaker:
 fr_FR:
   title: "Thé méditation"
   description: >-
-    Terre de Ciel
+    
 image: maison-dao
 categories:
   - cérémonie et conférence - du vendredi au dimanche
