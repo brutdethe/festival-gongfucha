@@ -50,7 +50,7 @@ permalink: /2023/dormir-sur-place/
 {% if site.tickets.selling %}
 <p class="text-center">
   <a class="button" data-text="réserver votre place"
-        href="https://boutique.brutdethé.fr/?categorie=Festival"
+        href="https://boutique.brutdethé.fr/?categorie=festival"
         title="Venir au parc aux bambous"
         target="_blank">
         <span class="button-inner">réserver votre place</span>
