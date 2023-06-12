@@ -42,4 +42,4 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
   </div>
 </section>
 
-{% include banners/teahouse.html locale=page.locale %}
+{% include banners/quirong.html locale=page.locale %}

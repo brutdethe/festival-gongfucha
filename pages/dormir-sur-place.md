@@ -60,5 +60,5 @@ permalink: /2023/dormir-sur-place/
 
   </div>
 </section>
-{% include banners/je-le-potier.html locale=page.locale %}
+{% include banners/structure-ambiance.html locale=page.locale %}
 

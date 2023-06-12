@@ -35,7 +35,7 @@ Pendant ce festival, nous supposons que les personnes sont bien intentionnées e
 </div>
 </section>
 
-{% include banners/bambous.html locale=page.locale %}
+{% include banners/equipe.html locale=page.locale %}
 
 <section class="section">
 <div class="wrapper" markdown="1">
@@ -116,5 +116,5 @@ En ce qui concerne la personne à l’origine de la situation, nous imaginons co
 </div>
 </section>
 
-{% include banners/perrine.html locale=page.locale %}
+{% include banners/ambiance-perrine.html locale=page.locale %}
 
