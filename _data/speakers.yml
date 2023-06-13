@@ -17,6 +17,7 @@ margaux-ceramics:
       Deux bols et une théière de Margaux
     bio: >-
       À travers l’harmonie, le souffle, le respect ou encore la complétude, Margaux crée des pièces sculpturales uniques et des petites séries de pièces rendues uniques, toutes réalisées à la main. Elle travaille accompagnée des Éléments, avec une terre extraite entre Nantes et Angers. Après des études de langues à l’Université de Nantes, Margaux se dirige vers le monde du thé : les cérémonies du thé l’initient aux objets précieux de dégustation.
+
 roman-linetsky:
   name: Roman Linetsky
   image: /assets/images/speakers/roman-linetsky.jpg
@@ -56,16 +57,6 @@ ya-yu:
       Ya-Yu Lai réalise une calligraphie à l'encre noire sur un grand format blanc. 
     bio: >-
       Née à Taïwan, de nationalité française et taïwanaise, Ya-Yu Lai  est calligraphe de mouvement, designer d’espace et scénographe. Elle évolue entre la France et Taïwan.
-
-jiang-nan:
-  name: Jiang Nan
-  image: /assets/images/speakers/jiang-nan.jpg
-  url: https://jiangnan-cithare.fr
-  fr_FR:
-    alt: >-
-      Jiang Nan, l'air songeuse, regarde sa cithare GuZheng. 
-    bio: >-
-      Jiang Nan nait à Quanzhou, ville historique du Fujian, dans le midi de la Chine, ce pays de « montagne et d’eau » que l’on appelle… « Jiang Nan ». Elle grandit au son des répétitions de la troupe d’opéra locale où ses parents dansent et chantent. On lui donne à apprendre un instrument, la cithare Guzheng à 21 cordes. Diplômée du Conservatoire de Shangaï, puis lauréate de nombreux concours et professeur, elle se produit régulièrement en Chine. Depuis plus de dix ans, Jian Nan s’est enracinée en France, dans la région toulousaine. 
 
 guillaume-regler:
   name: Guillaume Régler
