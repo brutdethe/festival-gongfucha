@@ -1,5 +1,5 @@
 ---
-display-order: 6
+display-order: 7
 speaker:
   - guillaume-regler
 fr_FR:
