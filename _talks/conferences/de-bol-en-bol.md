@@ -5,7 +5,7 @@ speaker:
 fr_FR:
   title: De bol en bol
   description: >-
-      Un jour, au coin d'une table, un ami souhaite nous préparer le thé,<br>
+      <strong>“</strong>Un jour, au coin d'une table, un ami souhaite nous préparer le thé,<br>
       nous n'avons pas de théière.<br><br>
       Il prend un bol,<br>
       dépose le thé,<br>
@@ -31,7 +31,7 @@ fr_FR:
       Simplicité<br>
       Joie<br>
       À bientôt<br>
-      manon
+      manon<strong>”</strong>
 youtube_id: AQqweWF2oIY
 categories:
   - exposition et dégustation - du vendredi au dimanche
