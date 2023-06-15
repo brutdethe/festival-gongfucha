@@ -1,5 +1,5 @@
 ---
-display-order: 5
+display-order: 6
 speaker:
   - manon-clouzeau
 fr_FR:
