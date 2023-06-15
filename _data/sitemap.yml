@@ -15,6 +15,12 @@
   fr_only: true
   in_nav: true
   in_footer: true
+- name: Restauration
+  type: page
+  value: 2023/restauration
+  fr_only: true
+  in_nav: true
+  in_footer: true
 - name: Manifeste
   type: page
   value: 2023/manifeste
