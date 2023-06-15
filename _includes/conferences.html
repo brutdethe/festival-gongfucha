@@ -1,12 +1,6 @@
 <section class="section">
   <div class="wrapper">
-  <hr>
     {% for conference in include.conferences %}{% assign verbatim = conference.fr_FR %}
-    {% if conference.display-order == 3 %}
-    <h2>Du vendredi au dimanche</h2>
-    
-    <hr>
-    {% endif %}
     <article class="conference" id="{{ conference.slug }}">
       <h3>
         {{ verbatim.title }}&nbsp;<a href="#{{ conference.slug }}" class="text-xs">#</a>
@@ -30,6 +24,7 @@
         </p>
       </section>
       {%- endfor -%}
+      <hr>
       {{ verbatim.description | markdownify }} {% if conference.vimeo_id %}
       <p class="text-center">
         <iframe src="https://player.vimeo.com/video/{{ conference.vimeo_id }}?color=ffffff" width="640" height="360"
