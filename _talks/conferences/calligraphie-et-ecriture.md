@@ -9,5 +9,5 @@ fr_FR:
     L'expression d'une ambiance, d'une émotion ou d'une idée est concrétisée par la graphie. Des lignes épurées, des images simples, représentant l'essentiel d'un tout. 
 image: ya-yu
 categories:
-  - exposition - du vendredi au dimanche
+  - exposition
 ---
