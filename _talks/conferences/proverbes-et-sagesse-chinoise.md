@@ -12,5 +12,5 @@ fr_FR:
     de la dynastie Qing 清du livre Chronique indiscrète des mandarins儒林外史d'un roman de WU jingzi (1701-1754 )
 image: mei-ling
 categories:
-  - atelier de vendredi à dimanche
+  - atelier
 ---
