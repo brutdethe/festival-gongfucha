@@ -10,5 +10,5 @@ fr_FR:
     Et parce que le partage est une source de joie et de belles rencontres, Guillaume vous proposera des dégustations de thés dans différents endroits du parc.
 youtube_id: nCL_dJWMwW0
 categories:
-  - exposition et dégustation itinérante - du vendredi au dimanche
+  - exposition et dégustation itinérante
 ---
