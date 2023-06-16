@@ -14,5 +14,5 @@ fr_FR:
   
 image: perrine-pottiez
 categories:
-  - exposition - du vendredi au dimanche
+  - exposition
 ---
