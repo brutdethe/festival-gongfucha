@@ -9,5 +9,5 @@ fr_FR:
     Les valeurs transmises par des maîtres de thés m’inspirent, et deviennent petit à petit les fondations de mon travail.<strong>”</strong>
 image: margaux-ceramics
 categories:
-  - échanges et exposition - du vendredi au dimanche
+  - échanges et exposition
 ---
