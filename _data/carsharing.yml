@@ -1,8 +1,8 @@
 - name : Lisbeth Salander
   leaving-place : Crest, Drome
-  leaving-day : jeudi 29
+  leaving-day : jeudi 23
   leaving-time : '14:00'
-  return-day : samedi 1
+  return-day : samedi 24
   return-time : '18:00'
   steps : 'Lyon, Valence, Orange, <strong>Nîmes (~22:00)</strong>'
   spaces : 3
