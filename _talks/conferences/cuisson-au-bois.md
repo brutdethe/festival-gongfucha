@@ -9,5 +9,5 @@ fr_FR:
 
 image: sebastien-de-groot
 categories:
-  - exposition et dégustation - du vendredi au dimanche
+  - exposition et dégustation
 ---

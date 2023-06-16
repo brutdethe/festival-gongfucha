@@ -9,6 +9,6 @@ fr_FR:
 
 image: yuanyuan-niu
 categories:
-  - atelier - du vendredi au dimanche
+  - atelier
 ---
 
