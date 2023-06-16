@@ -34,5 +34,5 @@ fr_FR:
       manon<strong>”</strong>
 youtube_id: AQqweWF2oIY
 categories:
-  - exposition et dégustation - du vendredi au dimanche
+  - exposition et dégustation
 ---
