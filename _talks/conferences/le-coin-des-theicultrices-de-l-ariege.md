@@ -11,5 +11,5 @@ fr_FR:
     ° *centre de formation professionnelle et de promotion agricole*
 image: theicultrices
 categories:
-  - échanges et exposition - du vendredi au dimanche
+  - échanges et exposition
 ---
