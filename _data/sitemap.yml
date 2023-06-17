@@ -48,12 +48,7 @@
   in_footer: true
 - name: Aider GongFuCha
   type: page
-  value: 2023/financer
-  in_nav: true
-  in_footer: true
-- name: Elles et ils nous soutiennent
-  type: page
-  value: 2023/remerciements
+  value: 2023/contribuer
   in_nav: true
   in_footer: true
 - name: Les boutiques qui parlent de nous
