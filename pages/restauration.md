@@ -9,8 +9,9 @@ permalink: /2023/restauration/
 # {{ page.title }}
 
 Cette année vous avez la possibilité de vous restaurer auprès de Yuanyuan de -Tampopo- et de David et Marina de -Be Bao-. 
-   
-Une maison de thé - 茶館 - CháGuǎn - vous est également proposée par -brut de thé-. 
+Une maison de thé - 茶館 - CháGuǎn - vous est également proposée par -brut de thé-.
+
+> Ces propositions ont été pensées pour les personnes végétaliennes.
 
 ## Tampopo - Yuanyuan
 À travers ses préparations inspirées des principes chinois 藥食同源 - YàoShí TóngYuán où aliments et médicaments s'harmonisent, Yuanyuan invite ses hôtes à [une expérience gustative unique](https://gongfucha.brutdethé.fr/2023/programme/#approche-voie-culinaire) : une "approche de la pensée chinoise par la voie culinaire".
