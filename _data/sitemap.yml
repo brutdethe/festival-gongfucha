@@ -54,7 +54,7 @@
 - name: Les boutiques qui parlent de nous
   type: page
   value: 2023/boutiques
-  in_nav: true
+  in_nav: false
   in_footer: true
 - name: Mentions légales
   type: page
