@@ -10,7 +10,7 @@ permalink: /2023/manifeste/
 # {{ page.title }}
 
 > Un festival pour revenir aux sources, sans nuage de lait, ni arômes ajoutés.  
-> Des feuilles de Thé, un esprit posé, de l’eau chaude, un peu de savoir faire et c’est tout
+> Des feuilles de Thé, un esprit posé, de l’eau chaude, un peu de savoir faire et c’est tout.
 
 Voici les valeurs qui nous animent et que nous souhaitons partager :
 
