@@ -13,7 +13,7 @@ redirect_from:
 
 ## Éditeur
 
-Ce site web est édité par [Brut de Thé](https://www.brutdethé.fr) :
+Ce site web est édité par [Brut de Thé](https://www.gongfucha.fr) :
 
 * association à but non lucratif de type loi 1901;
 * déclarée le 16 avril 2021, auprès de la préfecture de Paris;
