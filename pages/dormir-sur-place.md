@@ -1,7 +1,7 @@
 ---
 title: Pour dormir sur place
 description: ""
-permalink: /2023/dormir-sur-place/
+permalink: /2025/dormir-sur-place/
 ---
 
 <section class="section">

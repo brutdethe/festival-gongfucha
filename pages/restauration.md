@@ -1,7 +1,7 @@
 ---
 title: Restauration
 description: "Toutes les infos sur la restauration"
-permalink: /2023/restauration/
+permalink: /2025/restauration/
 ---
 
 <section class="section">

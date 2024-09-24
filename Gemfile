@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~>3.6.2'
+gem 'jekyll', '~> 4.2'
+gem 'rexml'
+gem 'faraday-retry'
 
 group :jekyll_plugins do
-  gem 'jekyll-github-metadata'
   gem 'jekyll-microtypo'
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'

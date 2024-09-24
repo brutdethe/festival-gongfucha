@@ -2,7 +2,7 @@
 title: Cadre d'interaction prévenant
 description: "Consignes pour créer un cadre d’interaction prévenant"
 i18n-key: coc
-permalink: /2023/recommandations-de-postures/
+permalink: /2025/recommandations-de-postures/
 ---
 <style>
 dd {

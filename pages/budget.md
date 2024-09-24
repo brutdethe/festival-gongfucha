@@ -1,7 +1,7 @@
 ---
 title: Budget prévisionnel
 description: ""
-permalink: /2023/budget/
+permalink: /2025/budget/
 ---
 <style>
   th {
