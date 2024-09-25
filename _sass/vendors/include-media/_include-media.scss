@@ -383,7 +383,7 @@ $im-no-media-expressions: ('screen', 'portrait', 'landscape') !default;
         }
         @else {
             $digits: $digits * 10;
-            $result: $result + calc(map-get($numbers, $character) / $digits);
+            $result: $result + map-get($numbers, $character) / $digits;
         }
     }
     @return if($minus, -$result, $result);
