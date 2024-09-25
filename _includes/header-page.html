@@ -1,23 +1,40 @@
 <header class="page-header">
-    <div class="wrapper">
-        <div class="page-main-title h-like">
-            <a href="{{ page.baseurl | default:site.baseurl }}/{{ include.link.anchor }}" title="Accueil">
-                <svg width="1em" class="page-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.5 48.75 13">
+  <div class="wrapper">
+    <div class="page-main-title h-like">
+      <a href="{{ page.baseurl | default:site.baseurl }}/{{ include.link.anchor }}" title="Accueil">
+        <svg
+          width="1em"
+          class="page-main-title-logo"
+          role="img"
+          aria-labelledby="headerLogoTitle"
+          viewBox="0 6.5 48.75 13">
           <title id="headerLogoTitle">GongFuCha</title>
           <defs>
-            <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
-              <image xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}" width="38.5" height="20" />
+            <pattern
+              id="pic"
+              patternUnits="userSpaceOnUse"
+              width="35"
+              height="20">
+              <image
+                xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}"
+                width="38.5"
+                height="20" />
             </pattern>
           </defs>GongFuCha
           <text y="1em">GongFuCha</text>
         </svg>
-            </a>
-            <p class="page-main-title-baseline">
-                <time datetime="2023-06-23">23</time>, <time datetime="2023-O6-24">24</time> et <time datetime="2023-06-25">
-          25 juin 2023</time> à Lapenne
-            </p>
-        </div>
+      </a>
+      <p class="page-main-title-baseline">
+        <time datetime="2025-06-27">27</time>,
+        <time datetime="2025-O6-28">28</time>
+        et
+        <time datetime="2025-06-29">
+          29 juin 2025</time>
+        à Lapenne
+      </p>
     </div>
+  </div>
 </header>
 
-{% unless page.hide_banner %}{% include banners/ambiance-parc-aux-bambous.html locale=page.locale page_top=true %}{% endunless %}
+{% unless page.hide_banner %}
+  {% include banners/ambiance-parc-aux-bambous.html locale=page.locale page_top=true %}{% endunless %}

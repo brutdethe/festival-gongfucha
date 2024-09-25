@@ -1,10 +1,13 @@
 # GongFuCha Festival
 
-Site internet du festival des Thés de culture Chinoise, dont la 2e édition a eu lieu les 23, 24 et 25 juin 2023 au [parc aux bambous](https://parcauxbambous.com) à Lapenne (09)
+Site internet du festival des Thés de culture Chinoise, dont la 2e édition a eu lieu les 27, 28 et 29 juin 2025 au [parc aux bambous](https://parcauxbambous.com) à Lapenne (09)
 [https://festival.gongfucha.fr](https://festival.gongfucha.fr)
 
 La 1e édition a eu lieu les 30 septembre, 1er et 2 octobre 2022 au [parc aux bambous](https://parcauxbambous.com) à Lapenne (09)
 [https://festival.gongfucha.fr/2022](https://festival.gongfucha.fr/2022)
+
+La 2nd édition a eu lieu les 23, 24 et 25 juin 2023 au [parc aux bambous](https://parcauxbambous.com) à Lapenne (09)
+[https://festival.gongfucha.fr/2023](https://festival.gongfucha.fr/2023)
 
 ## Pré-requis
 

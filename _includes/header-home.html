@@ -1,56 +1,107 @@
 <header class="home-header">
-    <div class="wrapper">
-        <h1 class="home-main-title">
-            <svg width="1em" class="home-main-title-logo" role="img" aria-labelledby="headerLogoTitle" viewBox="0 6.5 48.75 13">
+  <div class="wrapper">
+    <h1 class="home-main-title">
+      <svg
+        width="1em"
+        class="home-main-title-logo"
+        role="img"
+        aria-labelledby="headerLogoTitle"
+        viewBox="0 6.5 48.75 13">
         <title id="headerLogoTitle">Festival GongFuCha</title>
         <defs>
-          <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
-            <image xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}" width="38.5" height="20" />
+          <pattern
+            id="pic"
+            patternUnits="userSpaceOnUse"
+            width="35"
+            height="20">
+            <image
+              xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}"
+              width="38.5"
+              height="20" />
           </pattern>
         </defs>
         <text y="1em">GongFuCha</text>
       </svg>
-            <div class="home-main-title-baseline">
-                Le festival autour des Thés de culture chinoise
-            </div>
-        </h1>
+      <div class="home-main-title-baseline">
+        Le festival autour des Thés de culture chinoise
+      </div>
+    </h1>
 
-        <p class="home-sub-title">
-            <time datetime="2023-06-23">Vendredi <strong>23</strong></time>,
-            <time datetime="2023-06-24">samedi <strong>24</strong></time> et <time datetime="2023-06-25">
-        dimanche <strong>25 juin 2023</strong></time><br> au <a href="{{ page.baseurl | default:site.baseurl }}/{{ "2023/venir-parc-aux-bambous" | page.locale }}/">parc aux
-        bambous de Lapenne, Ariège (09)</a> de 11h à 18h.
+    <p class="home-sub-title">
+      <time datetime="2025-06-27">Vendredi
+        <strong>27</strong>
+      </time>,
+      <time datetime="2025-06-28">samedi
+        <strong>28</strong>
+      </time>
+      et
+      <time datetime="2025-06-29">
+        dimanche
+        <strong>29 juin 2025</strong>
+      </time><br> au
+      <a href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/venir-parc-aux-bambous" | page.locale }}/">parc aux 
+        bambous de Lapenne, Ariège (09)</a>
+      de 11h à 18h.
 
-            <p>Le festival 工夫茶 - <em>GongFuCha</em> propose une <strong>balade poétique et bucolique</strong> ponctuée d'une dizaine d'expériences autour du monde du Thé, qui vous invitent à <strong><a href="#conferences">des
-            dégustations</a></strong>, <strong>des
-          rencontres</strong> et <strong><a href="#conferences">des conférences</a></strong> présentées par des
-                <strong>céramistes</strong>, des <strong>cultivateurs</strong> et d'autres artisans <strong>passionnés de
+      <p>Le festival 工夫茶 -
+        <em>GongFuCha</em>
+        propose une
+        <strong>balade poétique et bucolique</strong>
+        ponctuée d'une dizaine d'expériences autour du monde du Thé, qui vous invitent à
+        <strong>
+          <a href="#conferences">des 
+            dégustations</a>
+        </strong>,
+        <strong>des 
+          rencontres</strong>
+        et
+        <strong>
+          <a href="#conferences">des conférences</a>
+        </strong>
+        présentées par des
+        <strong>céramistes</strong>, des
+        <strong>cultivateurs</strong>
+        et d'autres artisans
+        <strong>passionnés de 
           Thé</strong>. Le festival se déroule du vendredi au dimanche, vous pouvez choisir le ou les jours qui vous conviennent.
-            </p>
-        </p>
-        <p class="text-center">
-            <a class="button" data-text="photos 2022" href="https://photo.brutdethé.fr" target="_blank" title="Voir les photos du festival GongFuCha 2022">
-                <span class="button-inner photo-2022">photos 2022</span>
-            </a>
-            <a class="button" data-text="voir le programme" href="{{ page.baseurl | default:site.baseurl }}/{{ "2023/programme" | page.locale }}/" title="Voir le programme du festival GongFuCha">
-                <span class="button-inner">voir le programme</span>
-            </a>
-            {% if site.tickets.selling %}
-            <a class="button" data-text="réserver votre place" href="https://boutique.brutdethé.fr/fr/billets-gongfucha" title="Venir au parc aux bambous" target="_blank">
-                <span class="button-inner">réserver votre place</span>
-            </a>
-            {% endif %} {% if site.tickets.waiting-list %}
-            <a class="button" data-text="s'incrire en liste d'attente" href="{{ page.baseurl | default:site.baseurl }}/{{ "2023/billetterie" | page.locale }}/#register" title="Venir à GongFuCha 2023">
-                <span class="button-inner">s'incrire en liste d'attente</span>
-            </a>
-            {% endif %}
-            <!--
-      <a class="button" data-text="proposer un sujet"
-        href="{{ page.baseurl | default:site.baseurl }}/{{ "2023/appel-a-propositions" | page.locale }}/"
-        title="proposer un sujet">
-        <span class="button-inner">proposer un sujet</span>
+      </p>
+    </p>
+    <p class="text-center">
+      <a
+        class="button"
+        data-text="photos 2022"
+        href="https://photo.brutdethé.fr"
+        target="_blank"
+        title="Voir les photos du festival GongFuCha 2022">
+        <span class="button-inner photo-2022">photos 2022</span>
       </a>
-      -->
-        </p>
-    </div>
+      <a
+        class="button"
+        data-text="voir le programme"
+        href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/programme" | page.locale }}/"
+        title="Voir le programme du festival GongFuCha">
+        <span class="button-inner">voir le programme</span>
+      </a>
+      {% if site.tickets.selling %}
+        <a
+          class="button"
+          data-text="réserver votre place"
+          href="https://boutique.brutdethé.fr/fr/billets-gongfucha"
+          title="Venir au parc aux bambous"
+          target="_blank">
+          <span class="button-inner">réserver votre place</span>
+        </a>
+      {% endif %}
+      {% if site.tickets.waiting-list %}
+        <a
+          class="button"
+          data-text="s'incrire en liste d'attente"
+          href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/billetterie" | page.locale }}/#register"
+          title="Venir à GongFuCha 2025">
+          <span class="button-inner">s'incrire en liste d'attente</span>
+        </a>
+      {% endif %}
+    <!--      <a class="button" data-text="proposer un sujet"      href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/appel-a-propositions" | page.locale }}/"      title="proposer un sujet">      <span class="button-inner">proposer un sujet</span>      </a>    -->    
+    </p>
+  </div>
 </header>
