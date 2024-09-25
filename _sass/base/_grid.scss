@@ -12,7 +12,7 @@
 }
 
 @for $i from 1 through 7 {
-    $x: calc(($wrapper-max-width / $i) - $global-gutters);
+    $x: calc($wrapper-max-width / $i) - $global-gutters;
     @include media('>#{$x}') {
         .grid-#{$i} {
             --grid-item-min-width: #{$x};
