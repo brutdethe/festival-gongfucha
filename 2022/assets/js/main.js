@@ -134,7 +134,7 @@
 
     function initSmoothScroll() {
         loadScript(
-            'https://cdn.rawgit.com/cferdinandi/smooth-scroll/master/dist/js/smooth-scroll.min.js',
+            'https://raw.githubusercontent.com/LieutenantPeacock/SmoothScroll/refs/heads/master/src/smoothscroll.min.js',
             function() {
                 var scroll = new SmoothScroll("a[href^='#']:not([role='button'])", {
                     speed: 1000,
