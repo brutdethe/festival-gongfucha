@@ -1,23 +1,3 @@
-#chen-jing:
-#  name: Jing Chen
-#  image: /assets/images/speakers/chen-jing.jpg
-#  url: https://appaloosa.book.fr/
-#  fr_FR:
-#    alt: >-
-#      Jing avec un cheval
-#    bio: >-
-#      Gravures Multi-Techniques - Peintures sur Soie CHEN Jing 陈婧, est née en Chine, à Pékin, elle vit et travaille maintenant en Ariège. Diplômée de l'école des Beaux-arts de Versailles en Arts Plastiques, CHEN Jing oriente tout particulièrement ses travaux artistiques sur la relation symbiotique entre l'homme et le cheval.Cavalière de 2012 à 2016 au Haras de Jardy, elle est passionnée par les chevaux et mène encore à ce jour une recherche sur l'éthologie équine en lien avec des professionnels pour approfondir la relation entre l'homme et le cheval.
-#
-#laurence-gillet:
-#  name: Laurence Gillet
-#  image: /assets/images/speakers/laurence-gillet.jpg
-#  url: https://www.seasonalitea.fr
-#  fr_FR:
-#    alt: >-
-#      Laurence est assise devant un bateau de thé qui porte tous les ustensiles nécessaire au GongFuCha.
-#    bio: >-
-#      Après dix ans d’expérience dans l’univers du thé, Laurence a eu envie d’animer des ateliers de dégustation autour des thés rares afin de partager sa passion avec d’autres amateurs de thé. Elle propose d’explorer le monde du thé et de cheminer sur la voie du thé avec curiosité, plaisir et étonnement.
-
 margaux-ceramics:
   name: Margaux Ceramics
   image: /assets/images/speakers/margaux-ceramics.jpg
@@ -28,46 +8,6 @@ margaux-ceramics:
     bio: >-
       À travers l’harmonie, le souffle, le respect ou encore la complétude, Margaux crée des pièces sculpturales uniques et des petites séries de pièces rendues uniques, toutes réalisées à la main. Elle travaille accompagnée des Éléments, avec une terre extraite entre Nantes et Angers. Après des études de langues à l’Université de Nantes, Margaux se dirige vers le monde du thé : les cérémonies du thé l’initient aux objets précieux de dégustation.
 
-roman-linetsky:
-  name: Roman Linetsky
-  image: /assets/images/speakers/roman-linetsky.jpg
-  url: 
-  fr_FR:
-    alt: >-
-      Roman au milieu de personne prépare une dégustation
-    bio: >-
-      « Je suis sur le chemin du thé, je continue à explorer, expérimenter, servir et être surpris. Mon objectif principal est de pouvoir préparer un bon thé.»
-
-mei-ling:  
-  name: Mei Ling
-  image: /assets/images/speakers/mei-ling.jpg
-  url: 
-  fr_FR:
-    alt: >-
-      Sur une table, du matériel de calligraphie chinoise
-    bio: >-
-      Meiling est passionnée par la musique, elle chante à la chorale Voces intimea sous la direction de musicologue Christian PARIOT, correspondante de l'institut RICCI elle enseigne le chinois. Elle souhaite que les personnes visiteuses du Festival partagent et s'abreuvent à la source de la sagesse chinoise .
-
-theicultrices-theiculteurs-ariege:
-  name: Les théicultrices et théiculteurs de l'Ariège
-  image: /assets/images/speakers/feuille-the.jpg
-  url: 
-  fr_FR:
-    alt: >-
-      Gros plan sur une feuille de *Camellia sinensis*. 
-    bio: >-
-      Les théiers se cultivent aujourd'hui dans différents pays d'Europe. La filière Ariégeoise est en plein essor avec ses quatre terroirs déjà en cours de plantations et son association départementale en cours de création. Avec ses zones de montagnes aux fortes hygrométries atmosphériques, sa situation dans le Sud, ses différences de température entre le jour et la nuit, ses différences géologiques, son boisement montagnard, l’Ariège offre des conditions prometteuses pour obtenir un thé de grande qualité.
-
-ya-yu:
-  name: Ya-Yu Lai
-  image: /assets/images/speakers/ya-yu.jpg
-  url: https://laiyayu.com
-  fr_FR:
-    alt: >-
-      Ya-Yu Lai réalise une calligraphie à l'encre noire sur un grand format blanc. 
-    bio: >-
-      Née à Taïwan, de nationalité française et taïwanaise, Ya-Yu Lai  est calligraphe de mouvement, designer d’espace et scénographe. Elle évolue entre la France et Taïwan.
-
 guillaume-regler:
   name: Guillaume Régler
   image: /assets/images/speakers/guillaume-regler.jpg
@@ -77,26 +17,6 @@ guillaume-regler:
       Guillaume en auto-portrait, main sur la joue, nous regarde intensément. 
     bio: >-
       Artiste touche à tout, photographe, artisan, Guillaume travail au gré de ses inspirations le bois, la céramique ou le métal pour créer des objets d'une esthétique épurée et minimaliste, adaptés à sa pratique quotidienne de la Voie du Thé. 
-
-maison-dao:
-  name: Maison Dao
-  image: /assets/images/speakers/maison-dao.jpg
-  url: https://maisondao.com
-  fr_FR:
-    alt: >-
-      Logo de maison Dao
-    bio: >-
-      Olivier Plante a créé Maison Dao au Canada, il vit maintenant en France. Il développe son activité autour du thé chinois, principalement dans l’axe de la pratique thé et méditation. En ce moment, il se concentre sur la pratique et s'intéresse particulièrement à la culture des théiers et à la transformation du thé en France pour en faire un produit local et du quotidien. 
-
-sebastien-de-groot:
-  name: Sébastien de Groot
-  image: /assets/images/speakers/sebastien-de-groot.jpg
-  url: https://www.sebastiendegroot.com
-  fr_FR:
-    alt: >-
-      Sébastien pendant une cuisson regarde vers le haut, bouche bée.. C’est un espace d’expérimentation, d’apprentissage et de création
-    bio: >-
-      Sébastien est céramiste, spécialisé dans les cuissons au feu de bois à haute température, il aime parcourir l'histoire des céramiques du thé. Son atelier est un espace d’expérimentation, d’apprentissage où il explore différentes techniques de modelage, tournage, découpe, émail, sérigraphie.
 
 perrine-pottiez:
   name: Perrine Pottiez
@@ -128,16 +48,6 @@ manon-clouzeau:
     bio: >-
       Manon Clouzeau modèle des bols en grès parés d'émaux aux nuances naturalistes. Sur la voie du thé, elle tourne également des GaiWan et verseuses d'une élégante délicatesse.      
       
-brut-de-the:
-  name: Brut de thé
-  image: /assets/images/speakers/brut-de-the.jpg
-  url: https://brutdethe.fr
-  fr_FR:
-    alt: >-
-      Logo de Brut de Thé
-    bio: >-
-      « Nous vous proposons d’oublier totalement ce que vous avez construit derrière le mot thé, de venir avec nous à la source, sans nuage de lait, ni arômes ajoutés. Des feuilles de Thé, un esprit posé, de l’eau chaude, un peu de savoir faire, c’est tout. »
-
 terre-de-ciel:
   name: Terre de Ciel
   image: /assets/images/speakers/terre-de-ciel.jpg
