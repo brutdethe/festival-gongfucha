@@ -3,14 +3,6 @@
   slug: louna-langlois
   url: https://louna.com
 
-- firstname: Audrey
-  lastname: Bramy
-  slug: audrey-bramy
-  url: https://keybase.io/audreybramy
-
-- firstname: Bastien
-  slug: bastien
-
 - firstname: Cyrille
   lastname: Baticle
   slug: cyrille-baticle
@@ -18,7 +10,3 @@
 - firstname: Elie
   lastname: Daviron
   slug: elie-daviron
-
-- firstname: Fanny
-  lastname: Monsonis
-  slug: fanny-monsonis
