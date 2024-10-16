@@ -36,8 +36,15 @@ ya-lin:
     alt: >-
       Ya-Lin le regard serein porte des lunette et une écharpe en laine.
     bio: >-
-      Née à Taipei, son premier maître de Thé a été son grand-père maternel, un amateur passionné. Il lui a transmis les racines, le goût et l’amour de cette culture du Thé. Elle s'intéresse et s'investit dans tout ce qui concerne la culture chinoise du thé. Son intention est de partager le goût authentique du Thé selon la culture chinoise et de rencontrer la Voie du Thé.
-
+      Je suis née à Taipei, là où mon grand-père maternel, premier guide sur le chemin du thé,
+      m'a transmis ses racines, son palais délicat et son amour infini pour cette feuille précieuse.
+      Dans chaque tasse, je découvre la simplicité, la sincérité, et l'authenticité,
+      des vertus que je vois également éclore chez mes amis, les artisans du thé.
+      Ces trois valeurs, telles des étoiles discrètes,
+      m'accompagnent sur mon chemin,
+      me rappelant, avec chaque tasse,
+      l'importance de cultiver leur présence dans chaque instant.
+      
 manon-clouzeau:
   name: Manon Clouzeau
   image: /assets/images/speakers/manon-clouzeau.jpg
@@ -60,6 +67,22 @@ terre-de-ciel:
       
 yuanyuan-niu:
   name: Yuanyuan Niu
+  image: /assets/images/speakers/yuanyuan-niu.jpg
+  url: https://tampopo.bio/
+  fr_FR:
+    alt: >-
+      Yuanyuan dans son jardin
+    bio: >-
+      « Je suis une enfant chinoise de la ville profondément transformée par deux expériences qui ont établi mon lien avec les plantes et la nature : un cours certifié de permaculture en Thaïlande ; mon apprentissage auprès d'un maître de la médecine traditionnelle chinoise exerçant à Chengdu. Je porte en moi le respect de la nature et ce respect se manifeste à chaque instant, de la cueillette à l'assiette. Pour cela, j'incarne ce mantra :»  
+        <blockquote>
+        L'âme vient habiter la conscience<br>
+        La conscience secoue la pensée<br>
+        La pensée commande le geste<br>
+        Et c'est la justesse du geste qui transforme l'ordinaire en sacré
+        </blockquote>
+
+marina-david:
+  name: David et Marina
   image: /assets/images/speakers/yuanyuan-niu.jpg
   url: https://tampopo.bio/
   fr_FR:
