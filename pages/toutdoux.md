@@ -17,7 +17,8 @@ permalink: /2025/toutdoux/
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ plan de circulation du festival, définir les emplacemants et les espaces
 - ➡️ demander les bio-présentations et les photos des exposantes
-- 
+- ➡️ faire le fichier du programmes 2025
+- ➡️ faire le fichier de la restauration 
 
 </div>
 </section>
