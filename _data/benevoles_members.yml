@@ -1,24 +1,21 @@
 - firstname: Louna
   lastname: Langlois
   slug: louna-langlois
-  url: https://louna.com
+  url: https://coanima.org
 
-- firstname: Audrey
-  lastname: Bramy
-  slug: audrey-bramy
-  url: https://keybase.io/audreybramy
-
-- firstname: Bastien
-  slug: bastien
-
-- firstname: Cyrille
-  lastname: Baticle
-  slug: cyrille-baticle
+- firstname: Maëlle
+  lastname: Gosnet
+  slug: maelle-gosnet
 
 - firstname: Elie
   lastname: Daviron
   slug: elie-daviron
 
-- firstname: Fanny
-  lastname: Monsonis
-  slug: fanny-monsonis
+- firstname: Lionel
+  lastname: Caillard
+  slug: lionel-caillard
+
+- firstname: Sabrina
+  lastname: Gerard
+  slug: sabrina-gerard
+
