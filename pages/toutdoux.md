@@ -30,13 +30,13 @@ permalink: /2025/toutdoux/
 - ➡️ confirmer les dates pour le gite à Sylvie
 - ➡️ plan de circulation du festival, définir les emplacements et les espaces
 - ➡️ envoyer des affiches :
-- Jim à Nantes - Théine
-- barbara
-- Pascal Romain à Bordeaux
-- Pascale Vannes
-- Thomas ou Ivan : Drôme
-- Cyril
-- Paris ?
+  - Jim à Nantes - Théine
+  - barbara
+  - Pascal Romain à Bordeaux
+  - Pascale Vannes
+  - Thomas ou Ivan : Drôme
+  - Cyril
+  - Paris ?
 - ➡️
 - ➡️
 - ➡️
