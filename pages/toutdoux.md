@@ -19,6 +19,8 @@ permalink: /2025/toutdoux/
 - ➡️ demander les bio-présentations et les photos des exposantes
 - ➡️ faire le fichier du programmes 2025
 - ➡️ faire le fichier de la restauration 
+- ➡️ mettre le lien vers la boutique
+- ➡️ mettre en vente l'affiche et les tichetes à la boutique
 
 </div>
 </section>
