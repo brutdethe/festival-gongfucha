@@ -9,7 +9,6 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ envoyer à Didier le PDF
 - ➡️ Faire une notice pour les personnes exposantes
 - ➡️ répondre stéphane pour le QiGong et poésie
 - ➡️ rendez-vous mardi 3 avec Jé pour démarrer
@@ -18,9 +17,12 @@ permalink: /2025/toutdoux/
 - ➡️ répondre à Jérémy
 - ➡️ répondre à toktok
 - ➡️ mettre en vente l'affiche et les tichets à la boutique
+- ➡️ changer la vignette 2022 (qui apprait dans slack)
+- ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ faire une messagerie style slack
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
 - ➡️ faire le programmes 2025
+  - ajouter Sophie Pouly
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ publier les photos 2023
 - ➡️ faire un communiqué de Presse
@@ -45,6 +47,7 @@ permalink: /2025/toutdoux/
 
 - ✔️ créer la page ToutDoux
 - ✔️ remplir et prioriser les tâches
+- ✔️ envoyer à Didier le PDF
 
 </div>
 </section>
