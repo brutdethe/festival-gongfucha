@@ -9,7 +9,8 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ Faire une notice pour les personnes exposantes
+- ➡️ envoyer un mail aux personnes exposantes
+- ➡️ Faire la notice pour les personnes exposantes
 - ➡️ répondre stéphane pour le QiGong et poésie
 - ➡️ rendez-vous mardi 3 avec Jé pour démarrer
 - ➡️ envoyer la notice aux personnes exposantes
@@ -48,6 +49,7 @@ permalink: /2025/toutdoux/
 - ✔️ créer la page ToutDoux
 - ✔️ remplir et prioriser les tâches
 - ✔️ envoyer à Didier le PDF
+- ✔️ rédiger le mail aux personnes exposantes
 
 </div>
 </section>
