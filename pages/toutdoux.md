@@ -10,12 +10,8 @@ permalink: /2025/toutdoux/
 # {{ page.title }}
 
 - ➡️ Faire la notice pour les personnes exposantes
-- ➡️ répondre stéphane pour le QiGong et poésie
-- ➡️ rendez-vous mardi 3 avec Jé pour démarrer
 - ➡️ envoyer la notice aux personnes exposantes
   - demander les bio-présentations et les photos des exposantes
-- ➡️ répondre à Jérémy
-- ➡️ répondre à toktok
 - ➡️ mettre en vente l'affiche et les tichets à la boutique
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ mettre l'évènement sur le site du parc aux bambous
@@ -45,6 +41,10 @@ permalink: /2025/toutdoux/
 
 ### Tâches terminées
 
+- ✔️ répondre stéphane pour le QiGong et poésie
+- ✔️ rendez-vous mardi 3 avec Jé pour démarrer
+- ✔️ répondre à Jérémy
+- ✔️ répondre à toktok
 - ✔️ envoyer un mail aux personnes exposantes
   - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
     Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Maria, Loan, Olivier, Maria, Jean-Benoit, Roman,
