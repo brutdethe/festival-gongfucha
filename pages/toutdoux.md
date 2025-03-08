@@ -47,7 +47,8 @@ permalink: /2025/toutdoux/
 - ✔️ répondre à toktok
 - ✔️ envoyer un mail aux personnes exposantes
   - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
-    Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Maria, Loan, Olivier, Maria, Jean-Benoit, Roman,
+    Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
+    Natalia, Laurence, Dominique et Aude
 - ✔️ rédiger le mail aux personnes exposantes
 - ✔️ envoyer à Didier le PDF
 - ✔️ remplir et prioriser les tâches
