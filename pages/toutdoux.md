@@ -44,7 +44,6 @@ permalink: /2025/toutdoux/
 - ✔️ répondre stéphane pour le QiGong et poésie
 - ✔️ rendez-vous mardi 3 avec Jé pour démarrer
 - ✔️ répondre à Jérémy
-- ✔️ répondre à toktok
 - ✔️ envoyer un mail aux personnes exposantes
   - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
     Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
