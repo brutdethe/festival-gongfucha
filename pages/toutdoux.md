@@ -35,9 +35,11 @@ permalink: /2025/toutdoux/
   - Thomas ou Ivan : Drôme
   - Cyril
   - Paris ?
-- ➡️
-- ➡️
-- ➡️
+- ➡️ préciser les " bénévoles "
+- ➡️ envoyer la notice aux bénévoles et les personnes qui donnent un coup de main
+- ➡️ recherche des intervenants
+  ➡️ enoyer la notice aux internenants
+
 
 ### Tâches terminées
 
@@ -47,7 +49,11 @@ permalink: /2025/toutdoux/
 - ✔️ envoyer un mail aux personnes exposantes
   - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
     Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
-    Natalia, Laurence, Dominique et Aude
+    Natalia, Laurence, Dominique et Aude, Ivan,
+- ✔️ envoyer un mail aux intervenants
+  - Cerise
+- ✔️ recherche des intervenants
+  - Maison Culturelle Chinoise, 
 - ✔️ rédiger le mail aux personnes exposantes
 - ✔️ envoyer à Didier le PDF
 - ✔️ remplir et prioriser les tâches
