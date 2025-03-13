@@ -24,6 +24,9 @@ permalink: /2025/toutdoux/
 - ➡️ mettre en vente l'affiche et les tickets à la boutique
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ faire une messagerie style slack
+- ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+- ➡️ faire le programmes 2025
+  - ajouter Sophie Pouly
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ publier les photos 2023
 - ➡️ faire un communiqué de Presse
@@ -40,20 +43,24 @@ permalink: /2025/toutdoux/
   - Thomas ou Ivan : Drôme
   - Cyril
   - Paris ?
-- ➡️
-- ➡️
-- ➡️
+- ➡️ préciser les " bénévoles "
+- ➡️ envoyer la notice aux bénévoles et les personnes qui donnent un coup de main
+- ➡️ recherche des intervenants
+  ➡️ enoyer la notice aux internenants
 
 ### Tâches terminées
 
 - ✔️ répondre stéphane pour le QiGong et poésie
 - ✔️ rendez-vous mardi 3 avec Jé pour démarrer
 - ✔️ répondre à Jérémy
-- ✔️ répondre à toktok
 - ✔️ envoyer un mail aux personnes exposantes
   - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
     Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
-    Natalia, Laurence, Dominique et Aude
+    Natalia, Laurence, Dominique et Aude, Ivan,
+- ✔️ envoyer un mail aux intervenants
+  - Cerise, Maison Culturelle Chinoise
+- ✔️ recherche des intervenants
+  - Maison Culturelle Chinoise,
 - ✔️ rédiger le mail aux personnes exposantes
 - ✔️ envoyer à Didier le PDF
 - ✔️ remplir et prioriser les tâches
