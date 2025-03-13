@@ -9,16 +9,21 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
+- ➡️ faire le programmes 2025
+  - ajouter Sophie Pouly
+  - ajouter terre de ciel
+  - ajouter Ivan
+  - ajouter Perrine
+  - ajouter Manon
+  - ajouter GongFucha
+- ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+- ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ Faire la notice pour les personnes exposantes
 - ➡️ envoyer la notice aux personnes exposantes
   - demander les bio-présentations et les photos des exposantes
-- ➡️ mettre en vente l'affiche et les tichets à la boutique
+- ➡️ mettre en vente l'affiche et les tickets à la boutique
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
-- ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ faire une messagerie style slack
-- ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
-- ➡️ faire le programmes 2025
-  - ajouter Sophie Pouly
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ publier les photos 2023
 - ➡️ faire un communiqué de Presse
