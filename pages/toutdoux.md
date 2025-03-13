@@ -17,6 +17,7 @@ permalink: /2025/toutdoux/
 - ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ faire une messagerie style slack
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+- ➡️ faire le recherche d'autres internenants: musique traditionel, calligraphie, conférencier
 - ➡️ faire le programmes 2025
   - ajouter Sophie Pouly
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
@@ -51,7 +52,7 @@ permalink: /2025/toutdoux/
     Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
     Natalia, Laurence, Dominique et Aude, Ivan,
 - ✔️ envoyer un mail aux intervenants
-  - Cerise
+  - Cerise, Maison Culturelle Chinoise
 - ✔️ recherche des intervenants
   - Maison Culturelle Chinoise, 
 - ✔️ rédiger le mail aux personnes exposantes
