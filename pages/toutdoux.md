@@ -17,6 +17,7 @@ permalink: /2025/toutdoux/
   - ajouter Manon
   - ajouter GongFucha
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+- ➡️ faire la recherche d'autres intervenants
 - ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ Faire la notice pour les personnes exposantes
 - ➡️ envoyer la notice aux personnes exposantes
