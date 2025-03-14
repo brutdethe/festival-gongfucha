@@ -22,6 +22,7 @@ permalink: /2025/toutdoux/
 - ➡️ Faire la notice pour les personnes exposantes
 - ➡️ envoyer la notice aux personnes exposantes
   - demander les bio-présentations et les photos des exposantes
+  - répondre le retour de la notice aux personnes exposantes
 - ➡️ mettre en vente l'affiche et les tickets à la boutique
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ faire une messagerie style slack
@@ -54,10 +55,11 @@ permalink: /2025/toutdoux/
 - ✔️ répondre stéphane pour le QiGong et poésie
 - ✔️ rendez-vous mardi 3 avec Jé pour démarrer
 - ✔️ répondre à Jérémy
-- ✔️ envoyer un mail aux personnes exposantes
-  - Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
-    Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman,
+- ✔️ envoyer le  mail de notice aux personnes exposantes
+  - notice: Jé, Manon, YuanYuan, Lucas, Laetitia, Perinne, Thaïs, Charly, Katrin, Xin et Yao, Valérie,
+    Julien, Sophie, Antoine, Margaux, Yayu, Guillaume, Loan, Olivier, Maria, Jean-Benoit, Roman, David et Marina
     Natalia, Laurence, Dominique et Aude, Ivan,
+  - répondre à la retour de notice: Olivier, Perrine, Guillaume, Cerise, Yuanyuan, Sophie, Ivan
 - ✔️ envoyer un mail aux intervenants
   - Cerise, Maison Culturelle Chinoise
 - ✔️ recherche des intervenants
