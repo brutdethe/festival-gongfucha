@@ -8,10 +8,10 @@ margaux-ceramics:
     bio: >-
       À travers l’harmonie, le souffle, le respect ou encore la complétude, Margaux crée des pièces sculpturales uniques et des petites séries de pièces rendues uniques, toutes réalisées à la main. Elle travaille accompagnée des Éléments, avec une terre extraite entre Nantes et Angers. Après des études de langues à l’Université de Nantes, Margaux se dirige vers le monde du thé : les cérémonies du thé l’initient aux objets précieux de dégustation.
 
-guillaume-regler:
-  name: Guillaume Régler
-  image: /assets/images/speakers/guillaume-regler.jpg
-  url: https://guan-tcha.fr
+sophie-pouly:
+  name: Sophie Pouly
+  image: /assets/images/speakers/
+  url: https://sophiepouly.wixsite.com/terreetcielpoterie
   fr_FR:
     alt: >-
       Guillaume en auto-portrait, main sur la joue, nous regarde intensément. 
@@ -26,7 +26,11 @@ perrine-pottiez:
     alt: >-
       Perrine regarde attentivement une de ses céramiques.
     bio: >-
-      Modeleuse d’argiles sauvages, rêveuse d’objets poétiques. Elle expérimente les matières rudimentaires glanées pour tenter la création d’objets subtils et délicats. Un chemin se dessine entre bols, poésie et spiritualité.
+      Je récolte mes argiles dans la nature et les prépare en pâte et en décantations sigillées. 
+      De ces balles d'argiles pincées viennent des formes, puis les courbes qui les animent. 
+      Je façonne également au tour de potier, à la motte, en laissant toutes les traces de l’outil. 
+      J’applique les décantations très fines au pinceau, ce qui leur donne leurs couleurs et leur imperméabilité. 
+      Mes cuissons se font au feu de bois ou au gaz avec des cendres de bois.
 
 ya-lin:
   name: Ya Lin
@@ -34,26 +38,25 @@ ya-lin:
   url: http://brutdethé.fr/
   fr_FR:
     alt: >-
-      Ya-Lin le regard serein porte des lunette et une écharpe en laine.
+      Ya-Lin le regard serein porte des lunette.
     bio: >-
-      Je suis née à Taipei, là où mon grand-père maternel, premier guide sur le chemin du thé,
-      m'a transmis ses racines, son palais délicat et son amour infini pour cette feuille précieuse.
-      Dans chaque tasse, je découvre la simplicité, la sincérité, et l'authenticité,
-      des vertus que je vois également éclore chez mes amis, les artisans du thé.
-      Ces trois valeurs, telles des étoiles discrètes,
-      m'accompagnent sur mon chemin,
-      me rappelant, avec chaque tasse,
-      l'importance de cultiver leur présence dans chaque instant.
+      Née à Taipei, à Taïwan, j’ai grandi dans l’univers du thé aux côtés de mon grand-père. 
+      Le parfum du thé m’accompagne depuis l’enfance, imprégnant mes souvenirs et mon parcours. 
+      En 1990, je me suis installée en France, à Nantes, où j’ai enseigné le chinois et la calligraphie.
+      En 2011, j’ai approfondi ma pratique en étudiant offcielement l’art du thé à Taïwan auprès d’un maître. 
+      En 2013, j’ai fondé mon propre atelier, 
+      dédié à la transmission et au partage de la culture chinoise du thé, dans un esprit de rencontre et d’échange.    
       
 manon-clouzeau:
   name: Manon Clouzeau
   image: /assets/images/speakers/manon-clouzeau.jpg
-  url: https://manonclouzeau.com/
+  url: https://www.manonclouzeau.com
   fr_FR:
     alt: >-
       Manon Clouzeau est en train de tourner des pièces, légèrement masquée par une étagère.
     bio: >-
-      Manon Clouzeau modèle des bols en grès parés d'émaux aux nuances naturalistes. Sur la voie du thé, elle tourne également des GaiWan et verseuses d'une élégante délicatesse.      
+      Manon Clouzeau modèle des bols en grès parés d'émaux aux nuances naturalistes. 
+      Sur la voie du thé, elle tourne également des GaiWan et verseuses d'une élégante délicatesse.      
       
 terre-de-ciel:
   name: Terre de Ciel
@@ -63,36 +66,32 @@ terre-de-ciel:
     alt: >-
       Aude et Dominique assises sur une montagne avec un producteur
     bio: >-
-      « Artistes photographes, passionnées par le voyage, nous avons découvert la Chine du sud en 2005. Nous sommes tombées sous le charme des montagnes du Yunnan, des vieux théiers majestueux . Plus encore, c'est l'hospitalité, la curiosité et la gentillesse des montagnards qui nous ont retenues et ramenées année après année dans leurs villages. Ils nous ont fait partager leurs savoirs, nous avons aussi évolué ensemble. Depuis, nous travaillons à faire connaitre le thé Pu'Erh d'origine ; expositions, conférences, dégustations... Et depuis 2009, nous avons décidé de produire avec eux nos galettes de Pu'Erh :"Les Thés Terre de Ciel".»
+      « Artistes photographes, passionnées par le voyage, nous avons découvert la Chine du sud en 2005. 
+      Nous sommes tombées sous le charme des montagnes du Yunnan, des vieux théiers majestueux . 
+      Plus encore, c'est l'hospitalité, la curiosité et la gentillesse des montagnards 
+      qui nous ont retenues et ramenées année après année dans leurs villages. 
+      Ils nous ont fait partager leurs savoirs, nous avons aussi évolué ensemble. Depuis, 
+      nous travaillons à faire connaitre le thé Pu'Erh d'origine ; expositions, conférences, dégustations... 
+      Et depuis 2009, nous avons décidé de produire avec eux nos galettes de Pu'Erh :"Les Thés Terre de Ciel".»
       
-yuanyuan-niu:
-  name: Yuanyuan Niu
-  image: /assets/images/speakers/yuanyuan-niu.jpg
-  url: https://tampopo.bio/
+ivan-moine:
+  name: Ivan Moine
+  image: /assets/images/speakers/
+  url: https://
   fr_FR:
     alt: >-
-      Yuanyuan dans son jardin
+      
     bio: >-
-      « Je suis une enfant chinoise de la ville profondément transformée par deux expériences qui ont établi mon lien avec les plantes et la nature : un cours certifié de permaculture en Thaïlande ; mon apprentissage auprès d'un maître de la médecine traditionnelle chinoise exerçant à Chengdu. Je porte en moi le respect de la nature et ce respect se manifeste à chaque instant, de la cueillette à l'assiette. Pour cela, j'incarne ce mantra :»  
-        <blockquote>
-        L'âme vient habiter la conscience<br>
-        La conscience secoue la pensée<br>
-        La pensée commande le geste<br>
-        Et c'est la justesse du geste qui transforme l'ordinaire en sacré
+      
         </blockquote>
 
 marina-david:
   name: David et Marina
-  image: /assets/images/speakers/yuanyuan-niu.jpg
-  url: https://tampopo.bio/
+  image: /assets/images/speakers/
+  url: https://
   fr_FR:
     alt: >-
-      Yuanyuan dans son jardin
+      
     bio: >-
-      « Je suis une enfant chinoise de la ville profondément transformée par deux expériences qui ont établi mon lien avec les plantes et la nature : un cours certifié de permaculture en Thaïlande ; mon apprentissage auprès d'un maître de la médecine traditionnelle chinoise exerçant à Chengdu. Je porte en moi le respect de la nature et ce respect se manifeste à chaque instant, de la cueillette à l'assiette. Pour cela, j'incarne ce mantra :»  
-        <blockquote>
-        L'âme vient habiter la conscience<br>
-        La conscience secoue la pensée<br>
-        La pensée commande le geste<br>
-        Et c'est la justesse du geste qui transforme l'ordinaire en sacré
+      
         </blockquote>
