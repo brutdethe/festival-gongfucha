@@ -8,19 +8,20 @@ fr_FR:
    GōngFūChá 工夫茶 : Le Rituel du Moment Présent 
 
 
-   Un rite ancien, les mouvements perpétuels,<br>
-   À l’enfance avec mon grand-père, lié par le thé.<br>  
-   Les jours s’étirent, les instants suspendus,<br>  
-   Sous les montagnes, près des eaux,<br>  
-   Autour de la grande table où le hasard devient lien.<br>  
+   Un rite ancien, des gestes murmurés d’âge en âge,<br>
+   L’enfance liée au thé, à l’eau, à mon grand-père.<br>
+   Le temps s’étire, suspendu dans l’instant,<br>
+   Au pied des montagnes, au bord des eaux,<br>
+   Autour de la table à thé, le hasard devient destin.<br>  
 
-   Ce rite s’immisce, serein et constant,<br>
+   Ce rite ancien s’immisce, serein et constant,<br>
    Dans les cours ennuyeux, les passions partagées,<br>
-   Les rires des amis, les silences des élèves,<br>
-   Et dans chaque tasse, un fragment de mémoire,<br>
-   L’écho d’un thé, d’un temps, avec mon grand-papa.<br>
+   Les rires des amis, les silences des élèves.<br>
+   Dans chaque bol de thé se niche un fragment de mémoire,<br>
+   Un dialogue entre le thé et le temps, à l’image de mon enfance auprès de mon grand-papa.<br>
 
-  
+   
+
    工夫茶：當下的儀式
 
 
@@ -28,14 +29,15 @@ fr_FR:
    童年時與祖父，茶水相連。<br>
    歲月悠長，瞬息懸滯，<br>
    山下，水畔，<br>
-   在那大桌旁，偶然變作深緣。<br>
+   茶案之側，偶然變作深緣。<br>
 
 
-   這儀式，安靜而持久，<br>
-   滲入無趣的課堂，共鳴的熱忱，<br>
-   朋友的笑聲，學生的沉默，<br>
-   一杯杯茶，一片片記憶，<br>
-   茶與歲月的對話，爺爺伴我的童年時光。<br>
+   這古老的儀式，悄然滲透，<br>
+   於沉悶的課堂，於共享的熱情，<br>
+   於朋友的笑語，於學生的靜默<br>
+   每一杯茶裡，盛載一段記憶，，<br>
+   茶與歲月對話，宛如童年時光與祖父相依<br>
+
  
 image: ya-lin
 categories:
