@@ -41,7 +41,7 @@ perrine-pottiez:
 ya-lin:
   name: Ya Lin
   image: /assets/images/speakers/ya-lin.jpg
-  url: http://brutdethé.fr/
+  url: http://brutdethé.fr
   fr_FR:
     alt: >-
       Ya-Lin en train de faire le thé.
@@ -66,8 +66,6 @@ manon-clouzeau:
       
 terre-de-ciel:
   name: Terre de Ciel
-  image: /assets/images/speak:
-  name: Terre de Ciel
   image: /assets/images/speakers/terre-de-ciel.jpg
   url: https://www.the-puerh.com
   fr_FR:
@@ -86,10 +84,8 @@ terre-de-ciel:
       
 ekaterina-drobich:
   name: Ekaterina Drobich
-  image: /assets/images/speak:
-  name: Terre de Ciel
   image: /assets/images/speakers/ekaterina-drobich.jpg
-  url: https://www.racontemoiunthe.fr/
+  url: https://www.racontemoiunthe.fr
   fr_FR:
     alt: >-
       ekaterina déguste un thé
