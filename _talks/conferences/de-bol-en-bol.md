@@ -3,7 +3,7 @@ display-order: 3
 speaker:
   - manon-clouzeau
 fr_FR:
-  title: De bol en bol
+  title: de bol en bol
   description: >-
       <strong>“</strong>Un jour, au coin d'une table, un ami souhaite nous préparer le thé,<br>
       nous n'avons pas de théière.<br><br>

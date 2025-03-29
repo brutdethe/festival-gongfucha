@@ -3,7 +3,7 @@ display-order: 9
 speaker:
   - ya-lin
 fr_FR:
-  title: "Rite attitude"
+  title: "rite attitude"
   description: >-
    GōngFūChá 工夫茶 : Le Rituel du Moment Présent 
 
@@ -41,5 +41,5 @@ fr_FR:
  
 image: ya-lin
 categories:
-  - Rituel et dégustation
+  - rituel et dégustation
 ---

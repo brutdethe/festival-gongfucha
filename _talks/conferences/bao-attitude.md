@@ -9,5 +9,5 @@ fr_FR:
 
 image: marina-david
 categories:
-  - Restauration
+  - restauration
 ---
