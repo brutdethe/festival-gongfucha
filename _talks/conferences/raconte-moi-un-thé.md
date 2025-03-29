@@ -3,7 +3,7 @@ display-order: 7
 speaker:
   - ekaterina-drobich
 fr_FR:
-  title: "Raconte moi un thé"
+  title: "raconte moi un thé"
   description: >-
     <strong>“</strong>
     Derrière chaque tasse de thé se cache une histoire : celle d'un producteur,<br> 

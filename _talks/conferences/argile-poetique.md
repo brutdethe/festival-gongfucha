@@ -3,7 +3,7 @@ display-order: 2
 speaker:
   - perrine-pottiez
 fr_FR:
-  title: "Argile poétique"
+  title: "argile poétique"
   description: >-
     <strong>“</strong>
     Je rêve à des objets sentant la forêt, la pluie<br>
