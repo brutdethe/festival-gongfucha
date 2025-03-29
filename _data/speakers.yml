@@ -66,6 +66,8 @@ manon-clouzeau:
       
 terre-de-ciel:
   name: Terre de Ciel
+  image: /assets/images/speak:
+  name: Terre de Ciel
   image: /assets/images/speakers/terre-de-ciel.jpg
   url: https://www.the-puerh.com
   fr_FR:
@@ -80,8 +82,23 @@ terre-de-ciel:
       jamais démentie. Depuis, nous travaillons à faire connaitre le thé Pu'Erh d'origine:
       expositions, conférences, dégustations... Et depuis 2009, nous avons décidé de produire avec
       eux nos propres galettes:"Les Thés Terre de Ciel". Nos thés sont certifiés biologiques 
-      ou issus de jardins naturels conduits sans intrants
-chimiques.
+      ou issus de jardins naturels conduits sans intrants chimiques.
+      
+ekaterina-drobich:
+  name: Ekaterina Drobich
+  image: /assets/images/speak:
+  name: Terre de Ciel
+  image: /assets/images/speakers/ekaterina-drobich.jpg
+  url: https://www.racontemoiunthe.fr/
+  fr_FR:
+    alt: >-
+      ekaterina déguste un thé
+    bio: >-
+      Depuis mon enfance, le thé m’a toujours envoûtée, tel un élixir aux mille secrets. Et voilà des années que, 
+      portée par cette passion, j’arpente le monde, en quête des crus les plus rares et surprenants. Chaque feuille, 
+      chaque parfum raconte une histoire, et aujourd'hui, c'est avec l'âme d'une exploratrice 
+      que je vous invite à embarquer dans mon carnet de voyage, où se mêlent découvertes, 
+      saveurs exotiques et récits d'aventures infusées aux quatre coins du globe.
       
 ivan-moine:
   name: Ivan Moine
