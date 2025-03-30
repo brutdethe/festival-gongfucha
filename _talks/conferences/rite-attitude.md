@@ -41,5 +41,5 @@ fr_FR:
  
 image: ya-lin
 categories:
-  - rituel et dégustation
+  - échanges, rituel et dégustation
 ---

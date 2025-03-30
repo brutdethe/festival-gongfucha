@@ -15,5 +15,5 @@ fr_FR:
 
 image: ekaterina-drobich
 categories:
-  - exposition et dégustation 
+  - échanges et dégustation 
 ---
