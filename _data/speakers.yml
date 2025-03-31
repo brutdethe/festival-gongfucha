@@ -1,17 +1,3 @@
-margaux-ceramics:
-  name: Margaux Ceramics
-  image: /assets/images/speakers/margaux-ceramics.jpg
-  url: https://www.margauxceramics.com
-  fr_FR:
-    alt: >-
-      Deux bols et une théière de Margaux
-    bio: >-
-      À travers l’harmonie, le souffle, le respect ou encore la complétude, 
-      Margaux crée des pièces sculpturales uniques et des petites séries de pièces rendues uniques, 
-      toutes réalisées à la main. Elle travaille accompagnée des Éléments, avec une terre extraite entre Nantes et Angers. 
-      Après des études de langues à l’Université de Nantes, Margaux se dirige vers le monde du thé : 
-      les cérémonies du thé l’initient aux objets précieux de dégustation.
-
 sophie-pouly:
   name: Sophie Pouly
   image: /assets/images/speakers/sophie-pouly.jpg
@@ -119,7 +105,7 @@ ivan-moine:
 
 marina-david:
   name: Marina et David
-  image: /assets/images/speakers/
+  image: /assets/images/speakers/be-bao.jpg
   url: https://
   fr_FR:
     alt: >-
