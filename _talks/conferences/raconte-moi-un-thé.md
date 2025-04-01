@@ -11,7 +11,7 @@ fr_FR:
     d'un terroir empreint de défis et de bonheurs.<br> 
     Chaque gorgée est un hommage à la passion,<br> 
     à l'amour et à l'art de ceux qui en cultivent l'essence.<br>
-    Je vous raconte leur histoire.</strong>”<br>
+    Je vous raconte leur histoire.”<br>
 
 image: ekaterina-drobich
 categories:
