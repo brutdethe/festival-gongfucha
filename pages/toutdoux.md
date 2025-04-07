@@ -10,11 +10,11 @@ permalink: /2025/toutdoux/
 # {{ page.title }}
 
 - ➡️ faire le programmes 2025
-  - ajouter Sophie Pouly
-  - ajouter terre de ciel
-  - ajouter Ivan
-  - ajouter Perrine
-  - ajouter Manon
+  - ajouter Natalia
+  - ajouter Be Bao
+  - ajouter Conférence du thé
+  - ajouter Cerise
+  - ajouter Lucas
   - ajouter GongFucha
 - ➡️ prévenir Sylvie Gîte
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
@@ -27,8 +27,6 @@ permalink: /2025/toutdoux/
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ faire une messagerie style slack
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
-- ➡️ faire le programmes 2025
-  - ajouter Sophie Pouly
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ faire un communiqué de Presse
 - ➡️ affiche à St J, Biros, Foix, Toulouse, Montpellier, Bordeaux
@@ -67,6 +65,12 @@ permalink: /2025/toutdoux/
 - ✔️ envoyer à Didier le PDF
 - ✔️ remplir et prioriser les tâches
 - ✔️ créer la page ToutDoux
+- ✔️ faire le programme 2025
+  - ajouter terre de ciel
+  - ajouter Ivan
+  - ajouter Perrine
+  - ajouter Manon
+  - ajouter sophie
 
 </div>
 </section>
