@@ -9,11 +9,10 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
+
 - ➡️ faire le programmes 2025
   - ajouter Natalia
-  - ajouter Be Bao
   - ajouter Conférence du thé
-  - ajouter Cerise
   - ajouter Lucas
   - ajouter GongFucha
 - ➡️ prévenir Sylvie Gîte
@@ -36,6 +35,7 @@ permalink: /2025/toutdoux/
 - ➡️ plan de circulation du festival, définir les emplacements et les espaces
 - ➡️ envoyer des affiches :
   - Jim à Nantes - Théine
+  - Juline Kancha
   - barbara
   - Pascal Romain à Bordeaux
   - Pascale Vannes
@@ -71,6 +71,9 @@ permalink: /2025/toutdoux/
   - ajouter Perrine
   - ajouter Manon
   - ajouter sophie
+  - ajouter Natalia
+  - ajouter Be Bao
+  - ajouter Cerise
 
 </div>
 </section>
