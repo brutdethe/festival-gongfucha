@@ -5,7 +5,13 @@ speaker:
 fr_FR:
   title: "be bao"
   description: >-
-    ​Be Bao est un stand de cuisine asiatique de type street food, proposant des plats préparés avec des produits frais, locaux et de saison. Présent chaque samedi matin de 8h00 à 14h00 au marché de Saint-Girons en Ariège, Be Bao offre une variété de spécialités faites maison, telles que des baos, le "Bol du Tao" et du kimchi artisanal.
+    La cuisine de David puise ses racines du côté de son père, avec un attachement profond à la culture culinaire chinoise, et plus particulièrement à la cuisine populaire que l’on trouve dans la rue : simple, vivante et authentique.
+
+    Il propose notamment des 包子 (bāozi), ces petits pains cuits à la vapeur et garnis de viandes, de légumes ou d’épices, que l’on retrouve dans toutes les régions de Chine. Le caractère 包 (bāo) signifie « envelopper » : une image qui lui tient à cœur, car il cherche à envelopper dans ses préparations la générosité, la simplicité et l’esprit du partage.
+
+    David cuisine également des bols complets — l’un végétarien, l’autre non — qu’il adapte selon les saisons et les produits du moment. Chaque plat est préparé dans le respect des traditions, avec une attention particulière portée à l’équilibre des saveurs et à la qualité des ingrédients.
+
+    À travers Be Bao, son souhait est de faire découvrir une cuisine chinoise chaleureuse, enracinée dans sa culture, et résolument tournée vers l’instant présent.
 
 image: be-bao
 categories:
