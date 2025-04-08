@@ -6,7 +6,7 @@
         <title id="headerLogoTitle">Festival GongFuCha</title>
         <defs>
           <pattern id="pic" patternUnits="userSpaceOnUse" width="35" height="20">
-            <image xlink:href="{{ " /assets/images/gongfucha-bg.jpg" | relative_url }}" width="38.5" height="20" />
+            <image xlink:href="{{ "/assets/images/gongfucha-bg.jpg" | relative_url }}" width="38.5" height="20" />
           </pattern>
         </defs>
         <text y="1em">GongFuCha</text>
@@ -57,12 +57,11 @@
     </p>
     </p>
     <p class="text-center">
-      <a class="button" data-text="les galeries photos" href="https://photo.gongfucha.fr" target="_blank"
-        title="Voir les photos du festival GongFuCha 2022">
-        <span class="button-inner photo-2022">les galeries photos</span>
+      <a class="button" data-text="galeries photos" href="https://photo.gongfucha.fr" target="_blank"
+        title="Voir les photos du festival GongFuCha">
+        <span class="button-inner photo-2022">galeries photos</span>
       </a>
-      <a class="button" data-text="voir le programme" href="{{ page.baseurl | default:site.baseurl }}/{{ "
-        2025/programme" | page.locale }}/" title="Voir le programme du festival GongFuCha">
+      <a class="button" data-text="voir le programme" href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/programme" | page.locale }}/" title="Voir le programme du festival GongFuCha">
         <span class="button-inner">voir le programme</span>
       </a>
       {% if site.tickets.selling %}
