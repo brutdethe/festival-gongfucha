@@ -14,7 +14,8 @@ permalink: /2025/toutdoux/
   - ajouter Natalia
   - ajouter Conférence du thé
   - ajouter Lucas
-  - ajouter GongFucha
+  - ajouter GongFuch
+  - ajouter Cerise
 - ➡️ prévenir Sylvie Gîte
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
 - ➡️ faire la recherche d'autres intervenants
@@ -71,9 +72,8 @@ permalink: /2025/toutdoux/
   - ajouter Perrine
   - ajouter Manon
   - ajouter sophie
-  - ajouter Natalia
   - ajouter Be Bao
-  - ajouter Cerise
+  
 
 </div>
 </section>
