@@ -5,8 +5,7 @@ speaker:
 fr_FR:
   title: "raconte moi un thé"
   description: >-
-    <strong>“</strong>
-    Derrière chaque tasse de thé se cache une histoire :<br>
+    “Derrière chaque tasse de thé se cache une histoire :<br>
     celle d’un producteur,<br>
     d’une vie façonnée par l’effort,<br>
     d’un terroir empreint de défis et de bonheurs.<br>

@@ -21,7 +21,6 @@ fr_FR:
    Un dialogue entre le thé et le temps, à l’image de mon enfance auprès de mon grand-papa.<br>
 
    
-
    工夫茶：當下的儀式
 
 
@@ -31,13 +30,11 @@ fr_FR:
    山傍，水畔，<br>
    茶案之側，遇見換作續緣。<br>
 
-
    這古老的儀式，悄然滲透，<br>
    於沉悶的課堂，於共享的熱情，<br>
    於朋友的笑語，於學生的靜默<br>
    盞盞杯光茶影，盛滿段段記憶，<br>
-   茶與歲月對話，宛如童年時光與祖父相依。<br>
- 
+   茶與歲月對話，宛如童年時光與祖父相依。<br> 
 image: ya-lin
 categories:
   - échanges, rituel et dégustation
