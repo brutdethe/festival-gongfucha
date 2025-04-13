@@ -9,8 +9,6 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ Insta prévenir billet
-- ➡️ répondre David G. Dons
 - ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ répondre Lucas
 - ➡️ vérif référencement
@@ -76,7 +74,9 @@ permalink: /2025/toutdoux/
   - ajouter sophie
   - ajouter Be Bao
 - ✔️ collage d'affiches V.2 à Toulouse 
-- ✔️ rendez-vous avec David pour la restauration lundi 10
+- ✔️ rendez-vous avec David pour la restauration lundi 
+- ✔️ Insta prévenir billet
+- ✔️ répondre David G. Dons
 
 </div>
 </section>
