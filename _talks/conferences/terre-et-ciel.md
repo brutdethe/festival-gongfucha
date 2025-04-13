@@ -11,7 +11,6 @@ fr_FR:
     le végétal, et tous leurs parfums…<br>
     C’est avec joie<br>
     que je partagerai un moment suspendu, sous les bambous, avec vous.<strong>“<br>
-
 image: sophie-pouly
 categories:
   - échanges et exposition

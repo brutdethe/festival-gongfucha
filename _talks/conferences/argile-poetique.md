@@ -11,7 +11,6 @@ fr_FR:
     le feu qui crépite,<br>
     le silence, la paix.<strong>”</strong><br>
     Chaque objet est unique. Réalisé chez moi à Toulouse.<br>
-  
 image: perrine-pottiez
 categories:
   - échanges et exposition
