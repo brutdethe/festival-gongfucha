@@ -9,8 +9,8 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ mettre l'évènement sur le site du parc aux bambous
 - ➡️ répondre Lucas
+- ➡️ faire un communiqué de Presse
 - ➡️ vérif référencement
 - ➡️ faire le programmes 2025
   - ajouter Natalia
@@ -24,14 +24,11 @@ permalink: /2025/toutdoux/
 - ➡️ Faire la notice pour les personnes exposantes
 - ➡️ envoyer la notice aux personnes exposantes
   - demander les bio-présentations et les photos des exposantes
-- ➡️ mettre en vente l'affiche et les tickets à la boutique
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ faire une messagerie style slack
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
-- ➡️ faire un communiqué de Presse
 - ➡️ affiche à St J, Biros, Foix, Toulouse, Montpellier, Bordeaux
-- ➡️ faire le fichier de la restauration
 - ➡️ plan de circulation du festival, définir les emplacements et les espaces
 - ➡️ envoyer des affiches :
   - Julien Kancha
@@ -77,6 +74,8 @@ permalink: /2025/toutdoux/
 - ✔️ rendez-vous avec David pour la restauration lundi 
 - ✔️ Insta prévenir billet
 - ✔️ répondre David G. Dons
+- ✔️ mettre en vente l'affiche et les tickets à la boutique
+- ✔️ mettre l'évènement sur le site du parc aux bambous
 
 </div>
 </section>
