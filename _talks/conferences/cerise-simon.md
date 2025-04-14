@@ -5,7 +5,7 @@ speaker:
 fr_FR:
   title: "présence musicale itinérante"
   description: >-
-   Passionnée par le 古箏 - GǔZhēng, 林佳薈 Jia-Hui Lin partagera, tout au long du festival, des instants musicaux spontanés dans les jardins du parc.<br>
+   Passionnée par le 古箏 - GǔZhēng, Cerise Lin partagera, tout au long du festival, des instants musicaux spontanés dans les jardins du parc.<br>
 
    Ces micro-interventions, sans scène ni horaire fixe, ne sont pas des concerts au sens classique, mais des offrandes musicales sincères, à la manière de la tradition chinoise où musique, calligraphie, encens, fleurs et thé se rejoignent dans l’esprit d’un art du quotidien.<br>
 
