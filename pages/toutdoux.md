@@ -42,6 +42,7 @@ permalink: /2025/toutdoux/
 - ➡️ envoyer la notice aux bénévoles et les personnes qui donnent un coup de main
 - ➡️ recherche des intervenants
   ➡️ enoyer la notice aux internenants
+- ➡️ chercher un restaurateur
 
 ### Tâches terminées
 
@@ -77,6 +78,10 @@ permalink: /2025/toutdoux/
 - ✔️ répondre David G. Dons
 - ✔️ mettre en vente l'affiche et les tickets à la boutique
 - ✔️ mettre l'évènement sur le site du parc aux bambous
+- ✔️ contactr Désirée céramiste
+- ✔️ contacter restaurant ChongQing à Toulouse
+- ✔️ visio avec Guillaume
+
 
 </div>
 </section>
