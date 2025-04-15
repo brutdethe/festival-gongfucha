@@ -16,24 +16,22 @@ permalink: /2025/toutdoux/
   - ajouter Natalia
   - ajouter Conférence du thé
   - ajouter Lucas
-  - ajouter GongFuch
-  - ajouter Cerise
+  - ajouter Guillaume
 - ➡️ prévenir Sylvie Gîte
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+  - contacter YiLeYeParis
 - ➡️ faire la recherche d'autres intervenants
 - ➡️ Faire la notice pour les personnes exposantes
 - ➡️ envoyer la notice aux personnes exposantes
   - demander les bio-présentations et les photos des exposantes
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
 - ➡️ faire une messagerie style slack
-- ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
 - ➡️ reprendre contacte avec les intervenants et les bénévoles
 - ➡️ affiche à St J, Biros, Foix, Toulouse, Montpellier, Bordeaux
 - ➡️ plan de circulation du festival, définir les emplacements et les espaces
 - ➡️ envoyer des affiches :
   - Julien Kancha
   - Jim à Nantes - Théine
-  - Juline Kancha
   - barbara
   - Pascal Romain à Bordeaux
   - Pascale Vannes
@@ -69,7 +67,10 @@ permalink: /2025/toutdoux/
   - ajouter Perrine
   - ajouter Manon
   - ajouter sophie
-  - ajouter Be Bao
+  - enlever Be Bao
+  - ajouter GongFucha
+  - ajouter Cerise
+  - ajouter Ekaterina
 - ✔️ collage d'affiches V.2 à Toulouse 
 - ✔️ rendez-vous avec David pour la restauration lundi 
 - ✔️ Insta prévenir billet
