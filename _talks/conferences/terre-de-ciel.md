@@ -1,5 +1,5 @@
 ---
-display-order: 6
+display-order: 10
 speaker:
   - terre-de-ciel
 fr_FR:

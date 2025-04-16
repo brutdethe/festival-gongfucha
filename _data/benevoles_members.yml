@@ -3,10 +3,6 @@
   slug: louna-langlois
   url: https://coanima.org
 
-- firstname: Maëlle
-  lastname: Gosnet
-  slug: maelle-gosnet
-
 - firstname: Elie
   lastname: Daviron
   slug: elie-daviron
@@ -19,3 +15,6 @@
   lastname: Gerard
   slug: sabrina-gerard
 
+- firstname: Cyrille
+  lastname: Baticle
+  slug: cyrille-baticle
