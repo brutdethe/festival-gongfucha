@@ -1,5 +1,5 @@
 ---
-display-order: 2
+display-order: 3
 speaker:
   - perrine-pottiez
 fr_FR:
