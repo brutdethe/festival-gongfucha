@@ -9,14 +9,12 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ répondre Lucas
 - ➡️ faire un communiqué de Presse
 - ➡️ vérif référencement
 - ➡️ faire le programmes 2025
   - ajouter Natalia
   - ajouter Conférence du thé
   - ajouter Lucas
-  - ajouter Guillaume
 - ➡️ prévenir Sylvie Gîte
 - ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
   - contacter YiLeYeParis
@@ -81,7 +79,9 @@ permalink: /2025/toutdoux/
 - ✔️ contactr Désirée céramiste
 - ✔️ contacter restaurant ChongQing à Toulouse
 - ✔️ visio avec Guillaume
-
+- ✔️ répondre Lucas
+- ✔️ ajouter Guillaume
+- ✔️ ajouter Desiree
 
 </div>
 </section>

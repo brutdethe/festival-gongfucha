@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 display-order: 5
+=======
+display-order: 8
+>>>>>>> e90a065cc81aae830776f99f3830be1c2cfb476b
 speaker:
   - sophie-pouly
 fr_FR:
