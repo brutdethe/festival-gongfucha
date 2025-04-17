@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 display-order: 9
-=======
-display-order: 11
->>>>>>> e90a065cc81aae830776f99f3830be1c2cfb476b
 speaker:
   - laurence-gillet
 fr_FR:
