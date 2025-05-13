@@ -1,7 +1,7 @@
 ---
 display-order: 2
 speaker:
-  - lucas-ben-moura
+  - terrasses-larrieulat
 fr_FR:
   title: "Les racines du thé en terre pyrénéenne"
   description: >-
