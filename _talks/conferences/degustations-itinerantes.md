@@ -5,10 +5,8 @@ speaker:
 fr_FR:
   title: "Dégustations itinérantes"
   description: >-
-    Parce que le plaisir du thé tient aussi dans la beauté des objets utilisés, Guillaume crée des ustensiles pour le thé façonnés dans des matériaux nobles, entièrement à la main, dans la recherche d'un équilibre subtil entre matière et forme, une épure simple, suivant ce que lui inspire la pièce de bois et sans dessin préalable.<br>
-    Chaque morceau de bois étant unique par sa forme, ses veines, son essence ou son histoire, chacune de ses pièces sont également uniques.<br>
-    Et parce que le partage est une source de joie et de belles rencontres, Guillaume vous proposera des dégustations de thés dans différents endroits du parc.
-youtube_id: nCL_dJWMwW0
+    "Si le Gong Fu Cha nous rassemble ici, chacun d'entre nous a choisi sa voie et sa façon pour le pratiquer.Je vous proposerai une plongée dans mon univers, dans ma Voie de Thé, accompagnée des objets que je crée, au cours de dégustations itinérantes dans des endroits choisis du Parc aux Bambous.Au plaisir de vous y retrouver pour partager un moment hors du temps."
+youtube_id: 6yb4shVpfYg
 categories:
   - dégustation itinérante
 ---
