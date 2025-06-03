@@ -6,6 +6,7 @@ permalink: /2025/restauration/
 
 <section class="section">
   <div class="wrapper" markdown="1">
+
 # {{ page.title }}
 
 ### 🌿 Menu végétarien unique (option végane) — 12€ + 1€ de consigne
@@ -15,8 +16,8 @@ Ces accompagnements sont une réjouissance pour les yeux, et vous promettent un 
 
 📍 Le menu est à régler à l’entrée ou à réserver en ligne sur le site du festival (c’est plus sûr 😉).
 
-<p class="text-center"><a class="button" data-text="réserver votre place">
-  <a href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
+<p class="text-center">
+  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
     <span class="button-inner">réserver votre place</span>
   </a>
 </p>
