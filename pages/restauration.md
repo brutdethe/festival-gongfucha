@@ -1,5 +1,5 @@
 ---
-title: Restauration : Miki Kadokura - Yamanamu & Frédérique de Rauglaudre - TokTok
+title: Restauration \: Miki Kadokura - Yamanamu & Frédérique de Rauglaudre - TokTok
 description: Restauration : Miki Kadokura - Yamanamu & Frédérique de Rauglaudre - TokTok
 permalink: /2025/restauration/
 ---
