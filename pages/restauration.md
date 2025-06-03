@@ -15,8 +15,8 @@ Ces accompagnements sont une réjouissance pour les yeux, et vous promettent un 
 
 📍 Le menu est à régler à l’entrée ou à réserver en ligne sur le site du festival (c’est plus sûr 😉).
 
-<p class="text-center"><a class="button" data-text="réserver votre place"
-    href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
+<p class="text-center"><a class="button" data-text="réserver votre place">
+  <a href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
     <span class="button-inner">réserver votre place</span>
   </a>
 </p>
@@ -45,6 +45,7 @@ Vous avez soif ? Une maison de thé - 茶館 CháGuǎn - vous est également pro
 
 ## Brut de Thé - 茶館 - CháGuǎn - maison de thé
 Sur la place du village, à l'ombre de l'acacia, vous pouvez déguster du thé et des  茶食 - Cháshí(accompagnements). Eau et 蓋碗 GàiWǎn sont à votre disposition et l'équipe de Jé sera disponible pour vous initier aux techniques du 工夫茶 - GōngFūChá. Nous vous proposons de découvrir un thé vert de ce printemps - 清明绿茶 - QīngMíng LüCha ou d'explorer à la carte d'autres thés de cette année : blancs, rouges ou bleus.
+
   </div>
 </section>
 
