@@ -28,6 +28,8 @@ Entre Chine, Corée et Japon, l’art culinaire puise depuis des millénaires da
   
 Miki Kadokura (productrice de miso de châtaigne) et Frédérique de Rauglaudre (maîtresse des légumes fermentés) incarnent ce patrimoine en réinterprétant ces traditions dans notre région. Leur cuisine est un chant chaleureux au vivant, où les gestes anciens sont magnifiés par une poésie gourmande.
 
+{% include banners/toktok.html locale=page.locale %}
+
 ## Saveurs millénaires et médecine douce
 La fermentation agit comme une alchimie secrète : l’enzyme des koji (Qū MéiJùn 麴黴菌 chinois) décompose l’amidon en sucres, puis en alcool, libérant un univers de goûts umami
 
@@ -39,8 +41,7 @@ Dans un monde d’aliments standardisés, Miki et Frédérique revendiquent une 
 ## Le terroir en héritage
 Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne sont pas en reste de trésors paysans. Châtaignes, miels, fougères et herbes de cueillette composent la toile de fond de leur cuisine. Miki et Frédérique célèbrent par exemple la châtaigne – jadis surnommée « l’arbre à pain » des vallées ariégeoises en la réinventant. Fleurs comestibles, orties, pissenlits et légumes oubliés rencontrent les épices d’Extrême-Orient dans une alchimie locale et solidaire, honorant la biodiversité locale. Leur cuisine est ainsi enracinée dans la montagne et le vivant, sans artifice, simplement habitée par la générosité de la saison.
 
-{% include banners/bebao.html locale=page.locale %}
-
+---
 
 Vous avez soif ? Une maison de thé - 茶館 CháGuǎn - vous est également proposée par Brut de Thé. Vous y retrouverez l’atmosphère d’une vieille échoppe traditionnelle. Des thés venant directement de Chine et de Taïwan vous seront servis, chauds ou froids, accompagnés de délicieux assortiments spécialement conçus pour sublimer le thé, appelés 茶食 Cháshí.
 
