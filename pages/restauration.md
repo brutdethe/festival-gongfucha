@@ -38,17 +38,10 @@ Jadis réservé aux élites, le miso (soja fermenté) – était « consommé 
 ## Artisanat engagé
 Dans un monde d’aliments standardisés, Miki et Frédérique revendiquent une démarche militante. Elles font écho à l’appel des Slow Food : en Asie « la production artisanale est peu à peu remplacée par des imitations industrielles ». Refusant cette uniformité, elles protègent ce patrimoine vivant. Leurs fermentations maison et leurs conserves bio-climatiques sont autant d’actes de résistance gourmande : en préservant kimchi, miso et légumes lacto-fermentés, c’est tout un pan de culture locale qui survit, là où « la disparition de ces aliments traditionnels signifierait l’extinction d’une part de l’histoire locale et culturelle » Chacune de leurs recettes est une déclaration d’amour à la terre et au lien social, une invitation à (re)découvrir les gestes simples et authentiques du bien-manger.
 
-{% include banners/toktok.html locale=page.locale %}
+{% include banners/mikki.html locale=page.locale %}
 
 ## Le terroir en héritage
 Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne sont pas en reste de trésors paysans. Châtaignes, miels, fougères et herbes de cueillette composent la toile de fond de leur cuisine. Miki et Frédérique célèbrent par exemple la châtaigne – jadis surnommée « l’arbre à pain » des vallées ariégeoises en la réinventant. Fleurs comestibles, orties, pissenlits et légumes oubliés rencontrent les épices d’Extrême-Orient dans une alchimie locale et solidaire, honorant la biodiversité locale. Leur cuisine est ainsi enracinée dans la montagne et le vivant, sans artifice, simplement habitée par la générosité de la saison.
-
----
-
-Vous avez soif ? Une maison de thé - 茶館 CháGuǎn - vous est également proposée par Brut de Thé. Vous y retrouverez l’atmosphère d’une vieille échoppe traditionnelle. Des thés venant directement de Chine et de Taïwan vous seront servis, chauds ou froids, accompagnés de délicieux assortiments spécialement conçus pour sublimer le thé, appelés 茶食 Cháshí.
-
-## Brut de Thé - 茶館 - CháGuǎn - maison de thé
-Sur la place du village, à l'ombre de l'acacia, vous pouvez déguster du thé et des  茶食 - Cháshí(accompagnements). Eau et 蓋碗 GàiWǎn sont à votre disposition et l'équipe de Jé sera disponible pour vous initier aux techniques du 工夫茶 - GōngFūChá. Nous vous proposons de découvrir un thé vert de ce printemps - 清明绿茶 - QīngMíng LüCha ou d'explorer à la carte d'autres thés de cette année : blancs, rouges ou bleus.
 
   </div>
 </section>
