@@ -17,8 +17,8 @@ Ces accompagnements sont une réjouissance pour les yeux, et vous promettent un 
 📍 Le menu est à régler à l’entrée ou à réserver en ligne sur le site du festival (c’est plus sûr 😉).
 
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
-    <span class="button-inner">réserver votre place</span>
+  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick4_ticket-assiette-mikki-and-fred-festival/" title="Manger au parc aux bambous" target="_blank">
+    <span class="button-inner">réserver votre repas</span>
   </a>
 </p>
 
@@ -42,6 +42,12 @@ Dans un monde d’aliments standardisés, Miki et Frédérique revendiquent une 
 
 ## Le terroir en héritage
 Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne sont pas en reste de trésors paysans. Châtaignes, miels, fougères et herbes de cueillette composent la toile de fond de leur cuisine. Miki et Frédérique célèbrent par exemple la châtaigne – jadis surnommée « l’arbre à pain » des vallées ariégeoises en la réinventant. Fleurs comestibles, orties, pissenlits et légumes oubliés rencontrent les épices d’Extrême-Orient dans une alchimie locale et solidaire, honorant la biodiversité locale. Leur cuisine est ainsi enracinée dans la montagne et le vivant, sans artifice, simplement habitée par la générosité de la saison.
+
+<p class="text-center">
+  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick4_ticket-assiette-mikki-and-fred-festival/" title="Manger au parc aux bambous" target="_blank">
+    <span class="button-inner">réserver votre repas</span>
+  </a>
+</p>
 
   </div>
 </section>
