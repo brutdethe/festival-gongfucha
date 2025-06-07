@@ -28,7 +28,7 @@ Entre Chine, Corée et Japon, l’art culinaire puise depuis des millénaires da
   
 Miki Kadokura (productrice de miso de châtaigne) et Frédérique de Rauglaudre (maîtresse des légumes fermentés) incarnent ce patrimoine en réinterprétant ces traditions dans notre région. Leur cuisine est un chant chaleureux au vivant, où les gestes anciens sont magnifiés par une poésie gourmande.
 
-{% include banners/structure-ambiance.html locale=page.locale %}
+{% include banners/toktok.html locale=page.locale %}
 
 ## Saveurs millénaires et médecine douce
 La fermentation agit comme une alchimie secrète : l’enzyme des koji (Qū MéiJùn 麴黴菌 chinois) décompose l’amidon en sucres, puis en alcool, libérant un univers de goûts umami
