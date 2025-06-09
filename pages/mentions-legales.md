@@ -16,13 +16,13 @@ redirect_from:
 Ce site web est édité par [Brut de Thé](https://www.gongfucha.fr) :
 
 * association à but non lucratif de type loi 1901;
-* déclarée le 16 avril 2021, auprès de la préfecture de Paris;
+* déclarée le 16 avril 2021
 * sous le numéro W751260414;
-* dont le siège social est situé : 7, rue Tal-Ar-Groas, 29160 Lanvéoc
+* dont le siège social est situé : 5, rue de la montagne, 09320 Massat
 
 ## Directeur de la publication
 
-Les responsables de publication, sont Violaine Andrieux et Stéphane Langlois.
+Les responsables de publication, sont Yalin Cheng et Stéphane Langlois.
 
 ## Hébergeur
 
@@ -36,7 +36,7 @@ La création de liens avec le site est libre.
 
 Les informations que vous pouvez donner au travers des différents formulaires nous sont destinées exclusivement.
 
-Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : coucou à brutdethé.fr
+Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adresser un courrier électronique à l'adresse : coucou@brutdethé.fr
 
 </div>
 </section>

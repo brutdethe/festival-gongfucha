@@ -17,14 +17,14 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 
 | Poste dépenses                       | Montant       |
 | :----------------------------------- | -----------:  |
-| Hébergement bénévoles / intervantes  |     1 200 €   |
-| Communication                        |       700 €   |
-| Transport                            |       150 €   |
-| Intervantes                          |       200 €   |
+| Hébergement bénévoles / intervantes  |       800 €   |
+| Communication                        |       800 €   |
+| Transport                            |       350 €   |
+| Fournitures                          |       200 €   |
 | Catering + courses                   |       500 €   |
-| Mobilier et décorations              |       100 €   |
+| Mobilier et décorations              |       400 €   |
 | Divers                               |       500 €   |
-| **Total**                            | **3 350 €**   |
+| **Total**                            | **3 550 €**   |
 
 ---
 
@@ -32,12 +32,11 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 
 | Poste recettes                                    | Montant     |
 | :------------------------------------------------ | ----------: |
-| Tickets (après remboursement du parc)             |   3 500 €   |
-| Participation intervenantes CA en 5% et 10%       |     500 €   |
-| Dons                                              |     500 €   |
-| Herbergements / repas interveantes                |     600 €   |
+| Tickets (après remboursement du parc)             |   3 000 €   |
+| Participation personnes exposantes 90 euros       |     900 €   |
+| Dons                                              |     100 €   |
 
-| **Total**                                         | **5 100 €** |
+| **Total**                                         | **4 000 €** |
 
   </div>
 </section>
