@@ -62,76 +62,10 @@ redirect_from:
     <h3>Covoiturage</h3>
 
     <p>Pour faciliter les échanges entre participant·e·s, nous vous proposons de lister vos propositions de covoiturage 
-      sur notre site. Si vous venez en voiture,
-      <a href="#submit">partagez votre itinéraire</a>
-      via le formulaire 
-      ci-dessous.
+      sur ce pad. Si vous venez en voiture,
+      <a href="https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH">partagez votre itinéraire</a>
+   
     </p>
-
-    <h4>Voilà la liste de ce qui a déjà été partagé :
-    </h4>
-
-    <ul>
-      {% for journey in site.data.carsharing %}
-        <li>
-          Qui : {{ journey.name }}
-          <br> Départ : de
-          <strong>{{ journey.leaving-place }}, le {{ journey.leaving-day }} vers {{ journey.leaving-time }}</strong>
-          <br>
-          {% if journey.return-day != "" %}
-            Retour : le {{ journey.return-day }} vers {{ journey.return-time }}
-            <br>
-          {% endif %}
-          Étapes proposées : {{ journey.steps }}
-          <br> Prendre contact : {{ journey.contact }}
-        </li>
-      {% endfor %}
-    </ul>
-
-    <hr>
-
-    <h4 id="submit">Vous proposez un trajet :</h4>
-    <form action="https://formspree.io/f/xqkjzyrq" method="POST">
-      <div class="p-like">
-        <label class="desc" for="id_name">Votre nom :</label>
-        <input
-          type="text"
-          name="_name"
-          placeholder="ex : Lisbeth Salander"
-          id="id_name"
-          required>
-      </div>
-      <div class="p-like">
-        <label class="desc" for="id_message">Votre proposition la plus précise possible (ville de départ, horaires, si 
-          vous faites une/des étape(s)) :</label>
-        <textarea
-          name="message"
-          rows=""
-          placeholder="ex : Je pars jeudi de Montpellier vers 18h, je peux m’arrêter à Nîmes. Pour le retour, je partirai vers 18h le samedi. J’ai 3 places. Pour me contacter, un petit message à @Lisbeth-Salander"
-          id="id_message"
-          required></textarea>
-      </div>
-      <div class="p-like text-center">
-        <input
-          type="hidden"
-          name="_subject"
-          value="Message envoyé depuis la page contact" />
-        <input
-          type="text"
-          name="_gotcha"
-          style="display:none">
-        <input
-          type="hidden"
-          name="_next"
-          value="{{ site.url }}" />
-        <button
-          type="submit"
-          class="button"
-          data-text="Envoyer">
-          <span class="button-inner">Envoyer</span>
-        </button>
-      </div>
-    </form>
 
     <h3>Location de voiture</h3>
     <p>À la gare de Toulouse vous pourrez trouver, par exemple, les agences de location suivantes :</p>
@@ -165,7 +99,7 @@ redirect_from:
 
     <h4>En train :</h4>
     <p>
-      <a href="https://www.sncf.com/fr/itineraire-reservation/itineraire/liste-resultats?uic1=OCE87611004&coordX1=1.453616&coordY1=43.611206&uic2=09225&coordX2=&coordY2=&date=1687496400&when=leave-at&label1=Toulouse%20Matabiau&label2=Pamiers%20(Toutes%20gares)&typeDepart=ZONE_ARRET&typeArrivee=COMMUNE&listeCodesMode=0,1,2,3,4,5,6,7,8,9&origineCP=31000&destinationCP=09100">En 
+      <a href="https://www.ter.sncf.com/occitanie/trajet-pamiers-toulouse">En 
         TER</a>
       vous arriverez jusqu’à Pamiers (12km de Lapenne).
     </p>
@@ -199,8 +133,8 @@ redirect_from:
     <h2>Ce qui est sûr, c’est que vous ne serez pas seul·e·s !</h2>
     <p>
       Pour vous aider à vous organiser, un frama.space est à disposition
-      <a href="https://gongfucha.frama.space/>l'espace collaboratif du festival GongFuCha</a>
-      <br>(<a href="mailto:coucou@gongfucha.fr">contactez nous pour créer votre compte coucou@gongfucha.fr</a>).
+      <a href="https://gongfucha.frama.space/">l'espace collaboratif du festival GongFuCha</a>
+      <br>(contactez-nous pour créer <a href="mailto:coucou@gongfucha.fr">votre compte coucou@gongfucha.fr</a>).
     </p>
     <p>
       Profitez de ces moments pour vous retrouver, dans le train, durant les correspondances.
