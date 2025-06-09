@@ -33,9 +33,8 @@ Voici un aperçu du budget prévisionnel en fonction des différents postes. Ce 
 | Poste recettes                                    | Montant     |
 | :------------------------------------------------ | ----------: |
 | Tickets (après remboursement du parc)             |   3 000 €   |
-| Participation personnes exposantes 90 euros       |     900 €   |
+| Participation personnes exposantes                |     900 €   |
 | Dons                                              |     100 €   |
-
 | **Total**                                         | **4 000 €** |
 
   </div>
