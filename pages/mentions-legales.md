@@ -18,7 +18,7 @@ Ce site web est édité par [Brut de Thé](https://www.gongfucha.fr) :
 * association à but non lucratif de type loi 1901;
 * déclarée le 16 avril 2021
 * sous le numéro W751260414;
-* dont le siège social est situé : 5, rue de la montagne, 09320 Massat
+* dont le siège social est situé : 15, rue de la montagne, 09320 Massat
 
 ## Directeur de la publication
 
