@@ -7,7 +7,6 @@ fr_FR:
   description: >-
    GōngFūChá 工夫茶 : Le Rituel du Moment Présent 
 
-
    Un rite ancien, des gestes murmurés d’âge en âge,<br>
    L’enfance liée au thé, à l’eau, à mon grand-père.<br>
    Le temps s’étire, suspendu dans l’instant,<br>
@@ -20,9 +19,7 @@ fr_FR:
    Dans chaque bol de thé se niche un fragment de mémoire,<br>
    Un dialogue entre le thé et le temps, à l’image de mon enfance auprès de mon grand-papa.<br>
 
-   
    工夫茶：當下的儀式
-
 
    古老的儀式，世代相傳的動作，<br>
    童年時與祖父，茶水相連。<br>
