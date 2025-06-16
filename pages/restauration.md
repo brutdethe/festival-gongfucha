@@ -9,12 +9,24 @@ permalink: /2025/restauration/
 
 # {{ page.title }}
 
-### 🌿 Menu végétarien unique (option végane) — 12€ + 1€ de consigne
+### 🌿 Menu végétarien unique (option végane) — 17 € - (plat seul 13€)
 
-Du riz, céréale douce et emblématique, accompagné par des propositions de légumes et légumineuses qui se déclinent telles les cinq couleurs de la tradition culinaire ancrée dans la médecine traditionnelle chinoise.
-Ces accompagnements sont une réjouissance pour les yeux, et vous promettent un repas sain et équilibré, grâce à l’art de la fermentation.
+Le menu proposé par Fred et Miki reflète des pratiques culinaires courantes traversant l’Asie, et inspirées de philosophie bouddhiste :
+- Une offre végétarienne (qui s’adapte également aux véganes) composée de riz aux haricots azuki, enrichi de propositions de légumes lactofermentés et de préparations de légumineuses (miso, houmous...).<br>
+À la fois sain et rassasiant, ce menu a été développé pour représenter les 5 couleurs de la diététique chinoise, qui garantissent un repas équilibré et diversifié.<br>
+Ce menu végétarien unique répond aussi à notre exigence écologique : 
+- Les aliments fermentés qui le composent ont une durée de vie longue, et nous permettent de limiter le gaspillage alimentaire en cas d’invendus: ce qui ne sera pas consommé lors du festival continuera à s’affiner avec le temps, et pourra être conservé jusqu’à une utilisation ultérieure.
+- À l’inverse, en cas de rupture de stock, nous adapteront le menu avec de nouvelles propositions : nos préparations artisanales ont un volume limité !
+- Enfin, pour éviter au maximum le gaspillage de ressources, nous dressons le repas dans des assiettes en bambou provenant du parc : vous aurez le choix d’acheter cette assiette pour 1€ et de la réutiliser chez vous, ou de nous la retourner après consommation.
+
+Liste des allergènes :
+- Oeuf
+- Noix 
+- Sésame
+- Soja
 
 📍 Le menu est à régler à l’entrée ou à réserver en ligne sur le site du festival (c’est plus sûr 😉).
+
 
 <p class="text-center">
   <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick4_ticket-assiette-mikki-and-fred-festival/" title="Manger au parc aux bambous" target="_blank">
