@@ -35,10 +35,11 @@ De 11h à 18h, le festival propose : dégustations guidées, cérémonies Gōn
 -   **Terre & Ciel (Aude & Dominique)** *proposent des Pu’Er du Yunnan*, photographies à l’appui, témoignage vivant d’un lien fort avec les producteurs locaux.
     
     La suite [dans le programme](https://festival.gongfucha.fr/2025/programme)
-    
 
 ### Une cuisine enracinée et équilibrée
 Frédérique de Rauglaudre ([TokTok](https://toktoklab.fr/)) et Miki Kadokura ([Yamanamu](https://www.yamanamu.fr/)) préparent un menu végétarien inspiré des traditions culinaires de Chine, Corée et Japon (riz aux azukis, kimchi, miso), respectant la règle des cinq couleurs de la diététique chinoise. La démarche est écologique : cuisine adaptée aux ressources du jour, assiettes en bambou compostables ou réutilisables.
+
+---
 
 ### Nocturne : une parenthèse rare, à part
 Nous avons longtemps hésité, pour que le festival reste léger à fabriquer. Mais, à force d’en reparler, les souvenirs de la toute première soirée se sont invités à la table, cette nuit douce, simple, presque secrète, dont quelques images ont traversé le temps ([à retrouver ici](https://www.instagram.com/stories/highlights/17898406361678997/)).
@@ -48,6 +49,8 @@ Alors, cette année, on se laisse tenter, mais doucement : la nocturne s’ouv
 Le menu sera minimaliste mais sincère : un bol de MianXian de sarrasin (sobas) fabriquées par Olivier - [Atelier Soba](https://atelier-soba.com/a-propos-de/), une sauce élaborée par Ifa (Parc aux Bambous) et un dessert ciselé par YuanYuan & Mickaël de [Tampopo](https://tampopo.bio/). Les gestes des maîtres de GongFuCha rythmeront la soirée, entre quelques mots, quelques silences.
 
 Et puis, quand la nuit sera tombée sur les bambous, nous vivrons ensemble le 無我 wúwǒ, un rite venu de Taïwan, au milieu du parc éclairé simplement par Didier. Une nuit pour se relier sans bruit, dans la discrétion d’un cercle presque secret, loin de toute agitation.
+
+---
 
 ### Informations et programme
 
