@@ -51,11 +51,17 @@ Et puis, quand la nuit sera tombée sur les bambous, nous vivrons ensemble le �
 
 ### Informations et programme
 
-- Site officiel : http://festival.gongfucha.fr
-- Programme détaillé : http://festival.gongfucha.fr/2025/programme
-- Restauration : http://festival.gongfucha.fr/2025/restauration
-- Galerie photo : http://photo.gongfucha.fr
-- Élements graphiques : https://festival.gongfucha.fr/2025/contribuer/#diffusion
+- Site officiel : [http://festival.gongfucha.fr](http://festival.gongfucha.fr)
+- Programme détaillé : [http://festival.gongfucha.fr/2025/programme](http://festival.gongfucha.fr/2025/programme)
+- Restauration : [http://festival.gongfucha.fr/2025/restauration](http://festival.gongfucha.fr/2025/restauration)
+- Galerie photo : [http://photo.gongfucha.fr](http://photo.gongfucha.fr)
+- Élements graphiques : [https://festival.gongfucha.fr/2025/contribuer/#diffusion](https://festival.gongfucha.fr/2025/contribuer/#diffusion)
+
+]### Horaires
+
+- Vendredi, samedi et dimanche : ouverture du parc à 11h et fermeture à 18h
+  - chaque jour est identique en terme de prestations : ateliers, conférences, personnes exposantes ou intervenantes. Les horaires précises des conférences et ateliers sont adaptées et affichées chaque jour
+- Le samedi soir pour la nocturne : ouverture du parc à 20h et fermeture à minuit
 
 ### Contact presse :
 Ya-Lin Cheng & Stéphane Langlois
