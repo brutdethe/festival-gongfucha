@@ -9,24 +9,24 @@ permalink: /2025/toutdoux/
 
 # {{ page.title }}
 
-- ➡️ faire un communiqué de Presse
-- ➡️ vérif référencement
-- ➡️ faire le programmes 2025
-  - ajouter Natalia
-  - ajouter Conférence du thé
-  - ajouter Lucas
-- ➡️ prévenir Sylvie Gîte
-- ➡️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
-  - contacter YiLeYeParis
-- ➡️ faire la recherche d'autres intervenants
+- ➡️ Répondre à Hélène
+- ➡️ faire une page pour la nocturne
 - ➡️ Faire la notice pour les personnes exposantes
-- ➡️ envoyer la notice aux personnes exposantes
-  - demander les bio-présentations et les photos des exposantes
+- ➡️ envoyer la notice aux personnes exposantes et bénévoles
 - ➡️ changer la vignette 2022 (qui apprait dans slack)
-- ➡️ faire une messagerie style slack
-- ➡️ reprendre contacte avec les intervenants et les bénévoles
-- ➡️ affiche à St J, Biros, Foix, Toulouse, Montpellier, Bordeaux
 - ➡️ plan de circulation du festival, définir les emplacements et les espaces
+
+### Tâches terminées
+
+- ✔️ préciser les "bénévoles "
+- ✔️ demander les bio-présentations et les photos des exposantes
+- ✔️ faire un communiqué de Presse
+- ✔️ faire le recherche d'autres exposantes: producteur de thé, maison de thé
+  - contacter YiLeYeParis
+- ✔️ faire la recherche d'autres intervenants
+- ✔️ faire une messagerie style slack
+- ✔️ reprendre contacte avec les intervenants et les bénévoles
+- ✔️ affiche à St J, Biros, Foix, Toulouse, Montpellier, Bordeaux
 - ➡️ envoyer des affiches :
   - Julien Kancha
   - Jim à Nantes - Théine
@@ -36,14 +36,14 @@ permalink: /2025/toutdoux/
   - Thomas ou Ivan : Drôme
   - Cyril
   - Paris ?
-- ➡️ préciser les " bénévoles "
-- ➡️ envoyer la notice aux bénévoles et les personnes qui donnent un coup de main
 - ➡️ recherche des intervenants
-  ➡️ enoyer la notice aux internenants
-- ➡️ chercher un restaurateur
-
-### Tâches terminées
-
+- ➡️ vérif référencement
+- ✔️ chercher un restaurateur
+- ✔️ prévenir Sylvie Gîte
+- ✔️ faire le programmes 2025
+  - ajouter Natalia
+  - ajouter Conférence du thé
+  - ajouter Lucas
 - ✔️ publier les photos 2023
   - faire un site pour les galeries photos
   - faire un post instagram
