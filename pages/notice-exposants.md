@@ -15,6 +15,11 @@ summary { font-weight: 600; cursor: pointer; }
 }
 </style>
 
+- les bols
+- la nocturne
+- les conférences, ateliers, performances
+
+
 <section class="section">
   <div class="wrapper" markdown="1">
 
@@ -120,6 +125,33 @@ Pour faire les courses :
 - Fontaine villageoise (150 m)  
 - Merci d’apporter votre gourde pour limiter les gobelets jetables.
 
+</details>
+
+<details markdown="1">
+<summary>🎍 Lieu</summary>
+
+- Parc aux bambous :  [oir la carte](https://www.google.com/maps/place/Parc+Aux+Bambous+SARL/@43.1459798,1.7312839,842m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12af026bc3d01871:0x2048eb73917d2eac!8m2!3d43.1459798!4d1.7312839!16s%2Fm%2F04lggwg?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D)
+- Site web : https://parcauxbambous.com/
+- Adresse : Le Parc Aux Bambous Broques • 09500 Lapenne Ariège Pyrénées
+- Coordonnées : 43° 08′ 44.85″ N (43.145869 N) - 01° 43′ 53.61″ E (01.730409 E)  
+
+</details>
+
+<details markdown="1">
+<summary>👥 Réunions - points collaboratifs</summary>
+
+- Une réunion questions/réponses et informations partagées le jeudi à 18h45
+    - Lieu sous l'acacia - place du village
+    - Durée : 40 minutes
+
+- Une rétrospective est programmée le dimanche matin à 10h (pile parce que c'est serré)
+  - Lieu sous l'acacia - place du village
+  - Durée : 1 heure
+  - Déroulée :
+    - ce qui s'est passée
+    - ce qui s'est pas très bien passé - (frustrations)
+    - ce qui s'est bien passé - (célébration)
+    - les actions pour la prochaine éditio
 </details>
 
 <details markdown="1">
