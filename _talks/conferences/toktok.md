@@ -11,7 +11,7 @@ fr_FR:
     Cette année Fred s'associe avec Miki pour proposer une co-création culinaire que vous pouvez découvrir sur [la page restauration](/2025/restauration)
 
     <p class="text-center">
-      <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="Manger au parc aux bambous" target="_blank">
+      <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre repas" target="_blank">
         <span class="button-inner">réserver votre repas</span>
       </a>
     </p>

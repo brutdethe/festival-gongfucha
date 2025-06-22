@@ -29,7 +29,7 @@ Liste des allergènes :
 
 
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="Manger au parc aux bambous" target="_blank">
+  <a class="button" data-text="réserver votre repas" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre repas" target="_blank">
     <span class="button-inner">réserver votre repas</span>
   </a>
 </p>
@@ -56,7 +56,7 @@ Dans un monde d’aliments standardisés, Miki et Frédérique revendiquent une 
 Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne sont pas en reste de trésors paysans. Châtaignes, miels, fougères et herbes de cueillette composent la toile de fond de leur cuisine. Miki et Frédérique célèbrent par exemple la châtaigne – jadis surnommée « l’arbre à pain » des vallées ariégeoises en la réinventant. Fleurs comestibles, orties, pissenlits et légumes oubliés rencontrent les épices d’Extrême-Orient dans une alchimie locale et solidaire, honorant la biodiversité locale. Leur cuisine est ainsi enracinée dans la montagne et le vivant, sans artifice, simplement habitée par la générosité de la saison.
 
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="Manger au parc aux bambous" target="_blank">
+  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre repas" target="_blank">
     <span class="button-inner">réserver votre repas</span>
   </a>
 </p>

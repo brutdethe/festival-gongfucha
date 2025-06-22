@@ -4,11 +4,16 @@
   value: ""
   in_nav: true
   in_footer: false
-- name: Appel a propositions
+- name: Programme
   type: page
-  value: 2025/appel-a-propositions
-  in_nav: false
+  value: 2025/programme
+  in_nav: true
   in_footer: false
+- name: Nocturne
+  type: page
+  value: 2025/nocturne
+  in_nav: true
+  in_footer: true
 - name: Infos pratiques
   type: page
   value: 2025/infos-pratiques
@@ -26,11 +31,6 @@
   value: 2025/manifeste
   in_nav: true
   in_footer: true
-- name: Programme
-  type: page
-  value: 2025/programme
-  in_nav: true
-  in_footer: false
 - name: Venir au parc aux bambous
   type: page
   value: 2025/venir-parc-aux-bambous

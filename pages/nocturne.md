@@ -21,7 +21,7 @@ permalink: /2025/nocturne/
 
 La première édition du festival avait déjà donné lieu à une veillée nocturne mémorable, un moment de partage, de douceur et de beauté gravé dans les esprits. Cette année, avec une équipe plus réduite, nous avions initialement renoncé à reproduire ce rendez-vous afin de ne pas ajouter de complexité à l’organisation. Pourtant, de nombreux retours chaleureux de la part des personnes participantes et exposantes ont ravivé en nous le désir de recréer une telle veillée. Nous concevons donc cette nocturne comme un remerciement vivant, une marque de gratitude exprimée à travers des gestes délicats et des infusions partagées sous les étoiles.
 
-## Présentation du 工夫茶 GōngFūChá
+## Présentation du 工夫茶 GongFuCha
 
 Le rituel du **工夫茶 GōngFūChá** déploie toute sa poésie. Autour d’une petite table ou sur des nattes posées à même le sol, on dispose de délicats objets de thé : une théière de terre ou un gaiwan en porcelaine, des minuscules tasses de dégustation, un pichet à partager, une bouilloire chantante. **Chaque geste compte et se fait lentement**, avec attention et respect : on rince les feuilles de thé, on chauffe les coupes, puis l’infusion est versée en un mince filet ambré qui vient emplir chaque tasse.
 
@@ -33,7 +33,7 @@ Le repas qui accompagne la nocturne sera simple et élégant, reflet d’une sob
 
 **Ce menu a été composé avec le cœur**. Il se veut volontairement sobre, chaque élément choisi pour sa qualité et la attention qui lui a été portée. Loin d’un banquet opulent, c’est un repas frugal qui met en avant la gratitude : gratitude envers celles et ceux qui les ont préparés avec amour, et envers **le moment présent que l’on savoure ensemble**. Autour de la table commune, dans la simplicité, nous célébrons le soin apporté à chaque bouchée. Ce partage culinaire prolonge l’esprit du festival : fait de générosité, de respect et de plaisir authentique.
 
-## Présentation du WúWǒ
+## Présentation du WuWo
 
 La **cérémonie WúWǒ (無我茶會, littéralement « rencontre de thé sans Moi »)** est un rituel contemporain né en 1990 à Taïwan. Il s’inspire des cercles spontanés de dégustation de thé du Fujian, et incarne une approche du **thé centrée sur le don de soi**. Concrètement, les personnes participantes forment un cercle et, tour à tour, chacune infuse son thé pour le servir aux autres, en silence, comme une offrande. Le service du thé s’effectue dans une seule direction, sans échange en retour, nul ne sert la personne qui vient de le servir, ce qui supprime toute attente de réciprocité et traduit pleinement **l’idéal du « sans-Moi »**.
 
@@ -41,8 +41,8 @@ Ce rituel singulier, sans hôte ni vedette, chaque personne agit pour le **plais
 
 
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="Manger au parc aux bambous" target="_blank">
-    <span class="button-inner">réserver votre repas</span>
+  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre place" target="_blank">
+    <span class="button-inner">réserver votre place</span>
   </a>
 </p>
 
