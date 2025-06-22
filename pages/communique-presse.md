@@ -60,19 +60,16 @@ Et puis, quand la nuit sera tombée sur les bambous, nous vivrons ensemble le �
 - Galerie photo : [http://photo.gongfucha.fr](http://photo.gongfucha.fr)
 - Élements graphiques : [https://festival.gongfucha.fr/2025/contribuer/#diffusion](https://festival.gongfucha.fr/2025/contribuer/#diffusion)
 
-]### Horaires
+### Horaires
 
 - Vendredi, samedi et dimanche : ouverture du parc à 11h et fermeture à 18h
   - chaque jour est identique en terme de prestations : ateliers, conférences, personnes exposantes ou intervenantes. Les horaires précises des conférences et ateliers sont adaptées et affichées chaque jour
 - Le samedi soir pour la nocturne : ouverture du parc à 20h et fermeture à minuit
 
 ### Contact presse :
-Ya-Lin Cheng & Stéphane Langlois
-coucou@brutdethe.fr
-06 66 08 11 88
-
-Au plaisir de vous retrouver autour du thé,
-L’équipe GongFuCha
+- Ya-Lin Cheng & Stéphane Langlois
+- coucou@brutdethe.fr
+- 06 66 08 11 88
 
 </div>
 </section>
