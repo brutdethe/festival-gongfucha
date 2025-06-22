@@ -17,6 +17,13 @@ permalink: /2025/nocturne/
 - Esprit de l’événement : Organisation volontairement légère pour une ambiance frugale, qualitative et improvisée, fidèle à l’esprit du festival.
 - Programme : Rite GongFuCha - Repas partagé - Rite collaboratif 無我茶會 - WúWǒ CháHuì
 
+<p class="text-center">
+  <a class="button" data-text="réserver la Nocturne" href="https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/" title="réserver la Nocturne" target="_blank">
+    <span class="button-inner">réserver la Nocturne</span>
+  </a>
+</p>
+
+
 ## Présentation de la nocturne
 
 La première édition du festival avait déjà donné lieu à une veillée nocturne mémorable, un moment de partage, de douceur et de beauté gravé dans les esprits. Cette année, avec une équipe plus réduite, nous avions initialement renoncé à reproduire ce rendez-vous afin de ne pas ajouter de complexité à l’organisation. Pourtant, de nombreux retours chaleureux de la part des personnes participantes et exposantes ont ravivé en nous le désir de recréer une telle veillée. Nous concevons donc cette nocturne comme un remerciement vivant, une marque de gratitude exprimée à travers des gestes délicats et des infusions partagées sous les étoiles.
@@ -26,6 +33,12 @@ La première édition du festival avait déjà donné lieu à une veillée noctu
 Le rituel du **工夫茶 GōngFūChá** déploie toute sa poésie. Autour d’une petite table ou sur des nattes posées à même le sol, on dispose de délicats objets de thé : une théière de terre ou un gaiwan en porcelaine, des minuscules tasses de dégustation, un pichet à partager, une bouilloire chantante. **Chaque geste compte et se fait lentement**, avec attention et respect : on réveille les feuilles de thé, on chauffe les bols, puis l’infusion est versée en un mince filet ambré qui vient emplir chaque bol.
 
 L’ambiance est feutrée, presque méditative. En petits groupes, les gestes experts de **[Yalin](/2025/programme/#rite-attitude), [Roman](/2025/programme/#partage-the), Asia ou [Guillaume](/2025/programme/#degustations-itinerantes)** aiguisent les sens : le parfum des feuilles infusées embaume l’air, la lumière de fin de journée se projète à l'hroizontale et danse sur la porcelaine, le murmure de l’eau versée résonne. **Ce rite nocturne n’a rien d’un spectacle** ; il est une invitation à l’écoute et au calme. Peu à peu, le temps semble suspendu. Chaque personne, qu’elle soit néophyte ou connaisseuse, se laisse immerger dans cette parenthèse sensorielle, goûtant la sérénité que procure un thé préparé avec soin et partagé en silence.
+
+<p class="text-center">
+  <a class="button" data-text="réserver la Nocturne" href="https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/" title="réserver la Nocturne" target="_blank">
+    <span class="button-inner">réserver la Nocturne</span>
+  </a>
+</p>
 
 ## Présentation du repas partagé
 
@@ -41,8 +54,8 @@ Ce rituel singulier, sans hôte ni vedette, chaque personne agit pour le **plais
 
 
 <p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre place" target="_blank">
-    <span class="button-inner">réserver votre place</span>
+  <a class="button" data-text="réserver la Nocturne" href="https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/" title="réserver la Nocturne" target="_blank">
+    <span class="button-inner">réserver la Nocturne</span>
   </a>
 </p>
 
