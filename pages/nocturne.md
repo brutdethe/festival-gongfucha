@@ -23,7 +23,7 @@ La première édition du festival avait déjà donné lieu à une veillée noctu
 
 ## Présentation du 工夫茶 GongFuCha
 
-Le rituel du **工夫茶 GōngFūChá** déploie toute sa poésie. Autour d’une petite table ou sur des nattes posées à même le sol, on dispose de délicats objets de thé : une théière de terre ou un gaiwan en porcelaine, des minuscules tasses de dégustation, un pichet à partager, une bouilloire chantante. **Chaque geste compte et se fait lentement**, avec attention et respect : on rince les feuilles de thé, on chauffe les coupes, puis l’infusion est versée en un mince filet ambré qui vient emplir chaque tasse.
+Le rituel du **工夫茶 GōngFūChá** déploie toute sa poésie. Autour d’une petite table ou sur des nattes posées à même le sol, on dispose de délicats objets de thé : une théière de terre ou un gaiwan en porcelaine, des minuscules tasses de dégustation, un pichet à partager, une bouilloire chantante. **Chaque geste compte et se fait lentement**, avec attention et respect : on réveille les feuilles de thé, on chauffe les bols, puis l’infusion est versée en un mince filet ambré qui vient emplir chaque bol.
 
 L’ambiance est feutrée, presque méditative. En petits groupes, les gestes experts de **[Yalin](/2025/programme/#rite-attitude), [Roman](/2025/programme/#partage-the), Asia ou [Guillaume](/2025/programme/#degustations-itinerantes)** aiguisent les sens : le parfum des feuilles infusées embaume l’air, la lumière de fin de journée se projète à l'hroizontale et danse sur la porcelaine, le murmure de l’eau versée résonne. **Ce rite nocturne n’a rien d’un spectacle** ; il est une invitation à l’écoute et au calme. Peu à peu, le temps semble suspendu. Chaque personne, qu’elle soit néophyte ou connaisseuse, se laisse immerger dans cette parenthèse sensorielle, goûtant la sérénité que procure un thé préparé avec soin et partagé en silence.
 
@@ -49,4 +49,4 @@ Ce rituel singulier, sans hôte ni vedette, chaque personne agit pour le **plais
   </div>
 </section>
 
-{% include banners/restauration.html locale=page.locale %}
+{% include banners/ambiance-nocturne.html locale=page.locale %}
