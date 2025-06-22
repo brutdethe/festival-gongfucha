@@ -23,19 +23,23 @@ permalink: /2025/programme/
      <strong>Vous pourrez approfondir vos connaissances autour du thé en participant aux ateliers ou conférences proposés par les exposants.</strong></p>
       
     <p>Nous sommes fières et exaltées en imaginant <strong>les rencontres et les liens</strong> qui vont se tisser lors de cet évènement !</p>
+
+    <p>Et... Nous venons de décider de relancer
+      <a href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/nocturne" | page.locale }}/" title="la nocturne">
+        une Nocturne
+      </a>
+        , le samedi 28 juin de 20h à minuit.  
+        Une veillée douce et intime, avec rite GongFuCha, repas partagé et cérémonie WuWo au cœur du Parc aux Bambous. 
+    </p>
     
-    {% if site.tickets.selling %}
-    <p class="text-center"><a class="button" data-text="réserver votre place"
+    <p class="text-center">
+      <a class="button" data-text="réserver votre place"
         href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
         <span class="button-inner">réserver votre place</span>
       </a>
-      {% endif %}
-      <!--
-      <a class="button" data-text="proposer un sujet"
-        href="{{ page.baseurl | default:site.baseurl }}/appel-a-propositions" title="proposer un sujet">
-        <span class="button-inner">proposer un sujet</span>
+            <a class="button" data-text="la nocturne" href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/nocturne" | page.locale }}/" title="la nocturne">
+        <span class="button-inner">la Nocturne</span>
       </a>
-      -->
     </p>
   </div>
 </section>
@@ -59,10 +63,15 @@ permalink: /2025/programme/
 {% if site.tickets.selling %}
 <section class="section">
   <div class="wrapper">
-    <p class="text-center"><a class="button" data-text="réserver votre place"
+    <p class="text-center">
+      <a class="button" data-text="réserver votre place"
         href="https://boutique.gongfucha.fr/category/festival/" title="Venir au parc aux bambous" target="_blank">
         <span class="button-inner">réserver votre place</span>
-      </a></p>
+      </a>
+            <a class="button" data-text="la nocturne" href="{{ page.baseurl | default:site.baseurl }}/{{ "2025/nocturne" | page.locale }}/" title="Voir le programme de la nocturne">
+        <span class="button-inner">la Nocturne</span>
+      </a>
+    </p>
   </div>
 </section>
 {% endif %}
