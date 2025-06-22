@@ -64,4 +64,4 @@ Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne s
   </div>
 </section>
 
-{% include banners/restauration.html locale=page.locale %}
+{% include banners/ambiance-nocturne.html locale=page.locale %}
