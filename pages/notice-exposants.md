@@ -32,47 +32,56 @@ summary { font-weight: 600; cursor: pointer; }
 
 <details open markdown="1">
 <summary>🎍 Avant tout</summary>
-Nous sommes ravies de vous rencontrer, absolument ravies
 
-Quelques informations :
-  - Cette année les bénévoles sont : Cyrille, Lionel, Louna et Guillaume (le jeudi puis intervenants)
-    - GRAND merci à elleux
-  - Didier et Ifa sont les adorables propriétaires du parc
-  - Cette année l'organisation a été régie par : Stéphane, Yalin et Manon
+Bienvenue à toi ! Nous sommes vraiment ravies de t’accueillir cette année.
 
-Quelques demandes importantes :
-- il ne faut pas se garer sur le "parking visiteurs"
-  - parce que déjà comme ça, il ne pas contenir toutes les personnes visiteuses
-- quand le parc est ouvert : on vous demande de ne pas traverser l'esplanade centrale, mais passer sur le côté, par la rivière
-  - c'est important pour ne pas nuire à l'expérience des personnes visiteuses
-  - et pour que le parc puisse faire la billeterie correctement
-- on s'est engagé à ce que les chiens soient tenus en laisse (désolé pour eux)
-- Et nous continuons à afficher [Recommandations pour un cadre prévenant](https://festival.gongfucha.fr/2025/recommandations-de-postures/)
-  - certaines personnes n'aiment pas du tout
-  - et d'autres nous remercient
+Quelques repères humains :
+- **Les bénévoles** : Cyrille, Lionel, Louna et Guillaume (jeudi + intervenants)  
+  → Grand merci à elleux pour leur énergie !
+- **Les hôtes** du parc : Didier et Ifa, sans qui ce lieu vivant ne serait pas possible.
+- **L’organisation** : portée cette année par Stéphane, Yalin et Manon.
+
+Quelques points essentiels pour que le festival soit doux pour tou·te·s :
+- Merci de bien prendre note des rendez-vous dans la rubrique : 👥 Horaires, réunions & temps collectifs.
+- **Parking** :  
+  Ne pas se garer sur le parking visiteurs (il est déjà très limité pour le public).
+- **Circulation dans le parc** :  
+  Quand le parc est ouvert, merci de passer par le côté (le long de la rivière) et d’éviter de traverser l’esplanade centrale.  
+  → Cela permet de préserver l’expérience des visiteurs et d’aider l’équipe du parc pour la billetterie.
+- **Chiens** :  
+  Nous nous sommes engagés à ce qu’ils soient tenus en laisse, même s’ils préféreraient la liberté !
+- **Cadre prévenant** :  
+  Nous affichons toujours nos [recommandations pour un cadre prévenant](https://festival.gongfucha.fr/2025/recommandations-de-postures/).  
+  Certains en sont agacés, d’autres nous remercient : à chacun·e d’y puiser ce qui lui convient.
+
+Merci pour ton attention à ces petits points : ils rendent possible un festival harmonieux pour tous les êtres présents — humains, animaux, plantes, esprits du lieu…
+
 </details>
 
+
 <details markdown="1">
-<summary>🎒 Qu'est-ce que j'emmène ?</summary>
+<summary>🎒 Qu'est-ce que j’emmène ?</summary>
 
-Ta Checklist :
+Avant de partir, prends quelques minutes pour préparer ce qui t’aidera à vivre le festival en beauté et en sérénité :
 
-Le nécessaire :
-- ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) pour que l'on puisse gérer ton arrivée
-- ✔️ Thermos (grand volume si possible)
-- ✔️ Une vasque pour pouvoir nettoyer les bols de tes infusions
+**Le nécessaire :**
+- ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) avant le 26 juin (cela nous aide beaucoup pour t’accueillir)
+- ✔️ Thermos (grand format si possible)
+- ✔️ Une vasque ou un petit seau pour rincer les bols d’infusion
 - ✔️ Crème solaire, chapeau
-- ✔️ De quoi protéger tes pièces, tes thés du soleil ou de la pluie, humidité
-- ✔️ De quoi habiller le sol des espaces (coussins d'assises, tapis en jonc, sisal, etc.) rester dans des tons unis et nature
-- ✔️ De quoi s'habiller le jour, la nuit, et s'adapter à la météo
-- ✔️ De quoi manger en dehors de la nocturne
-- ✔️ Lampe torche ou frontale
+- ✔️ De quoi protéger tes pièces et tes thés du soleil, de la pluie ou de l’humidité
+- ✔️ Un tapis, coussins, jonc ou sisal pour habiller le sol de ton espace (merci de privilégier les matières naturelles et les tons unis)
+- ✔️ Des vêtements pour la journée, la nuit et les surprises de la météo
+- ✔️ De quoi grignoter ou manger, hors repas conviviaux
+- ✔️ Une lampe torche ou frontale
 
-Pour être confort :
+**Pour plus de confort :**
 - ✔️ Bouilloire
-- ✔️ Maillot de bain (se baigner à la rivière est possible)
-- ✔️ Anti-moustiques - (il n'y en a vraiment pas beaucoup)
+- ✔️ Maillot de bain (il est possible de se baigner dans la rivière toute proche)
+- ✔️ Anti-moustiques (il y en a peu, mais qui sait !)
 
+Prends aussi avec toi l’envie de partager, la curiosité et ta douceur intérieure.  
+À très bientôt au bord de l’eau, sous les bambous.
 </details>
 
 <details markdown="1">
