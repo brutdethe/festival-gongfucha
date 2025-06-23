@@ -95,7 +95,7 @@ Le Parc aux Bambous t’accueille grâce à la présence bienveullante de Ifa et
 - Coordonnées : 43° 08′ 44.85″ N / 01° 43′ 53.61″ E
 - Pour le covoiturage : partage tes infos ou consulte [ce document commun](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
 
-Merci d’anticiper un peu de temps pour ton installation, surtout vendredi !
+Merci d’anticiper un peu de temps pour ton installation, surtout vendredi.
 </details>
 
 <details markdown="1">
@@ -108,26 +108,21 @@ Merci d’anticiper un peu de temps pour ton installation, surtout vendredi !
 </details>
 
 <details markdown="1">
-<summary>📍 Où puis-je déposer des affaires ?</summary>
-    - précisément [ici](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685)
-    - c'est au bout du chemin Broques qui mène au parking des exposants, la batisse est la maison de Didier et Ifa. Vous passer le tunnel en bambou, et sur votre gauche vous verrez la porte de la cave. Les affaires du festival sont sur la gauche, sur des palettes, trouvez-vous une petite place.
-</details>
-
-<details markdown="1">
 <summary>🎒 Où déposer mes affaires ?</summary>
 - Dépose tes affaires [ici, dans la cave de la maison de Didier et Ifa](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685) (bout du chemin Broques).
 - Passe le tunnel de bambou : la porte de la cave sera sur ta gauche. Les palettes du festival sont là, sur la droite, trouve-toi une petite place pour ton matériel.
 </details>
 
 <details markdown="1">
-<summary>📍 Où est-ce que je peux dormir ?</summary>
-- Pour les personnes qui souhaitent dormir dans leurs véhicules
-  - il y a un champ qui fait la jonction entre le chemin Broques et la rivière et qui appartient à Didier et Ifa  
-- Pour les personnes qui souhaitent bivouacer dans le parc
-  - Tu peux planter ta tente discrètement
-  - Note ta présence dans [ce document](), s'il te plait
-  - pense bien à ne laisser aucune trace au petit matin
-  - tu peux regarder pour laisser tes affaires : Où puis-je déposer mes affaires en attendant ?
+<summary>⛺ Où puis-je dormir ?</summary>
+**En van/camion aménagé :**  
+- Un champ entre le chemin Broques et la rivière (appartenant à Ifa et Didier) est ouvert pour stationner ton véhicule en toute tranquillité.
+
+**En tente, sous les étoiles :**  
+- Il est possible de planter ta tente discrètement dans le parc.
+- Merci d’indiquer ta présence sur [ce document](https://gongfucha.frama.space/s/rEco65XQE4Dppkb).
+- Garde à l’esprit la règle du “pas de trace” : laisse l’herbe et les lieux comme tu les as trouvés.
+- Pour déposer tes affaires : vois la rubrique précédente (“Où déposer mes affaires ?”).
 </details>
 
 <details markdown="1">
