@@ -15,7 +15,7 @@ summary { font-weight: 600; cursor: pointer; }
 }
 </style>
 
-- les bols
+
 - les conférences, ateliers, performances - Agenda
 - pour dormir
 - Les émojis - les photos
@@ -29,47 +29,7 @@ summary { font-weight: 600; cursor: pointer; }
 <p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
 
 <details markdown="1">
-<summary>🚗 Comment venir</summary>
-- [Accès](https://parcauxbambous.com/#acces)
-- Adresse GPS : **Le Parc aux bambous, 09320 Massat**  
-- Coordonnées : 42.879 / 1.353  
-- **Covoiturage** : <https://covoit.net/gongfucha>  
-</details>
-
-<details markdown="1">
-<summary>📍 Votre arrivée</summary>
-  - c'est sympa de noter votre arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
-  - ⚠️ Ne **pas se garer au Parking Visiteur**
-  - Parking des personnes exposantes
-    - c'est là : Broques hameau, 09500 Lapenne
-    - le mercredi et le jeudi, si besoin vous pourrez vous avancer dans le parc pour décharger
-
-Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
-</details>
-
-
-<details open markdown="1">
-<summary>🌦️ Météo</summary>
-
-Prévision :
-
-| Jour        | Conditions  | Min / Max °C |
-| ----------- | ----------- | ------------ |
-| Jeudi 26    | Peu nuageux | 19 / 28      |
-| Vendredi 27 | Ensoleillé  | 17 / 28      |
-| Samedi 28   | Ensoleillé  | 17 / 29      |
-| Dimanche 29 | Ensoleillé  | 18 / 30      |
- 
-- [météo france](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
-- [météo blue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
-
-**En cas de pluie ?**
-Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l’accueil pour un thé chaud et des discussions en attendant l’accalmie. Les visiteurs seront naturellement moins nombreux.
-
-</details>
-
-<details markdown="1">
-<summary>🎒 Ce qu’il faut prévoir</summary>
+<summary>🎒 Qu'est-ce que j'emmène ?</summary>
 
 Ta Checklist :
 
@@ -91,33 +51,39 @@ Pour être confort :
 </details>
 
 <details markdown="1">
-<summary>📍 Les emplacements</summary>
-Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+<summary>🎍 Comment venir ?</summary>
+- Le parc aux bambous est orechestré par Ifa et Didier
+- [Accès](https://parcauxbambous.com/#acces)
+- sur le site du festival : [venir au parc](https://festival.gongfucha.fr/2025/venir-parc-aux-bambous/)
+- Adresse GPS : [Le Parc aux bambous](https://osm.org/go/xVMb2MvF0--)
+- Adresse : Le Parc Aux Bambous Broques • 09500 Lapenne Ariège Pyrénées
+- Coordonnées : 43° 08′ 44.85″ N (43.145869 N) - 01° 43′ 53.61″ E (01.730409 E)  
+- Covoiturage : sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) 
 </details>
 
 <details markdown="1">
-<summary>📍 Les emplacements</summary>
-Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+<summary>📍 Et, où je me gare ?</summary>
+  - Merci de noter votre arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
+  - ⚠️ Pas sur le Parking Visiteur
+  - Parking des personnes exposantes
+    - c'est là : Broques hameau, 09500 Lapenne
+    - le **mercredi et le jeudi**, si besoin vous pourrez vous avancer dans le parc pour décharger
+  - ⚠️ Faites bien attention à ne pas gêner l'accès aux autres véhicules
 </details>
 
 <details markdown="1">
-<summary>🌜 La Nocturne</summary>
-- [voir les informations](/2025/nocturne/)
-- une personne par espace est invitée à la Nocturne 
-- [billet](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
-- Nous proposons de vous présenter la nocturne vendredi soir à 18h45
+<summary>📍 Où puis-je déposer mes affaires en attendant ?</summary>
+    - précisément [ici](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685)
+    - c'est au bout du chemin Broques qui mène au parking des exposants, la batisse est la maison de Didier et Ifa. Vous passer le tunnel en bambou, et sur votre gauche vous verrez la porte de la cave. Les affaires du festival sont sur la gauche, sur des palettes, trouvez-vous une petite place.
 </details>
 
 <details markdown="1">
-<summary>💳 Participation – règlement</summary>
-
-- Cette année la Participation au Frais est fixée à **90 €** pour les trois jours  
-- Modes de paiement : 
-  - virement - IBAN BE50 9671 9604 2218
-  - espèces ou CB sur l'espace de Yalin - GongFuCha boutique
-  - CB envoi d'un email avec un lien de paiement
-- Merci de régler avant le samedi 28 juin, 12 h
-- Avez-vous besoin d'une facture ? (si oui, préciser les coordonnées)
+<summary>📍 Où dormir ?</summary>
+  - Pour les personnes qui souhaitent dormir dans leurs véhicules
+  - il y a un champ qui fait la jonxtion entre le chemin Broques et la rivière et qui appartient à Didier et Ifa  
+    - Parking des personnes exposantes
+        - c'est là : Broques hameau, 09500 Lapenne
+        - le **mercredi et le jeudi**, si besoin vous pourrez vous avancer dans le parc pour décharger
 </details>
 
 <details markdown="1">
@@ -144,20 +110,70 @@ Pour faire les courses :
 </details>
 
 <details markdown="1">
-<summary>🚰 Eau</summary>
+<summary>🌦️ Et, la météo ?</summary>
 
-- Point d’eau potable derrière la scène principale  
-- Fontaine villageoise (150 m)  
-- Merci d’apporter votre gourde pour limiter les gobelets jetables.
+Prévision :
+
+| Jour        | Conditions  | Min / Max °C |
+| ----------- | ----------- | ------------ |
+| Jeudi 26    | Peu nuageux | 19 / 28      |
+| Vendredi 27 | Ensoleillé  | 17 / 28      |
+| Samedi 28   | Ensoleillé  | 17 / 29      |
+| Dimanche 29 | Ensoleillé  | 18 / 30      |
+ 
+- [météo france](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
+- [météo blue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
+
+**En cas de pluie ?**
+Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l’accueil pour un thé chaud et des discussions en attendant l’accalmie. Les visiteurs seront naturellement moins nombreux.
 
 </details>
 
 <details markdown="1">
-<summary>🎍 Lieu</summary>
-- Parc aux bambous :  [voir la carte](https://www.google.com/maps/place/Parc+Aux+Bambous+SARL/@43.1459798,1.7312839,842m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12af026bc3d01871:0x2048eb73917d2eac!8m2!3d43.1459798!4d1.7312839!16s%2Fm%2F04lggwg?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D)
-- Site web : https://parcauxbambous.com/
-- Adresse : Le Parc Aux Bambous Broques • 09500 Lapenne Ariège Pyrénées
-- Coordonnées : 43° 08′ 44.85″ N (43.145869 N) - 01° 43′ 53.61″ E (01.730409 E)  
+<summary>📍 Les emplacements</summary>
+Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+</details>
+
+<details markdown="1">
+<summary>🌜 La Nocturne</summary>
+- [voir les informations](/2025/nocturne/)
+- une personne par espace est invitée à la Nocturne 
+- [billet](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
+- Nous proposons de vous présenter la nocturne vendredi soir à 18h45
+</details>
+
+<details markdown="1">
+<summary>💳 Participation au Frais – règlement</summary>
+
+- Cette année la Participation au Frais est fixée à **90 €** pour les trois jours  
+- Modes de paiement : 
+  - virement - IBAN BE50 9671 9604 2218
+  - espèces ou CB sur l'espace de Yalin - GongFuCha boutique
+  - CB envoi d'un email avec un lien de paiement
+- Merci de régler avant le samedi 28 juin, 12 h
+- Avez-vous besoin d'une facture ? (si oui, préciser les coordonnées)
+</details>
+
+<details markdown="1">
+<summary>🚰 Eau</summary>
+Pour faire du thé il faut de l'eau
+- Point d’eau chaude sous l'acacia au centre du village 
+- On essaye comme pour la seconde édition de proposer de l'eau de source
+  - cueillie toute fraîche à Sengouagneich
+- Pour récupérer de l'eau chaude pour vos thés :
+  - avec vos thermos au point : eau chaude
+  - avec un brasero
+
+</details>
+
+<details markdown="1">
+<summary>🚰 Thé</summary>
+ - Pour les personnes exposantes, nous proposons :
+   - Sì Jì Chūn - (du nom du cultivar)
+   - première récolte : avril 2025
+   - lieu : Nantou
+   - Mme Lin Su Yan
+   - Prix : 10 euros - 50 grammes
 </details>
 
 <details markdown="1">
