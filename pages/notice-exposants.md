@@ -30,18 +30,19 @@ summary { font-weight: 600; cursor: pointer; }
 
 <p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
 
-<details open markdown="1">
+<details markdown="1">
 <summary>🎍 Avant tout</summary>
 
 Bienvenue à toi ! Nous sommes vraiment ravies de t’accueillir cette année.
 
 Quelques repères humains :
-- **Les bénévoles** : Cyrille, Lionel, Louna et Guillaume (jeudi + intervenants)  
+- **Les bénévoles** : Cyrille, Lionel, Louna et Guillaume (jeudi uniquement puis il sera intervenant)  
   → Grand merci à elleux pour leur énergie !
 - **Les hôtes** du parc : Didier et Ifa, sans qui ce lieu vivant ne serait pas possible.
 - **L’organisation** : portée cette année par Stéphane, Yalin et Manon.
 
 Quelques points essentiels pour que le festival soit doux pour tou·te·s :
+- idéalement arrive mercredi ou jeudi pour pouvoir t'installer correctement et avoir toute notre attention
 - Merci de bien prendre note des rendez-vous dans la rubrique : 👥 Horaires, réunions & temps collectifs.
 - **Parking** :  
   Ne pas se garer sur le parking visiteurs (il est déjà très limité pour le public).
@@ -68,7 +69,7 @@ Avant de partir, prends quelques minutes pour préparer ce qui t’aidera à viv
 - ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) avant le 26 juin (cela nous aide beaucoup pour t’accueillir)
 - ✔️ Thermos (grand format si possible)
 - ✔️ Une vasque ou un petit seau pour rincer les bols d’infusion
-- ✔️ Crème solaire, chapeau
+- ✔️ Crème solaire (sauf si tu te baignes à la rivière), chapeau
 - ✔️ De quoi protéger tes pièces et tes thés du soleil, de la pluie ou de l’humidité
 - ✔️ Un tapis, coussins, jonc ou sisal pour habiller le sol de ton espace (merci de privilégier les matières naturelles et les tons unis)
 - ✔️ Des vêtements pour la journée, la nuit et les surprises de la météo
@@ -85,30 +86,37 @@ Prends aussi avec toi l’envie de partager, la curiosité et ta douceur intéri
 </details>
 
 <details markdown="1">
-<summary>🎍 Comment je viens ?</summary>
-- Le parc aux bambous est orechestré par Ifa et Didier
-- [Accès](https://parcauxbambous.com/#acces)
-- sur le site du festival : [venir au parc](https://festival.gongfucha.fr/2025/venir-parc-aux-bambous/)
-- Adresse GPS : [Le Parc aux bambous](https://osm.org/go/xVMb2MvF0--)
-- Adresse : Le Parc Aux Bambous Broques • 09500 Lapenne Ariège Pyrénées
-- Coordonnées : 43° 08′ 44.85″ N (43.145869 N) - 01° 43′ 53.61″ E (01.730409 E)  
-- Covoiturage : sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) 
+<summary>🗺️ Comment je viens ?</summary>
+Le Parc aux Bambous t’accueille grâce à la présence bienveullante de Ifa et Didier.
+
+- [Accès détaillé au parc](https://parcauxbambous.com/#acces)
+- Sur le site du festival : [venir au parc](https://festival.gongfucha.fr/2025/venir-parc-aux-bambous/)
+- Adresse GPS : [Le Parc aux Bambous](https://osm.org/go/xVMb2MvF0--) — Broques, 09500 Lapenne, Ariège Pyrénées
+- Coordonnées : 43° 08′ 44.85″ N / 01° 43′ 53.61″ E
+- Pour le covoiturage : partage tes infos ou consulte [ce document commun](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
+
+Merci d’anticiper un peu de temps pour ton installation, surtout vendredi !
 </details>
 
 <details markdown="1">
-<summary>📍 Et, où je me gare ?</summary>
-  - Merci de noter votre arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
-  - ⚠️ Pas sur le Parking Visiteur
-  - Parking des personnes exposantes
-    - c'est là : Broques hameau, 09500 Lapenne
-    - le **mercredi et le jeudi**, si besoin vous pourrez vous avancer dans le parc pour décharger
-  - ⚠️ Faites bien attention à ne pas gêner l'accès aux autres véhicules
+<summary>🚗 Où je me gare ?</summary>
+- Note ton arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) pour que nous puissions t’accueillir au mieux.
+- **Parking visiteurs** : merci de ne pas l’utiliser, il est réservé au public.
+- **Parking exposantes** : Broques hameau, 09500 Lapenne.
+  - Mercredi et jeudi, tu peux entrer jusqu'au parc pour décharger, puis gare ton véhicule sur le parking dédié.
+- Veille à ne pas bloquer l’accès à d’autres véhicules ni aux secours.
 </details>
 
 <details markdown="1">
 <summary>📍 Où puis-je déposer des affaires ?</summary>
     - précisément [ici](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685)
     - c'est au bout du chemin Broques qui mène au parking des exposants, la batisse est la maison de Didier et Ifa. Vous passer le tunnel en bambou, et sur votre gauche vous verrez la porte de la cave. Les affaires du festival sont sur la gauche, sur des palettes, trouvez-vous une petite place.
+</details>
+
+<details markdown="1">
+<summary>🎒 Où déposer mes affaires ?</summary>
+- Dépose tes affaires [ici, dans la cave de la maison de Didier et Ifa](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685) (bout du chemin Broques).
+- Passe le tunnel de bambou : la porte de la cave sera sur ta gauche. Les palettes du festival sont là, sur la droite, trouve-toi une petite place pour ton matériel.
 </details>
 
 <details markdown="1">
