@@ -26,6 +26,8 @@ summary { font-weight: 600; cursor: pointer; }
 
 # {{ page.title }}
 
+“Bienvenue à toi ! Cette page évoluera jusqu’au dernier moment, pense à la consulter avant de partir. Merci pour ta contribution au vivre-ensemble du festival.”
+
 <p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
 
 <details open markdown="1">
@@ -45,8 +47,10 @@ Quelques demandes importantes :
   - c'est important pour ne pas nuire à l'expérience des personnes visiteuses
   - et pour que le parc puisse faire la billeterie correctement
 - on s'est engagé à ce que les chiens soient tenus en laisse (désolé pour eux)
+- Et nous continuons à afficher [Recommandations pour un cadre prévenant](https://festival.gongfucha.fr/2025/recommandations-de-postures/)
+  - certaines personnes n'aiment pas du tout
+  - et d'autres nous remercient
 </details>
-
 
 <details markdown="1">
 <summary>🎒 Qu'est-ce que j'emmène ?</summary>
@@ -72,7 +76,7 @@ Pour être confort :
 </details>
 
 <details markdown="1">
-<summary>🎍 Comment venir ?</summary>
+<summary>🎍 Comment je viens ?</summary>
 - Le parc aux bambous est orechestré par Ifa et Didier
 - [Accès](https://parcauxbambous.com/#acces)
 - sur le site du festival : [venir au parc](https://festival.gongfucha.fr/2025/venir-parc-aux-bambous/)
@@ -93,22 +97,30 @@ Pour être confort :
 </details>
 
 <details markdown="1">
-<summary>📍 Où puis-je déposer mes affaires en attendant ?</summary>
+<summary>📍 Où puis-je déposer des affaires ?</summary>
     - précisément [ici](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685)
     - c'est au bout du chemin Broques qui mène au parking des exposants, la batisse est la maison de Didier et Ifa. Vous passer le tunnel en bambou, et sur votre gauche vous verrez la porte de la cave. Les affaires du festival sont sur la gauche, sur des palettes, trouvez-vous une petite place.
 </details>
 
 <details markdown="1">
-<summary>📍 Où dormir ?</summary>
-  - Pour les personnes qui souhaitent dormir dans leurs véhicules
-  - il y a un champ qui fait la jonxtion entre le chemin Broques et la rivière et qui appartient à Didier et Ifa  
-    - Parking des personnes exposantes
-        - c'est là : Broques hameau, 09500 Lapenne
-        - le **mercredi et le jeudi**, si besoin vous pourrez vous avancer dans le parc pour décharger
+<summary>📍 Où est-ce que je peux dormir ?</summary>
+- Pour les personnes qui souhaitent dormir dans leurs véhicules
+  - il y a un champ qui fait la jonction entre le chemin Broques et la rivière et qui appartient à Didier et Ifa  
+- Pour les personnes qui souhaitent bivouacer dans le parc
+  - Tu peux planter ta tente discrètement
+  - Note ta présence dans [ce document](), s'il te plait
+  - pense bien à ne laisser aucune trace au petit matin
+  - tu peux regarder pour laisser tes affaires : Où puis-je déposer mes affaires en attendant ?
 </details>
 
 <details markdown="1">
-<summary>🍽️ Comment manger</summary>
+<summary>📍 Est-ce que je peux prendre une douche ?</summary>
+- c'est au même endroit : Où puis-je déposer des affaires ?
+- au fond, à gauche, il y a une douche
+</details>
+
+<details markdown="1">
+<summary>🍽️ Comment je mange ?</summary>
 
 - [Repas midi](/2025/restauration) assurés par **Miki &amp; Fred** (option végane possible) — 17 € menu complet  
 - Possible de commander pour le soir également, dans la limite des portions disponibles
@@ -151,7 +163,7 @@ Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l�
 </details>
 
 <details markdown="1">
-<summary>📍 Les emplacements</summary>
+<summary>📍 Comment je m'installe</summary>
 
 </details>
 
