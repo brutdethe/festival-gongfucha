@@ -84,7 +84,7 @@ Prends aussi avec toi l’envie de partager, la curiosité et ta douceur intéri
 
 <details markdown="1">
 <summary>🗺️ Comment je viens ?</summary>
-Le Parc aux Bambous t’accueille grâce à la présence bienveullante de Ifa et Didier.
+Le Parc aux Bambous t’accueille grâce à la présence bienveillante de Ifa et Didier.
 
 - [Accès détaillé au parc](https://parcauxbambous.com/#acces)
 - Sur le site du festival : [venir au parc](https://festival.gongfucha.fr/2025/venir-parc-aux-bambous/)
@@ -173,33 +173,6 @@ En cas de forte chaleur, prévois casquette, gourde, crème solaire et vêtement
 </details>
 
 <details markdown="1">
-<summary>📍 Comment je m'installe</summary>
-
-- Pourquoi venir le jeudi 26 juin ?
-La journée est dédiée à l’installation des espaces, on
-aimerait que ça soit un moment de rencontre entre toutes les personnes
-qui participent au festival. Si vous imaginez venir le vendredi il est
-possible que vous vous sentiez un peu seul dans votre installation
-
-Scénographie
-- Des espaces minimalistes, tables plutôt basses et/ou au sol, petit tabourets,zafu....
-- Des matières naturelles : bambou , bois et tissu blanc / écru.
-
-Ce qu'on aimerait éviter :
-- Des stands comme sur un marché - sur tréteaux,
-- barnum kakemonos et alignés les uns à côtés des autres
-- De grands panneaux publicitaires
-- Pas de couleur flashy
-
-Pour t'inspirer, tu peux prendre appuis sur les photos des précédentes éditions :
-=> https://photo.gongfucha.fr/
-
-Pour chaque espace on fournis trois belles planches et des rondins
-dit comme ça, ça fait bizarre non ;)
-
-</details>
-
-<details markdown="1">
 <summary>🌜 La Nocturne</summary>
 - [Toutes les infos sur la Nocturne](/2025/nocturne/)
 - Une personne par espace exposants est invitée à la Nocturne
@@ -240,7 +213,7 @@ Arriver vendredi risque de te faire manquer ce moment collectif, et tu pourrais 
 **Scénographie souhaitée :**  
 - Espaces minimalistes, tables basses ou au sol, petits tabourets, zafus…
 - Privilégie les matières naturelles : bambou, bois, tissus blancs ou écrus.
-- Nous fournissons trois belles planches et quelques rondins pour chaque espace (oui, c’est spécial… mais efficace !).
+- Nous fournissons trois belles planches et quelques rondins pour chaque espace (oui, c’est spécial… mais so wabi sabi ;) ).
 
 **Ce qu’on préfère éviter :**  
 - Les stands “type marché” (tréteaux, barnums alignés, kakemonos)
@@ -279,7 +252,7 @@ Idéalement, si tu proposes ce moment tous les jours (même à horaires variable
 <details markdown="1">
 <summary>🍵 Thé à partager</summary>
 
-Pour les personnes exposantes, nous proposons à prix doux :
+Pour les personnes exposantes qui n'auraient pas de thé (par exemple), nous proposons à prix doux :
 
 - **Sì Jì Chūn** (cultivar 四季春 — “le printemps aux quatre saisons”)
 - Première récolte : avril 2025
@@ -317,7 +290,8 @@ Un thé vivant, pour accompagner vos moments de pause ou vos dégustations avec 
 
 - **Dimanche 10h précises**  
   *Rétrospective collective* :  
-  Retour sur le festival pour s’améliorer et célébrer.  
+  Retour sur le festival pour s’améliorer et célébrer. 
+  (on devrait la faire à la toute fin, mais on a en tête que certaines personnes exposantes auront peut-être beaucoup de route) 
   *Lieu* : sous l’acacia  
   *Durée* : 1h  
   **Déroulé** :  
