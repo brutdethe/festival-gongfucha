@@ -232,7 +232,8 @@ Pour l'eau fraiche pour s'hydrater ou laver vos bols :
 - vendredi à 19h30
   - proposition de **repas partagés** 
 
-- une **rétrospective** est programmée le dimanche matin à 10h pile (parce que c'est serré ;) )
+- dimanche matin à 10h pile (parce que c'est serré ;)
+  - une **rétrospective** est proposée
   - Lieu sous l'acacia - place du village
   - Durée : 1 heure
   - Déroulée :
