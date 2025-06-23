@@ -6,7 +6,7 @@ permalink: /2025/exposants/
 
 <style>
 .wrapper { max-width: 50rem; margin: 0 auto; padding: 0 1rem; }
-.update { text-align:center; font-size: 0.9rem; color: #555; margin-bottom: 1rem; }
+.update { text-align:center; font-size: 1rem; color: #555; margin-bottom: 1rem; }
 details { margin: 1rem 0; border: 1px solid #ddd; border-radius: 0.5rem; padding: 0.5rem 1rem; background:#fafafa; }
 summary { font-weight: 600; cursor: pointer; }
 @media print {
@@ -18,6 +18,7 @@ summary { font-weight: 600; cursor: pointer; }
 - les bols
 - les conférences, ateliers, performances - Agenda
 - pour dormir
+- Les émojis - les photos
 
 
 <section class="section">
@@ -25,7 +26,27 @@ summary { font-weight: 600; cursor: pointer; }
 
 # {{ page.title }}
 
-<p class="update">Dernière mise à jour : <!--LAST_UPDATE-->22&nbsp;juin&nbsp;2025, 10 h</p>
+<p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
+
+<details markdown="1">
+<summary>🚗 Comment venir</summary>
+- [Accès](https://parcauxbambous.com/#acces)
+- Adresse GPS : **Le Parc aux bambous, 09320 Massat**  
+- Coordonnées : 42.879 / 1.353  
+- **Covoiturage** : <https://covoit.net/gongfucha>  
+</details>
+
+<details markdown="1">
+<summary>📍 Votre arrivée</summary>
+  - c'est sympa de noter votre arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH)
+  - ⚠️ Ne **pas se garer au Parking Visiteur**
+  - Parking des personnes exposantes
+    - c'est là : Broques hameau, 09500 Lapenne
+    - le mercredi et le jeudi, si besoin vous pourrez vous avancer dans le parc pour décharger
+
+Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+</details>
+
 
 <details open markdown="1">
 <summary>🌦️ Météo</summary>
@@ -53,30 +74,25 @@ Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l�
 Ta Checklist :
 
 Le nécessaire :
-- [ ] Remplir ce document pour que l'on puisse gérer ton arrivée : <https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH>
-- [ ] Thermos (grand volume si possible)
-- [ ] Crème solaire, chapeau
-- [ ] De quoi protéger tes pièces, tes thés du soleil ou de la pluie, humidité
-- [ ] De quoi habiller le sol des espaces (coussins d'assises, tapis en jonc, sisal, etc.) rester dans des tons unis et nature
-- [ ] De quoi s'habiller le jour, la nuit, et s'adapter à la météo
-- [ ] De quoi manger en dehors de la nocturne
-- [ ] Lampe torche ou frontale
+- ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) pour que l'on puisse gérer ton arrivée
+- ✔️ Thermos (grand volume si possible)
+- ✔️ Crème solaire, chapeau
+- ✔️ De quoi protéger tes pièces, tes thés du soleil ou de la pluie, humidité
+- ✔️ De quoi habiller le sol des espaces (coussins d'assises, tapis en jonc, sisal, etc.) rester dans des tons unis et nature
+- ✔️ De quoi s'habiller le jour, la nuit, et s'adapter à la météo
+- ✔️ De quoi manger en dehors de la nocturne
+- ✔️ Lampe torche ou frontale
 
 Pour être confort :
-- [ ] Bouilloire
-- [ ] Maillot de bain (se baigner à la rivière est possible)
-- [ ] Anti-moustiques - (il n'y en a vraiment pas beaucoup)
+- ✔️ Bouilloire
+- ✔️ Maillot de bain (se baigner à la rivière est possible)
+- ✔️ Anti-moustiques - (il n'y en a vraiment pas beaucoup)
 
 </details>
 
 <details markdown="1">
-<summary>🚗 Comment venir</summary>
-- [Accès](https://parcauxbambous.com/#acces)
-- Adresse GPS : **Le Parc aux bambous, 09320 Massat**  
-- Coordonnées : 42.879 / 1.353  
-- **Covoiturage** : <https://covoit.net/gongfucha>  
-- **Parking des personnes exposantes** : suivez la signalétique “Dépose matériel” puis garez-vous au parking communal (300 m)
-
+<summary>📍 Les emplacements</summary>
+Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
 </details>
 
 <details markdown="1">
@@ -89,13 +105,13 @@ Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emp
 - [voir les informations](/2025/nocturne/)
 - une personne par espace est invitée à la Nocturne 
 - [billet](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
-- Nous proposons une présentation
+- Nous proposons de vous présenter la nocturne vendredi soir à 18h45
 </details>
 
 <details markdown="1">
 <summary>💳 Participation – règlement</summary>
 
-- Cette année la Participation au Frais est de **90 €** pour les trois jours  
+- Cette année la Participation au Frais est fixée à **90 €** pour les trois jours  
 - Modes de paiement : 
   - virement - IBAN BE50 9671 9604 2218
   - espèces ou CB sur l'espace de Yalin - GongFuCha boutique
@@ -138,35 +154,41 @@ Pour faire les courses :
 
 <details markdown="1">
 <summary>🎍 Lieu</summary>
-
-- Parc aux bambous :  [oir la carte](https://www.google.com/maps/place/Parc+Aux+Bambous+SARL/@43.1459798,1.7312839,842m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12af026bc3d01871:0x2048eb73917d2eac!8m2!3d43.1459798!4d1.7312839!16s%2Fm%2F04lggwg?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D)
+- Parc aux bambous :  [voir la carte](https://www.google.com/maps/place/Parc+Aux+Bambous+SARL/@43.1459798,1.7312839,842m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12af026bc3d01871:0x2048eb73917d2eac!8m2!3d43.1459798!4d1.7312839!16s%2Fm%2F04lggwg?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D)
 - Site web : https://parcauxbambous.com/
 - Adresse : Le Parc Aux Bambous Broques • 09500 Lapenne Ariège Pyrénées
 - Coordonnées : 43° 08′ 44.85″ N (43.145869 N) - 01° 43′ 53.61″ E (01.730409 E)  
-
 </details>
 
 <details markdown="1">
-<summary>👥 Réunions - points collaboratifs</summary>
+<summary>👥 Horaires, réunions et points collaboratifs</summary>
+
+- Ouverture du parc aux personnes visiteuses :
+  - ouverture : 11h
+  - fermeture : 18h
 
 - jeudi à 18h45 :
-    - un point collaboratif : questions/réponses et partage d'informations
-    - Lieu sous l'acacia - place du village
-    - Durée : 40 minutes
+  - un point collaboratif : questions/réponses et partage d'informations
+  - Lieu sous l'acacia - place du village
+  - Durée : 40 minutes
 
-- vendredi 18h45 :
+- vendredi à 18h45 :
   - un atelier pour préparer les deux rites : GongFuCha et WuWo
   - Lieu sous l'acacia - place du village
   - Durée : 40 minutes
 
-- une rétrospective est programmée le dimanche matin à 10h (pile parce que c'est serré)
+- vendredi à 19h30
+  - proposition de **repas partagés** 
+
+- une **rétrospective** est programmée le dimanche matin à 10h pile (parce que c'est serré ;) )
   - Lieu sous l'acacia - place du village
   - Durée : 1 heure
   - Déroulée :
     - ce qui s'est passée
     - ce qui s'est pas très bien passé - (frustrations)
     - ce qui s'est bien passé - (célébration)
-    - les actions pour la prochaine éditio
+    - les actions pour la prochaine édition
+
 </details>
 
 <details markdown="1">
