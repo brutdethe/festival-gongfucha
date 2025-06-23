@@ -213,39 +213,47 @@ Pour l'eau fraiche pour s'hydrater ou laver vos bols :
 </details>
 
 <details markdown="1">
-<summary>👥 Horaires, réunions et points collaboratifs</summary>
+<summary>👥 Horaires, réunions & temps collectifs</summary>
 
-- Ouverture du parc aux personnes visiteuses :
-  - ouverture : 11h
-  - fermeture : 18h
+**Horaires du parc pour le public :**  
+- Ouverture : 11h  
+- Fermeture : 18h
 
-- jeudi à 18h45 :
-  - un point collaboratif : questions/réponses et partage d'informations
-  - Lieu sous l'acacia - place du village
-  - Durée : 40 minutes
+---
 
-- vendredi à 18h45 :
-  - un atelier pour préparer les deux rites : GongFuCha et WuWo
-  - Lieu sous l'acacia - place du village
-  - Durée : 40 minutes
+**Temps collectifs et rencontres exposant·e·s :**
 
-- vendredi à 19h30
-  - proposition de **repas partagés** 
+- **Jeudi 18h45**  
+  *Point collaboratif* : questions/réponses, accueil des nouveaux, partages pratiques.  
+  *Lieu* : sous l’acacia (place du village)  
+  *Durée* : 40 min
 
-- dimanche matin à 10h pile (parce que c'est serré ;)
-  - une **rétrospective** est proposée
-  - Lieu sous l'acacia - place du village
-  - Durée : 1 heure
-  - Déroulée :
-    - ce qui s'est passée
-    - ce qui s'est pas très bien passé - (frustrations)
-    - ce qui s'est bien passé - (célébration)
-    - les actions pour la prochaine édition
+- **Vendredi 18h45**  
+  *Atelier collectif* : préparation des deux rituels, GongFuCha et WuWo (infos, partage d’expériences, questions).  
+  *Lieu* : sous l’acacia  
+  *Durée* : 40 min
 
+- **Vendredi 19h30**  
+  *Repas partagé (proposition)* : chaque personne amène de quoi grignoter ou partager
+
+- **Dimanche 10h précises**  
+  *Rétrospective collective* :  
+  Retour sur le festival pour s’améliorer et célébrer.  
+  *Lieu* : sous l’acacia  
+  *Durée* : 1h  
+  **Déroulé** :  
+    - Ce qui s’est passé  
+    - Ce qui s’est moins bien passé (frustrations, points d’amélioration)  
+    - Ce qui s’est bien passé (célébrations)  
+    - Actions et idées pour la prochaine édition
+
+---
+
+**Tous ces temps sont ouverts à chaque personne exposante ou bénévole, dans l’esprit du partage et de la coopération.**
 </details>
 
 <details markdown="1">
-<summary>☎️ Contacts &amp; urgences</summary>
+<summary>🤙 Contacts &amp; urgences</summary>
 
 - Logistique :
   - **Yalin** - 06 66 08 11 88 - yalin@gongfucha.fr
@@ -260,14 +268,20 @@ Pour l'eau fraiche pour s'hydrater ou laver vos bols :
 
 <details markdown="1">
 <summary>☎️ numéros d'urgence</summary>
-- **Police** - le 17 pour signaler une infraction qui nécessite l'intervention immédiate des forces de l'ordre
-- **Pompiers** - le 18 pour signaler une situation de péril ou un accident concernant des biens ou des personnes et obtenir une intervention rapide
-- **SAMU** - le 15 pour obtenir l'intervention d'une équipe médicale lors d'une situtation de détresse vitale ainsi que pour être redirigé vers un organisme de permanence de soin
-- **par message** - le 114 si vous êtes victime ou témoin d'une situation d'urgence qui nécessite l'intervention des services de secours
-- **centre anti-poison** : En cas d'intoxication. Que ce soit à cause d'une allergie inquiétante, d'une ingestion de produits ménagers ou d'une trop grande dose de médicaments
 
-- Pharmacie de la tour - 9 rue Du 8 Mai 1945 09100 La Tour Du Crieu (~10 km)
-- Pharmacie Dde Milliane - 68 Bd Alsace Lorraine 09100 Pamiers - 0561670182 (~13 km)
+| Service           | Numéro      | Pour...                                                                        |
+|-------------------|-------------|--------------------------------------------------------------------------------|
+| **Police**        | 17          | Intervention immédiate des forces de l'ordre                                   |
+| **Pompiers**      | 18          | Situation de péril, accident, secours rapide                                   |
+| **SAMU**          | 15          | Détresse vitale, urgence médicale, orientation vers les soins                  |
+| **SMS Urgence**   | 114         | Urgence par message (victime/témoin, accessible en cas de handicap)            |
+| **Centre anti-poison** | 05 61 77 74 47 | Intoxications, allergies graves, ingestion accidentelle                    |
+
+| Pharmacie                        | Adresse                                           | Tél.         | Distance   |
+|----------------------------------|--------------------------------------------------|--------------|------------|
+| **Pharmacie de la tour**         | 9 rue du 8 Mai 1945, 09100 La Tour du Crieu      |              | ~10 km     |
+| **Pharmacie Dde Milliane**       | 68 Bd Alsace Lorraine, 09100 Pamiers             | 05 61 67 01 82 | ~13 km   |
+
 
 **Comment signaler une urgence** :
 - Où vous trouvez-vous ? Indiquez le lieu le plus précisément possible pour permettre aux secours de vous trouver rapidement (ville, rue,
