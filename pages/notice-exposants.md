@@ -28,6 +28,26 @@ summary { font-weight: 600; cursor: pointer; }
 
 <p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
 
+<details open markdown="1">
+<summary>🎍 Avant tout</summary>
+Nous sommes ravies de vous rencontrer, absolument ravies
+
+Quelques informations :
+  - Cette année les bénévoles sont : Cyrille, Lionel, Louna et Guillaume (le jeudi puis intervenants)
+    - GRAND merci à elleux
+  - Didier et Ifa sont les adorables propriétaires du parc
+  - Cette année l'organisation a été régie par : Stéphane, Yalin et Manon
+
+Quelques demandes importantes :
+- il ne faut pas se garer sur le "parking visiteurs"
+  - parce que déjà comme ça, il ne pas contenir toutes les personnes visiteuses
+- quand le parc est ouvert : on vous demande de ne pas traverser l'esplanade centrale, mais passer sur le côté, par la rivière
+  - c'est important pour ne pas nuire à l'expérience des personnes visiteuses
+  - et pour que le parc puisse faire la billeterie correctement
+- on s'est engagé à ce que les chiens soient tenus en laisse (désolé pour eux)
+</details>
+
+
 <details markdown="1">
 <summary>🎒 Qu'est-ce que j'emmène ?</summary>
 
@@ -36,6 +56,7 @@ Ta Checklist :
 Le nécessaire :
 - ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) pour que l'on puisse gérer ton arrivée
 - ✔️ Thermos (grand volume si possible)
+- ✔️ Une vasque pour pouvoir nettoyer les bols de tes infusions
 - ✔️ Crème solaire, chapeau
 - ✔️ De quoi protéger tes pièces, tes thés du soleil ou de la pluie, humidité
 - ✔️ De quoi habiller le sol des espaces (coussins d'assises, tapis en jonc, sisal, etc.) rester dans des tons unis et nature
@@ -131,7 +152,7 @@ Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l�
 
 <details markdown="1">
 <summary>📍 Les emplacements</summary>
-Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+
 </details>
 
 <details markdown="1">
@@ -156,13 +177,16 @@ Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emp
 
 <details markdown="1">
 <summary>🚰 Eau</summary>
-Pour faire du thé il faut de l'eau
+Pour  l'eau de vos infusions :
 - Point d’eau chaude sous l'acacia au centre du village 
 - On essaye comme pour la seconde édition de proposer de l'eau de source
   - cueillie toute fraîche à Sengouagneich
 - Pour récupérer de l'eau chaude pour vos thés :
   - avec vos thermos au point : eau chaude
-  - avec un brasero
+  - il est possible d'utiliser un brasero (si vous en avez un)
+
+Pour l'eau fraiche pour s'hydrater ou laver vos bols :
+- L'eau peut-être récupérer près du parking exposants, là où on peut déposer des affaires
 
 </details>
 
