@@ -1,5 +1,5 @@
 ---
-title: "Notice exposants – Festival GongFuCha 2025"
+title: "Notice personnes exposantes"
 description: "Infos pratiques pour les personnes exposantes : météo, accès, emplacements, participation, repas, eau…"
 permalink: /2025/exposants/
 ---
@@ -16,8 +16,8 @@ summary { font-weight: 600; cursor: pointer; }
 </style>
 
 - les bols
-- la nocturne
-- les conférences, ateliers, performances
+- les conférences, ateliers, performances - Agenda
+- pour dormir
 
 
 <section class="section">
@@ -39,8 +39,8 @@ Prévision :
 | Samedi 28   | Ensoleillé  | 17 / 29      |
 | Dimanche 29 | Ensoleillé  | 18 / 30      |
  
-- <https://meteofrance.com/previsions-meteo-france/lapenne/09500>
-- <https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274>
+- [météo france](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
+- [météo blue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
 
 **En cas de pluie ?**
 Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l’accueil pour un thé chaud et des discussions en attendant l’accalmie. Les visiteurs seront naturellement moins nombreux.
@@ -71,28 +71,37 @@ Pour être confort :
 
 <details markdown="1">
 <summary>🚗 Comment venir</summary>
-
+- [Accès](https://parcauxbambous.com/#acces)
 - Adresse GPS : **Le Parc aux bambous, 09320 Massat**  
 - Coordonnées : 42.879 / 1.353  
 - **Covoiturage** : <https://covoit.net/gongfucha>  
-- **Parking exposant·e·s** : suivez la signalétique “Dépose matériel” puis garez-vous au parking communal (300 m).
+- **Parking des personnes exposantes** : suivez la signalétique “Dépose matériel” puis garez-vous au parking communal (300 m)
 
 </details>
 
 <details markdown="1">
 <summary>📍 Les emplacements</summary>
-
 Téléchargez le **plan PDF** mis à jour (lien en haut de votre stand). Les emplacements sont numérotés ; un bénévole vous accueille entre 7 h 30 et 9 h pour l’installation.
+</details>
 
+<details markdown="1">
+<summary>🌜 La Nocturne</summary>
+- [voir les informations](/2025/nocturne/)
+- une personne par espace est invitée à la Nocturne 
+- [billet](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
+- Nous proposons une présentation
 </details>
 
 <details markdown="1">
 <summary>💳 Participation – règlement</summary>
 
-- Forfait stand : **60 €** pour les deux jours  
-- Modes de paiement : virement avant le 24 juin (IBAN envoyé par mail) ou espèces/chèque à l’accueil  
-- Merci de régler **avant le samedi 28 juin, 12 h**.
-
+- Cette année la Participation au Frais est de **90 €** pour les trois jours  
+- Modes de paiement : 
+  - virement - IBAN BE50 9671 9604 2218
+  - espèces ou CB sur l'espace de Yalin - GongFuCha boutique
+  - CB envoi d'un email avec un lien de paiement
+- Merci de régler avant le samedi 28 juin, 12 h
+- Avez-vous besoin d'une facture ? (si oui, préciser les coordonnées)
 </details>
 
 <details markdown="1">
@@ -140,11 +149,17 @@ Pour faire les courses :
 <details markdown="1">
 <summary>👥 Réunions - points collaboratifs</summary>
 
-- Une réunion questions/réponses et informations partagées le jeudi à 18h45
+- jeudi à 18h45 :
+    - un point collaboratif : questions/réponses et partage d'informations
     - Lieu sous l'acacia - place du village
     - Durée : 40 minutes
 
-- Une rétrospective est programmée le dimanche matin à 10h (pile parce que c'est serré)
+- vendredi 18h45 :
+  - un atelier pour préparer les deux rites : GongFuCha et WuWo
+  - Lieu sous l'acacia - place du village
+  - Durée : 40 minutes
+
+- une rétrospective est programmée le dimanche matin à 10h (pile parce que c'est serré)
   - Lieu sous l'acacia - place du village
   - Durée : 1 heure
   - Déroulée :
