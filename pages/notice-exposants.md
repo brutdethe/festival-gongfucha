@@ -246,7 +246,8 @@ C’est l’occasion de partager ce qui vous tient à cœur :
 
 Idéalement, si tu proposes ce moment tous les jours (même à horaires variables), cela permet à chaque personne de vivre l’expérience, quel que soit son jour de visite. Bien sûr, tu restes libre du rythme qui te convient !
 
-> **Merci d’avance de jouer le jeu — chaque proposition nourrit la richesse et la beauté du festival.**
+> **Merci d’avance - chaque proposition nourrit la richesse et la beauté du festival.**
+Ce serait super de renseigner votre propositions dans ce [document](https://gongfucha.frama.space/s/6jpxmNKKrsjAyGr)
 
 </details>
 
