@@ -15,12 +15,6 @@ summary { font-weight: 600; cursor: pointer; }
 }
 </style>
 
-
-- les conférences, ateliers, performances - Agenda
-- pour dormir
-- Les émojis - les photos
-
-
 <section class="section">
   <div class="wrapper" markdown="1">
 
