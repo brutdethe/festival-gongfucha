@@ -40,10 +40,12 @@ Quelques repères humains :
   → Grand merci à elleux pour leur énergie !
 - **Les hôtes** du parc : Didier et Ifa, sans qui ce lieu vivant ne serait pas possible.
 - **L’organisation** : portée cette année par Stéphane, Yalin et Manon.
+- On attend entre 50 et 300 personnes par jour.
 
-Quelques points essentiels pour que le festival soit doux pour tou·te·s :
+Quelques points essentiels pour que le festival soit doux pour toutes les personnes :
 - idéalement arrive mercredi ou jeudi pour pouvoir t'installer correctement et avoir toute notre attention
 - Merci de bien prendre note des rendez-vous dans la rubrique : 👥 Horaires, réunions & temps collectifs.
+- **Bols pour les personnes visiteuses** : Cette année, pour soulager la charge des bénévoles, nous n'avons pas pris en charge de prêter un bol à chaque personne visiteuse.
 - **Parking** :  
   Ne pas se garer sur le parking visiteurs (il est déjà très limité pour le public).
 - **Circulation dans le parc** :  
@@ -80,6 +82,7 @@ Avant de partir, prends quelques minutes pour préparer ce qui t’aidera à viv
 - ✔️ Bouilloire
 - ✔️ Maillot de bain (il est possible de se baigner dans la rivière toute proche)
 - ✔️ Anti-moustiques (il y en a peu, mais qui sait !)
+- ✔️ un brasero, et son charbon pour chauffer ton eau à l'ancienne
 
 Prends aussi avec toi l’envie de partager, la curiosité et ta douceur intérieure.  
 À très bientôt au bord de l’eau, sous les bambous.
@@ -126,102 +129,172 @@ Merci d’anticiper un peu de temps pour ton installation, surtout vendredi.
 </details>
 
 <details markdown="1">
-<summary>📍 Est-ce que je peux prendre une douche ?</summary>
-- c'est au même endroit : Où puis-je déposer des affaires ?
-- au fond, à gauche, il y a une douche
+<summary>🚿 Est-ce que je peux prendre une douche ?</summary>
+- Oui, une douche est accessible au même endroit que la zone “Où déposer mes affaires ?”.
+- Au fond, à gauche de la cave (maison de Didier et Ifa), tu trouveras une douche simple.
 </details>
 
 <details markdown="1">
-<summary>🍽️ Comment je mange ?</summary>
+<summary>🍜 Comment je mange ?</summary>
 
-- [Repas midi](/2025/restauration) assurés par **Miki &amp; Fred** (option végane possible) — 17 € menu complet  
-- Possible de commander pour le soir également, dans la limite des portions disponibles
-- Réservez :
-  - directement à leur espace dans le parc à côté du centre du village - (près du grand acacia)
-  - en ligne : <https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/>  
+**Repas sur place**  
+- [Repas du midi](/2025/restauration) préparés par **Miki & Fred** (option végane possible) — 17 € le menu complet  
+- Il est possible de commander pour le soir (dans la limite des portions disponibles)
+- Réservation :
+  - Directement sur leur espace (près du grand acacia, au centre du village)
+  - Ou [en ligne](https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/)
 
-Pour faire les courses :
-- à 2 km - [La grange aux abeilles](https://www.pyreneescathares.com/offres/la-grange-aux-abeilles-lapenne-fr-4600560/)
-- à 7 km _ Les Pujols - Boulangerie et routier
-- à Pamiers (~13 km)
+**Faire des courses**  
+- À 2 km : [La grange aux abeilles](https://www.pyreneescathares.com/offres/la-grange-aux-abeilles-lapenne-fr-4600560/)
+- À 7 km : Les Pujols — boulangerie et routier
+- À Pamiers (~13 km) :
   - [SoBio](https://www.sobio.fr/magasin/so-bio-pamiers)
   - [BioCoop](https://www.biocooplesmyrtilles.com/presentation-horaires-itineraires-biocoop-les-myrtilles.html)
-  - Grandes surfaces et tout commerces
-- à Mirepoix (~20 km)  
+  - Grandes surfaces et commerces
+- À Mirepoix (~20 km) :
   - [Bio Monde](https://magasins.biomonde.fr/occitanie/ariege/mirepoix/biomonde-la-verte-doc-mirepoix-65)
-  - nombreux restaurants
-  - tout commerces
-
+  - Nombreux restaurants et commerces
 </details>
 
 <details markdown="1">
-<summary>🌦️ Et, la météo ?</summary>
+<summary>🌦️ La météo ?</summary>
 
-Prévision :
+**Prévisions à ce jour** :
 
-| Jour        | Conditions  | Min / Max °C |
-| ----------- | ----------- | ------------ |
-| Jeudi 26    | Peu nuageux | 19 / 28      |
-| Vendredi 27 | Ensoleillé  | 17 / 28      |
-| Samedi 28   | Ensoleillé  | 17 / 29      |
-| Dimanche 29 | Ensoleillé  | 18 / 30      |
- 
-- [météo france](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
-- [météo blue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
+| Jour        | Conditions   | Min / Max °C |
+| ----------- | ------------ | ------------ |
+| Jeudi 26    | Peu nuageux  | 19 / 28      |
+| Vendredi 27 | Ensoleillé   | 17 / 28      |
+| Samedi 28   | Ensoleillé   | 17 / 29      |
+| Dimanche 29 | Ensoleillé   | 18 / 30      |
 
-**En cas de pluie ?**
-Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l’accueil pour un thé chaud et des discussions en attendant l’accalmie. Les visiteurs seront naturellement moins nombreux.
+- [Météo France — Lapenne](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
+- [Meteoblue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
+
+**En cas de pluie**  
+Les espaces ne sont pas abrités : si la pluie s’invite, retrouvons-nous à l’accueil pour un thé chaud et des échanges. Les visiteurs seront naturellement moins nombreux.  
+En cas de forte chaleur, prévois casquette, gourde, crème solaire et vêtements légers.
+À contrario, il peut faire frais le soir.
 
 </details>
 
 <details markdown="1">
 <summary>📍 Comment je m'installe</summary>
 
+- Pourquoi venir le jeudi 26 juin ?
+La journée est dédiée à l’installation des espaces, on
+aimerait que ça soit un moment de rencontre entre toutes les personnes
+qui participent au festival. Si vous imaginez venir le vendredi il est
+possible que vous vous sentiez un peu seul dans votre installation
+
+Scénographie
+- Des espaces minimalistes, tables plutôt basses et/ou au sol, petit tabourets,zafu....
+- Des matières naturelles : bambou , bois et tissu blanc / écru.
+
+Ce qu'on aimerait éviter :
+- Des stands comme sur un marché - sur tréteaux,
+- barnum kakemonos et alignés les uns à côtés des autres
+- De grands panneaux publicitaires
+- Pas de couleur flashy
+
+Pour t'inspirer, tu peux prendre appuis sur les photos des précédentes éditions :
+=> https://photo.gongfucha.fr/
+
+Pour chaque espace on fournis trois belles planches et des rondins
+dit comme ça, ça fait bizarre non ;)
+
 </details>
 
 <details markdown="1">
 <summary>🌜 La Nocturne</summary>
-- [voir les informations](/2025/nocturne/)
-- une personne par espace est invitée à la Nocturne 
-- [billet](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
-- Nous proposons de vous présenter la nocturne vendredi soir à 18h45
+- [Toutes les infos sur la Nocturne](/2025/nocturne/)
+- Une personne par espace exposants est invitée à la Nocturne
+- Pour réserver d'autres billets : [Accès Nocturne](https://boutique.gongfucha.fr/products/tick7_billet-nocturne-festival/)
+- Présentation du déroulé : vendredi soir à 18h45, sous l’acacia
 </details>
 
 <details markdown="1">
-<summary>💳 Participation au Frais – règlement</summary>
-
-- Cette année la Participation au Frais est fixée à **90 €** pour les trois jours  
-- Modes de paiement : 
-  - virement - IBAN BE50 9671 9604 2218
-  - espèces ou CB sur l'espace de Yalin - GongFuCha boutique
-  - CB envoi d'un email avec un lien de paiement
-- Merci de régler avant le samedi 28 juin, 12 h
-- Avez-vous besoin d'une facture ? (si oui, préciser les coordonnées)
+<summary>💳 Participation aux frais — règlement</summary>
+- Cette année, la participation aux frais est fixée à **90 €** pour les trois jours
+- Modalités de règlement :
+  - Virement (IBAN : BE50 9671 9604 2218)
+  - Espèces ou CB à la boutique GongFuCha (Yalin)
+  - CB : envoi d’un lien de paiement par email, sur demande
+- Merci de régler avant le **samedi 28 juin à 12h**
+- Besoin d’une facture ? Précise simplement tes coordonnées par mail
 </details>
 
 <details markdown="1">
-<summary>🚰 Eau</summary>
-Pour  l'eau de vos infusions :
-- Point d’eau chaude sous l'acacia au centre du village 
-- On essaye comme pour la seconde édition de proposer de l'eau de source
-  - cueillie toute fraîche à Sengouagneich
-- Pour récupérer de l'eau chaude pour vos thés :
-  - avec vos thermos au point : eau chaude
-  - il est possible d'utiliser un brasero (si vous en avez un)
+<summary>💧 Eau</summary>
+**Pour tes infusions de thé :**
+- Point d’eau chaude sous l’acacia, au centre du village
+- Eau de source fraîche collectée à Sengouagneich (dans la limite des stocks, comme les éditions précédentes)
+- Tu peux aussi utiliser un brasero pour chauffer de l’eau (si tu en as un)
 
-Pour l'eau fraiche pour s'hydrater ou laver vos bols :
-- L'eau peut-être récupérer près du parking exposants, là où on peut déposer des affaires
+**Pour boire et rincer tes bols :**
+- Eau fraîche disponible près du parking exposants, là où tu peux déposer tes affaires
+- Et à l'accueil du parc
+</details>
+
+<details markdown="1">
+<summary>📐 Comment je m’installe ?</summary>
+
+**Pourquoi venir le jeudi 26 juin ?**  
+Cette journée est dédiée à l’installation et à la rencontre entre toutes les personnes exposantes. C’est le bon moment pour poser tes affaires en douceur, découvrir les lieux, échanger avec les autres et co-créer l’ambiance du festival.  
+Arriver vendredi risque de te faire manquer ce moment collectif, et tu pourrais te sentir un peu isolé·e au montage.
+
+**Scénographie souhaitée :**  
+- Espaces minimalistes, tables basses ou au sol, petits tabourets, zafus…
+- Privilégie les matières naturelles : bambou, bois, tissus blancs ou écrus.
+- Nous fournissons trois belles planches et quelques rondins pour chaque espace (oui, c’est spécial… mais efficace !).
+
+**Ce qu’on préfère éviter :**  
+- Les stands “type marché” (tréteaux, barnums alignés, kakemonos)
+- Les grands panneaux publicitaires ou supports agressifs
+- Les couleurs trop flashy
+
+**Pour t’inspirer**  
+Parcourez les photos des éditions précédentes :  
+👉 [galerie photos](https://photo.gongfucha.fr/)
+
+Merci d’incarner l’esprit GongFuCha dans ton espace : simplicité, matières nobles, beauté naturelle, attention à l’ambiance collective.
 
 </details>
 
 <details markdown="1">
-<summary>🚰 Thé</summary>
- - Pour les personnes exposantes, nous proposons :
-   - Sì Jì Chūn - (du nom du cultivar)
-   - première récolte : avril 2025
-   - lieu : Nantou
-   - Mme Lin Su Yan
-   - Prix : 10 euros - 50 grammes
+<summary>🎤 Un moment de focus pour chaque espace</summary>
+
+**Pour chaque espace, nous vous proposons d’offrir un “moment de focus” pendant le festival.**  
+C’est l’occasion de partager ce qui vous tient à cœur :  
+- atelier, démonstration, cérémonie, conférence, retour d’expérience ou simple moment d’échange…
+
+**Comment ça se passe ?**
+- Chaque jour, nous affichons un programme actualisé à l’accueil et en ligne, pour orienter les personnes visiteuses vers ton espace ou, si tu préfères, un lieu collectif dédié.
+- Tu choisis la forme, le contenu, et la durée (entre 20 min et 1h30 selon ce que tu souhaites).
+- Nous pouvons fournir quelques chaises, amener de l’eau chaude pour le thé ou aider à installer le petit matériel.
+- L’équipe du festival accompagne en douceur les visiteur·euse·s vers les animations, sans forcer, dans le respect du rythme de chacun·e.
+
+**Ce temps est précieux** : il permet aux personnes visiteuses de vivre une expérience singulière, de mieux te rencontrer, d’approfondir leur découverte du thé ou de la création. Beaucoup nous demandent ces rendez-vous : c’est un vrai cadeau pour elles… et souvent un beau moment de partage pour toi aussi.
+
+Idéalement, si tu proposes ce moment tous les jours (même à horaires variables), cela permet à chaque personne de vivre l’expérience, quel que soit son jour de visite. Bien sûr, tu restes libre du rythme qui te convient !
+
+> **Merci d’avance de jouer le jeu — chaque proposition nourrit la richesse et la beauté du festival.**
+
+</details>
+
+<details markdown="1">
+<summary>🍵 Thé à partager</summary>
+
+Pour les personnes exposantes, nous proposons à prix doux :
+
+- **Sì Jì Chūn** (cultivar 四季春 — “le printemps aux quatre saisons”)
+- Première récolte : avril 2025
+- Origine : Nantou (Taïwan)
+- Productrice : Mme Lin Su Yan
+- Tarif : 10 € les 50 g
+
+Un thé vivant, pour accompagner vos moments de pause ou vos dégustations avec les personnes visiteuses.
+
 </details>
 
 <details markdown="1">
