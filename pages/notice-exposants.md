@@ -37,7 +37,8 @@ Quelques repères humains :
 - On attend entre 50 et 300 personnes par jour.
 
 Quelques points essentiels pour que le festival soit doux pour toutes les personnes :
-- idéalement arrive mercredi ou jeudi pour pouvoir t'installer correctement et avoir toute notre attention
+- Idéalement arrive mercredi ou jeudi pour pouvoir t'installer correctement et avoir toute notre attention
+- C'est important de ne pas partir avant la fin du festival, nous avons eu quelques remarques les éditions précédentes.
 - Merci de bien prendre note des rendez-vous dans la rubrique : 👥 Horaires, réunions & temps collectifs.
 - **Bols pour les personnes visiteuses** : Cette année, pour soulager la charge des bénévoles, nous n'avons pas pris en charge de prêter un bol à chaque personne visiteuse.
 - **Parking** :  
@@ -99,7 +100,7 @@ Merci d’anticiper un peu de temps pour ton installation, surtout vendredi.
 <summary>🚗 Où je me gare ?</summary>
 - Note ton arrivée sur [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) pour que nous puissions t’accueillir au mieux.
 - **Parking visiteurs** : merci de ne pas l’utiliser, il est réservé au public.
-- **Parking exposantes** : Broques hameau, 09500 Lapenne.
+- **Parking exposantes** : Broques hameau, 09500 Lapenne - [ici, à côté de la maison de Didier et Ifa](https://www.openstreetmap.org/way/320530535#map=18/43.146086/1.730685)
   - Mercredi et jeudi, tu peux entrer jusqu'au parc pour décharger, puis gare ton véhicule sur le parking dédié.
 - Veille à ne pas bloquer l’accès à d’autres véhicules ni aux secours.
 </details>
