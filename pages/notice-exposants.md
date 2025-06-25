@@ -22,7 +22,7 @@ summary { font-weight: 600; cursor: pointer; }
 
 “Bienvenue à toi ! Cette page évoluera jusqu’au dernier moment, pense à la consulter avant de partir. Merci pour ta contribution au vivre-ensemble du festival.”
 
-<p class="update">Dernière mise à jour : 23&nbsp;juin&nbsp;2025, 13 h</p>
+<p class="update">Dernière mise à jour : 25&nbsp;juin&nbsp;2025, 7 h</p>
 
 <details markdown="1">
 <summary>🎍 Avant tout</summary>
@@ -66,6 +66,7 @@ Avant de partir, prends quelques minutes pour préparer ce qui t’aidera à viv
 - ✔️ Remplir [ce document](https://gongfucha.frama.space/s/HJs2GbXzk8LdtNH) avant le 26 juin (cela nous aide beaucoup pour t’accueillir)
 - ✔️ Thermos (grand format si possible)
 - ✔️ Une vasque ou un petit seau pour rincer les bols d’infusion
+- ✔️ Prévoir un fond de caisse
 - ✔️ Crème solaire (sauf si tu te baignes à la rivière), chapeau
 - ✔️ De quoi protéger tes pièces et tes thés du soleil, de la pluie ou de l’humidité
 - ✔️ Un tapis, coussins, jonc ou sisal pour habiller le sol de ton espace (merci de privilégier les matières naturelles et les tons unis)
@@ -158,10 +159,10 @@ Merci d’anticiper un peu de temps pour ton installation, surtout vendredi.
 
 | Jour        | Conditions   | Min / Max °C |
 | ----------- | ------------ | ------------ |
-| Jeudi 26    | Peu nuageux  | 19 / 28      |
-| Vendredi 27 | Ensoleillé   | 17 / 28      |
-| Samedi 28   | Ensoleillé   | 17 / 29      |
-| Dimanche 29 | Ensoleillé   | 18 / 30      |
+| Jeudi 26    | Peu nuageux  | 19 / 27      |
+| Vendredi 27 | Ensoleillé   | 18 / 29      |
+| Samedi 28   | Ensoleillé   | 17 / 33      |
+| Dimanche 29 | Ensoleillé   | 19 / 32      |
 
 - [Météo France — Lapenne](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
 - [Meteoblue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
@@ -190,6 +191,22 @@ En cas de forte chaleur, prévois casquette, gourde, crème solaire et vêtement
   - CB : envoi d’un lien de paiement par email, sur demande
 - Merci de régler avant le **samedi 28 juin à 12h**
 - Besoin d’une facture ? Précise simplement tes coordonnées par mail
+</details>
+
+<details markdown="1">
+<summary>💳 Paiements CB (pour les personnes exposantes sans terminal)</summary>
+
+Si tu n’as pas de terminal CB et qu’une personne souhaite acheter chez toi par carte bancaire, on peut t’aider à finaliser la vente.
+
+**Comment procéder :**
+- Note sur le ticket de la personne visiteuse : l’objet acheté et son prix.
+- La personne règle le montant auprès de **Louna** (au bar à thé) ou **Yalin** (boutique GongFuCha), qui encaisse par CB.
+- Nous apposons un sceau sur le ticket pour indiquer que le règlement a bien été effectué.
+- Plus tard, tu nous transmets l’ensemble de tes ventes CB : tu fais une facture globale à “Brut de Thé”, qui te rembourse le montant, **moins 2,5 % de frais** (frais du terminal).
+
+**Alternative**  
+Tu peux aussi, si tu préfères, proposer un paiement par virement en communiquant ton IBAN à la personne (astuce partagée par Manon ! 😉).
+
 </details>
 
 <details markdown="1">
@@ -227,6 +244,27 @@ Parcourez les photos des éditions précédentes :
 
 Merci d’incarner l’esprit GongFuCha dans ton espace : simplicité, matières nobles, beauté naturelle, attention à l’ambiance collective.
 
+</details>
+
+<details markdown="1">
+<summary>🌙 Dois-je tout remballer le soir&nbsp;?</summary>
+
+Tu peux laisser ton stand en place pour la nuit, il n’est pas nécessaire de tout remballer entre deux journées.  
+**Attention cependant :**
+- En cas de pluie annoncée, il est préférable de protéger ou de rentrer ce qui craint l’humidité.
+- Il peut y avoir de la rosée le matin : pense à recouvrir ou surélever les objets fragiles, textiles et céramiques.
+
+Le parc est fermé au public la nuit, mais il n'y a pas de surveillance.
+</details>
+
+<details markdown="1">
+<summary>🤝 S’absenter de son stand&nbsp;: comment faire&nbsp;?</summary>
+
+Il n’est pas prévu de système de remplacement pour surveiller ton stand pendant une pause repas ou un passage aux toilettes.
+
+Mais tu ne seras jamais bien loin d’une autre personne exposante :  
+- Il est tout à fait possible de demander à une personne voisine de jeter un œil à ton espace le temps de ta courte absence.
+- Astuce : tu peux aussi t’associer à une autre personne exposante pour créer un espace commun ou “double stand”, et ainsi mieux vous relayer.
 </details>
 
 <details markdown="1">
