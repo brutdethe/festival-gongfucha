@@ -22,7 +22,7 @@ summary { font-weight: 600; cursor: pointer; }
 
 “Bienvenue à toi ! Cette page évoluera jusqu’au dernier moment, pense à la consulter avant de partir. Merci pour ta contribution au vivre-ensemble du festival.”
 
-<p class="update">Dernière mise à jour : 25&nbsp;juin&nbsp;2025, 7 h</p>
+<p class="update">Dernière mise à jour : 26&nbsp;juin&nbsp;2025, 7 h</p>
 
 <details markdown="1">
 <summary>🎍 Avant tout</summary>
@@ -161,8 +161,8 @@ Merci d’anticiper un peu de temps pour ton installation, surtout vendredi.
 | ----------- | ------------ | ------------ |
 | Jeudi 26    | Peu nuageux  | 19 / 27      |
 | Vendredi 27 | Ensoleillé   | 18 / 29      |
-| Samedi 28   | Ensoleillé   | 17 / 33      |
-| Dimanche 29 | Ensoleillé   | 19 / 32      |
+| Samedi 28   | Ensoleillé   | 17 / 31      |
+| Dimanche 29 | Ensoleillé   | 18 / 33      |
 
 - [Météo France — Lapenne](https://meteofrance.com/previsions-meteo-france/lapenne/09500)
 - [Meteoblue](https://www.meteoblue.com/fr/meteo/semaine/la-bastide-de-lordat_france_3011274)
