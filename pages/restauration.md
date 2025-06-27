@@ -25,15 +25,6 @@ Liste des allergènes :
 - Sésame
 - Soja
 
-📍 Le menu est à régler à l’entrée ou à réserver en ligne sur le site du festival (c’est plus sûr 😉).
-
-
-<p class="text-center">
-  <a class="button" data-text="réserver votre repas" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre repas" target="_blank">
-    <span class="button-inner">réserver votre repas</span>
-  </a>
-</p>
-
 ## Aux sources du vivant
 
 Entre Chine, Corée et Japon, l’art culinaire puise depuis des millénaires dans les fermentations et les herbes du vivant. Les sauces de soja, le miso ou le kimchi sont nés de ces « recettes finement élaborées qui fermentent les ingrédients crus avec levures, moisissures et bactéries pour créer des saveurs merveilleuses ».  
@@ -54,12 +45,6 @@ Dans un monde d’aliments standardisés, Miki et Frédérique revendiquent une 
 
 ## Le terroir en héritage
 Ces créations puisent dans le paysage voisin : le Couserans et l’Ariège ne sont pas en reste de trésors paysans. Châtaignes, miels, fougères et herbes de cueillette composent la toile de fond de leur cuisine. Miki et Frédérique célèbrent par exemple la châtaigne – jadis surnommée « l’arbre à pain » des vallées ariégeoises en la réinventant. Fleurs comestibles, orties, pissenlits et légumes oubliés rencontrent les épices d’Extrême-Orient dans une alchimie locale et solidaire, honorant la biodiversité locale. Leur cuisine est ainsi enracinée dans la montagne et le vivant, sans artifice, simplement habitée par la générosité de la saison.
-
-<p class="text-center">
-  <a class="button" data-text="réserver votre place" href="https://boutique.gongfucha.fr/products/tick6_ticket-assiette-et-dessert-miki-and-fred/" title="réserver votre repas" target="_blank">
-    <span class="button-inner">réserver votre repas</span>
-  </a>
-</p>
 
   </div>
 </section>
